@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=comments-rss2&#038;lang=Xh" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org?lang=Xh</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Wed, 08 Apr 2020 11:39:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Comment on Mathematics or dreams, which is more real? Izibalo okanye amaphupha, yeyiphi eyona iyinyani? by Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=13459&#038;lang=Xh#comment-1580</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Thu, 08 Jun 2017 10:13:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13459&#038;lang=Xh#comment-1580</guid>
+		<description><![CDATA[Fantastic, thank you Portia!]]></description>
+		<content:encoded><![CDATA[<p>Fantastic, thank you Portia!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

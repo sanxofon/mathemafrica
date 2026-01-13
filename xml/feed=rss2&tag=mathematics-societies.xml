@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mathematics societies &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=mathematics-societies" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Mathematics societies in Africa &#8211; very little information on wikipedia</title>
+		<link>http://www.mathemafrica.org/?p=10690</link>
+		<comments>http://www.mathemafrica.org/?p=10690#comments</comments>
+		<pubDate>Fri, 12 Jun 2015 09:22:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Background]]></category>
+		<category><![CDATA[Mathematics societies]]></category>
+		<category><![CDATA[Wikipedia]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10690</guid>
+		<description><![CDATA[<p>If you go to the Wikipedia page for the list of <a href="https://en.wikipedia.org/wiki/List_of_mathematical_societies">mathematics societies</a>, you will see that very few societies within Africa are shown. A very quick Google search shows that many countries do indeed have their own mathematics society, so it would be great to try and find out which ones are active. If you know of an active society for a country which is not in the list (currently only South Africa and Gabon are listed as far as I can see), then please write it in the comments, we can collate them, and upon contacting them and asking whether they want to be listed on the wikipedia page, we can put in their details. Please spread the word and let&#8217;s see if we can get a few more societies highlighted.</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-106910"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>If you go to the Wikipedia page for the list of <a href="https://en.wikipedia.org/wiki/List_of_mathematical_societies">mathematics societies</a>, you will see that very few societies within Africa are shown. A very quick Google search shows that many countries do indeed have their own mathematics society, so it would be great to try and find out which ones are active. If you know of an active society for a country which is not in the list (currently only South Africa and Gabon are listed as far as I can see), then please write it in the comments, we can collate them, and upon contacting them and asking whether they want to be listed on the wikipedia page, we can put in their details. Please spread the word and let&#8217;s see if we can get a few more societies highlighted.</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-106910"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10690</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

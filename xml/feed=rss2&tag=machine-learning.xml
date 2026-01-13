@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>machine learning &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=machine-learning" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>The Objective Function</title>
+		<link>http://www.mathemafrica.org/?p=15998</link>
+		<comments>http://www.mathemafrica.org/?p=15998#respond</comments>
+		<pubDate>Thu, 20 Feb 2020 18:25:49 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[modelling]]></category>
+		<category><![CDATA[optimisation]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15998</guid>
+		<description><![CDATA[<p>In both Supervised and Unsupervised machine learning, most algorithms are centered around minimising (or, equivalently) maximising some objective function. This function is supposed to somehow represent what the model knows/can get right. Normally, as one would expect, the objective function does not always reflect exactly what we want.</p>
+<p>The objective function presents 2 main problems: 1. how do we minimise it (the answer to this is up for debate and there is lots of interesting research about efficient optimisation of non-convex functions and 2) assuming we can minimise it perfectly, is it the correct thing to be minimising?</p>
+<p>It is point 2 which is the focus of this post.</p>
+<p>Let&#8217;s take the example of square-loss-linear-regression.<em> </em>To do so we train a linear regression model with a square loss <img src="//s0.wp.com/latex.php?latex=%5Cmathcal%7BL%7D%28%5Cmathbf%7Bw%7D%29%3D%5Csum_i+%28y_i+-+%5Cmathbf%7Bw%7D%5ETx_i%29%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" title="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" class="latex" />. (Where we are taking the inner product of learned weights with a vector of features for each observation to predict the outcome).&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In both Supervised and Unsupervised machine learning, most algorithms are centered around minimising (or, equivalently) maximising some objective function. This function is supposed to somehow represent what the model knows/can get right. Normally, as one would expect, the objective function does not always reflect exactly what we want.</p>
+<p>The objective function presents 2 main problems: 1. how do we minimise it (the answer to this is up for debate and there is lots of interesting research about efficient optimisation of non-convex functions and 2) assuming we can minimise it perfectly, is it the correct thing to be minimising?</p>
+<p>It is point 2 which is the focus of this post.</p>
+<p>Let&#8217;s take the example of square-loss-linear-regression.<em> </em>To do so we train a linear regression model with a square loss <img src="//s0.wp.com/latex.php?latex=%5Cmathcal%7BL%7D%28%5Cmathbf%7Bw%7D%29%3D%5Csum_i+%28y_i+-+%5Cmathbf%7Bw%7D%5ETx_i%29%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" title="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" class="latex" />. (Where we are taking the inner product of learned weights with a vector of features for each observation to predict the outcome).&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15998</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Wisdom of the Crowds</title>
+		<link>http://www.mathemafrica.org/?p=15958</link>
+		<comments>http://www.mathemafrica.org/?p=15958#respond</comments>
+		<pubDate>Fri, 15 Nov 2019 16:56:51 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[supervised learning]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15958</guid>
+		<description><![CDATA[<p><em>This content comes primarily from the notes of Mark Herbster (contributed to by Massi Pontil and John Shawe-Taylor) of University College </em><i>London.</i></p>
+<p><strong>Introduction</strong></p>
+<p>The Wisdom of the Crowds, or majority rule and related ideas tend to come up pretty often. Democracy is based (partly) on the majority of people being able to make the correct decision, often you might make decisions in a group of friends based on what the most people want, and it is logical to take into account popular opinion when reasoning on issues where you have imperfect information. On the other hand, of course, there is the <em>Argumentum ad Populum </em>fallacy which states that a popular belief isn&#8217;t necessarily true.</p>
+<p>This is idea appears also in Applied Machine Learning &#8211; ensemble methods such as Random Forests, Gradient Boosted Models (especially XGBoost) and stacking of Neural Networks have resulted in overall more powerful models. This is especially notable in Kaggle competitions, where it is almost always an ensemble model (combination of models) that achieves the best score.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>This content comes primarily from the notes of Mark Herbster (contributed to by Massi Pontil and John Shawe-Taylor) of University College </em><i>London.</i></p>
+<p><strong>Introduction</strong></p>
+<p>The Wisdom of the Crowds, or majority rule and related ideas tend to come up pretty often. Democracy is based (partly) on the majority of people being able to make the correct decision, often you might make decisions in a group of friends based on what the most people want, and it is logical to take into account popular opinion when reasoning on issues where you have imperfect information. On the other hand, of course, there is the <em>Argumentum ad Populum </em>fallacy which states that a popular belief isn&#8217;t necessarily true.</p>
+<p>This is idea appears also in Applied Machine Learning &#8211; ensemble methods such as Random Forests, Gradient Boosted Models (especially XGBoost) and stacking of Neural Networks have resulted in overall more powerful models. This is especially notable in Kaggle competitions, where it is almost always an ensemble model (combination of models) that achieves the best score.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15958</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatic Differentiation</title>
+		<link>http://www.mathemafrica.org/?p=15808</link>
+		<comments>http://www.mathemafrica.org/?p=15808#respond</comments>
+		<pubDate>Wed, 23 Oct 2019 16:50:12 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[autodiff]]></category>
+		<category><![CDATA[machine learning]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15808</guid>
+		<description><![CDATA[<p><em>Much of this content is based on lecture slides from slides from Professor David Barber at University College London: resources relating to this can be found at: www.cs.ucl.ac.uk/staff/D.Barber/brml</em></p>
+<p><strong>What is Autodiff?</strong></p>
+<p>Autodiff, or Automatic Differentiation, is a method of determining the exact derivative of a function with respect to its inputs. It is widely used in machine learning- in this post I will give an overview of what autodiff is and why it is a useful tool.</p>
+<p>The above is not a very helpful definition, so we can compare autodiff first to <em>symbolic differentiation</em> and <em>numerical approximations </em>before going into how it works.</p>
+<p>Symbolic differentiation is what we do when we calculate derivatives when we do it by hand, i.e. given a function <img src="//s0.wp.com/latex.php?latex=f&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f" title="f" class="latex" />, we find a new function <img src="//s0.wp.com/latex.php?latex=f%27&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f&#039;" title="f&#039;" class="latex" />. This is really good when we want to know how functions behave across all inputs. For example if we had <img src="//s0.wp.com/latex.php?latex=f%28x%29+%3D+x%5E2+%2B+3x+%2B+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x) = x^2 + 3x + 1" title="f(x) = x^2 + 3x + 1" class="latex" /> we can find the derivative as <img src="//s0.wp.com/latex.php?latex=f%27%28x%29+%3D+2x+%2B+3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f&#039;(x) = 2x + 3" title="f&#039;(x) = 2x + 3" class="latex" /> and then we can find the derivative of the function for all values of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>Much of this content is based on lecture slides from slides from Professor David Barber at University College London: resources relating to this can be found at: www.cs.ucl.ac.uk/staff/D.Barber/brml</em></p>
+<p><strong>What is Autodiff?</strong></p>
+<p>Autodiff, or Automatic Differentiation, is a method of determining the exact derivative of a function with respect to its inputs. It is widely used in machine learning- in this post I will give an overview of what autodiff is and why it is a useful tool.</p>
+<p>The above is not a very helpful definition, so we can compare autodiff first to <em>symbolic differentiation</em> and <em>numerical approximations </em>before going into how it works.</p>
+<p>Symbolic differentiation is what we do when we calculate derivatives when we do it by hand, i.e. given a function <img src="//s0.wp.com/latex.php?latex=f&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f" title="f" class="latex" />, we find a new function <img src="//s0.wp.com/latex.php?latex=f%27&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f&#039;" title="f&#039;" class="latex" />. This is really good when we want to know how functions behave across all inputs. For example if we had <img src="//s0.wp.com/latex.php?latex=f%28x%29+%3D+x%5E2+%2B+3x+%2B+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x) = x^2 + 3x + 1" title="f(x) = x^2 + 3x + 1" class="latex" /> we can find the derivative as <img src="//s0.wp.com/latex.php?latex=f%27%28x%29+%3D+2x+%2B+3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f&#039;(x) = 2x + 3" title="f&#039;(x) = 2x + 3" class="latex" /> and then we can find the derivative of the function for all values of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15808</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>K-means: Intuitions, Maths and Percy Tau</title>
+		<link>http://www.mathemafrica.org/?p=15781</link>
+		<comments>http://www.mathemafrica.org/?p=15781#respond</comments>
+		<pubDate>Sat, 07 Sep 2019 20:21:23 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Clustering]]></category>
+		<category><![CDATA[machine learning]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15781</guid>
+		<description><![CDATA[<p><em>Much of this content is based on lecture slides from slides from Professor David Barber at University College London: resources relating to this can be found at: www.cs.ucl.ac.uk/staff/D.Barber/brml</em></p>
+<p><strong>The K-means algorithm</strong></p>
+<p>The K-means algorithm is one of the simplest unsupervised learning* algorithms. The aim of the K-means algorithm is, given a set of observations <img src="//s0.wp.com/latex.php?latex=%5Cmathbf%7Bx%7D_1%2C%C2%A0%5Cmathbf%7Bx%7D_2%2C+%5Cdots%C2%A0%5Cmathbf%7Bx%7D_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathbf{x}_1, &#92;mathbf{x}_2, &#92;dots &#92;mathbf{x}_n" title="&#92;mathbf{x}_1, &#92;mathbf{x}_2, &#92;dots &#92;mathbf{x}_n" class="latex" />, to group these observations into K different groups in the best way possible (&#8216;best way&#8217; here refers to minimising a loss/cost/objective function).</p>
+<p>This is a <i>clustering </i>algorithm, where we want to assign each observation to a group that has other similar observations in it. This could be useful, for example, to split Facebook users into groups that will each be shown a different advertisement.</p>
+<p>* unsupervised learning is performed on data without labels, i.e. we have a group of data points <img src="//s0.wp.com/latex.php?latex=x_1%2C+%5Cdots%2C+x_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1, &#92;dots, x_n" title="x_1, &#92;dots, x_n" class="latex" /> (scalar or vector) and we want to find something out about how this data is structured.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>Much of this content is based on lecture slides from slides from Professor David Barber at University College London: resources relating to this can be found at: www.cs.ucl.ac.uk/staff/D.Barber/brml</em></p>
+<p><strong>The K-means algorithm</strong></p>
+<p>The K-means algorithm is one of the simplest unsupervised learning* algorithms. The aim of the K-means algorithm is, given a set of observations <img src="//s0.wp.com/latex.php?latex=%5Cmathbf%7Bx%7D_1%2C%C2%A0%5Cmathbf%7Bx%7D_2%2C+%5Cdots%C2%A0%5Cmathbf%7Bx%7D_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathbf{x}_1, &#92;mathbf{x}_2, &#92;dots &#92;mathbf{x}_n" title="&#92;mathbf{x}_1, &#92;mathbf{x}_2, &#92;dots &#92;mathbf{x}_n" class="latex" />, to group these observations into K different groups in the best way possible (&#8216;best way&#8217; here refers to minimising a loss/cost/objective function).</p>
+<p>This is a <i>clustering </i>algorithm, where we want to assign each observation to a group that has other similar observations in it. This could be useful, for example, to split Facebook users into groups that will each be shown a different advertisement.</p>
+<p>* unsupervised learning is performed on data without labels, i.e. we have a group of data points <img src="//s0.wp.com/latex.php?latex=x_1%2C+%5Cdots%2C+x_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1, &#92;dots, x_n" title="x_1, &#92;dots, x_n" class="latex" /> (scalar or vector) and we want to find something out about how this data is structured.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15781</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Use your machine learning powers to solve the stock market on numer.ai</title>
+		<link>http://www.mathemafrica.org/?p=12049</link>
+		<comments>http://www.mathemafrica.org/?p=12049#comments</comments>
+		<pubDate>Thu, 10 Dec 2015 14:56:31 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[homomorphic encryption]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[numer.ai]]></category>
+		<category><![CDATA[stock market]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12049</guid>
+		<description><![CDATA[<p>Home-grown South African mathematics, statistics and computer science have come together to give us <a href="http://www.numer.ai">numer.ai</a>, founded by Richard Craib. This site which has come up with a seemingly brilliant idea, allowing anyone free access to otherwise very expensive data, but in such an encrypted form that you don&#8217;t know what the data means, but its patterns are preserved. This data is stock market data which you can use to make predictions. The predictions on their own don&#8217;t mean anything, so you send these predictions back to numer.ai, and they can apply it to the unencrypted data and make purchases on the stock market based on the most accurate models on their test data.</p>
+<p>It&#8217;s simple but brilliant. They give you something very expensive for free, and you give them something very valuable for free. The brightest minds in machine learning can then potentially earn big money which would be impossible if it weren&#8217;t for the beauty of <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">homomorphic encryption</a>.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Home-grown South African mathematics, statistics and computer science have come together to give us <a href="http://www.numer.ai">numer.ai</a>, founded by Richard Craib. This site which has come up with a seemingly brilliant idea, allowing anyone free access to otherwise very expensive data, but in such an encrypted form that you don&#8217;t know what the data means, but its patterns are preserved. This data is stock market data which you can use to make predictions. The predictions on their own don&#8217;t mean anything, so you send these predictions back to numer.ai, and they can apply it to the unencrypted data and make purchases on the stock market based on the most accurate models on their test data.</p>
+<p>It&#8217;s simple but brilliant. They give you something very expensive for free, and you give them something very valuable for free. The brightest minds in machine learning can then potentially earn big money which would be impossible if it weren&#8217;t for the beauty of <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">homomorphic encryption</a>.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12049</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Lecture 1: Ways to represent a function.</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=12185" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=12185</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 01 Aug 2016 17:30:49 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=12185#comment-1055</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2016 20:57:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12185#comment-1055</guid>
+		<description><![CDATA[This is great!! Keep up the good work :-)]]></description>
+		<content:encoded><![CDATA[<p>This is great!! Keep up the good work <img src="http://www.mathemafrica.org/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

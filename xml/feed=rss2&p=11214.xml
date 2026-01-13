@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 22 &#8211; Wednesday 19th of August</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11214" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11214</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Tue, 31 May 2016 09:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11214#comment-414</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2015 11:04:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11214#comment-414</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 22 &#8211; Taylor polynomials continued [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 22 &#8211; Taylor polynomials continued [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11214#comment-306</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2015 13:52:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11214#comment-306</guid>
+		<description><![CDATA[Spot on, thank you! I&#039;ve just corrected this.]]></description>
+		<content:encoded><![CDATA[<p>Spot on, thank you! I&#8217;ve just corrected this.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Larnelle Garnie</title>
+		<link>http://www.mathemafrica.org/?p=11214#comment-305</link>
+		<dc:creator><![CDATA[Larnelle Garnie]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2015 12:45:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11214#comment-305</guid>
+		<description><![CDATA[There is a mistake in the limit question with ln(1+x)... In the first part you had (ln(1+x)-x+(x^2)/2)/x^2... Then you changed the (x^2)/2 to x^2 and back again... Also.. the answer to (ln(1+x)-x+(x^2)/2)/x^2 is not 1/2 it is 0.
+
+Larnelle
+GRNLAR008]]></description>
+		<content:encoded><![CDATA[<p>There is a mistake in the limit question with ln(1+x)&#8230; In the first part you had (ln(1+x)-x+(x^2)/2)/x^2&#8230; Then you changed the (x^2)/2 to x^2 and back again&#8230; Also.. the answer to (ln(1+x)-x+(x^2)/2)/x^2 is not 1/2 it is 0.</p>
+<p>Larnelle<br />
+GRNLAR008</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

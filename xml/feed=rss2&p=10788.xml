@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes 1 (part iii) – integration by parts</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=10788" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=10788</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sun, 05 Jan 2020 21:21:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=10788#comment-1500</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Tue, 19 Jul 2016 06:47:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10788#comment-1500</guid>
+		<description><![CDATA[Hi Jess, that&#039;s the plan :-)]]></description>
+		<content:encoded><![CDATA[<p>Hi Jess, that&#8217;s the plan <img src="http://www.mathemafrica.org/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jess Bourn</title>
+		<link>http://www.mathemafrica.org/?p=10788#comment-1499</link>
+		<dc:creator><![CDATA[Jess Bourn]]></dc:creator>
+		<pubDate>Tue, 19 Jul 2016 06:43:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10788#comment-1499</guid>
+		<description><![CDATA[This is so useful and really well explained. It&#039;s very helpful to be able to see these Mathemafrica posts before coming to the lectures as it makes the lecture so much easier to follow. Would it be possible to make these pre-lecture posts a regular thing? Even if not for all lectures, just the ones that you think might be the harder ones to follow? It makes learning a lot easier!]]></description>
+		<content:encoded><![CDATA[<p>This is so useful and really well explained. It&#8217;s very helpful to be able to see these Mathemafrica posts before coming to the lectures as it makes the lecture so much easier to follow. Would it be possible to make these pre-lecture posts a regular thing? Even if not for all lectures, just the ones that you think might be the harder ones to follow? It makes learning a lot easier!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=10788#comment-424</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2015 10:27:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10788#comment-424</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 1, part iii &#8211; Integration by parts [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 1, part iii &#8211; Integration by parts [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=10788#comment-248</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2015 07:31:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10788#comment-248</guid>
+		<description><![CDATA[Hi Mackk, do you want to pop by during office hours and we can talk through this example. You certainly should be getting the same answer...
+
+All the best,
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Hi Mackk, do you want to pop by during office hours and we can talk through this example. You certainly should be getting the same answer&#8230;</p>
+<p>All the best,</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: mackk</title>
+		<link>http://www.mathemafrica.org/?p=10788#comment-247</link>
+		<dc:creator><![CDATA[mackk]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2015 07:10:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10788#comment-247</guid>
+		<description><![CDATA[Jon i get 1/2x^2lnx-1/2x^2 if i swap u and dv]]></description>
+		<content:encoded><![CDATA[<p>Jon i get 1/2x^2lnx-1/2x^2 if i swap u and dv</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

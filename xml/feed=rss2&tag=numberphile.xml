@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Numberphile &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=numberphile" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>What&#8217;s the shortest known Normal Number?</title>
+		<link>http://www.mathemafrica.org/?p=15812</link>
+		<comments>http://www.mathemafrica.org/?p=15812#respond</comments>
+		<pubDate>Fri, 06 Sep 2019 15:54:07 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Normal Number]]></category>
+		<category><![CDATA[Numberphile]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15812</guid>
+		<description><![CDATA[<p>Well, the answer is that it has to be infinitely long, but the question is what is the most compact form of a Normal Number possible.</p>
+<p>I was motivated to look into this from a lovely Numberphile video about all the real numbers.</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/5TkIe60y2GI?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>&#160;</p>
+<p>Normal numbers in base 10 are those for which, in the base 10 decimal expansion, you can find every natural number.</p>
+<p>Champernowne’s number is a very simple example of this where it is simply written as:</p>
+<p style="text-align: center;">0.12345678910111213&#8230;etc.</p>
+<p>I thought that it might be interesting to see if one could write a more compact Normal Number, but using a similar procedure to Champernowne. I haven’t seen this done anywhere else. For example, in the above expression, you don’t need to include the 12 explicitly as it’s already there at the beginning. You could write</p>
+<p style="text-align: center;">0.12345678910113</p>
+<p>So you skip the 12, and also 11 and 13 becomes 113. We will do all of this just with the list of digits, rather than the number in base 10.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Well, the answer is that it has to be infinitely long, but the question is what is the most compact form of a Normal Number possible.</p>
+<p>I was motivated to look into this from a lovely Numberphile video about all the real numbers.</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/5TkIe60y2GI?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>&nbsp;</p>
+<p>Normal numbers in base 10 are those for which, in the base 10 decimal expansion, you can find every natural number.</p>
+<p>Champernowne’s number is a very simple example of this where it is simply written as:</p>
+<p style="text-align: center;">0.12345678910111213&#8230;etc.</p>
+<p>I thought that it might be interesting to see if one could write a more compact Normal Number, but using a similar procedure to Champernowne. I haven’t seen this done anywhere else. For example, in the above expression, you don’t need to include the 12 explicitly as it’s already there at the beginning. You could write</p>
+<p style="text-align: center;">0.12345678910113</p>
+<p>So you skip the 12, and also 11 and 13 becomes 113. We will do all of this just with the list of digits, rather than the number in base 10.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15812</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Recamán sequence</title>
+		<link>http://www.mathemafrica.org/?p=14624</link>
+		<comments>http://www.mathemafrica.org/?p=14624#respond</comments>
+		<pubDate>Thu, 14 Jun 2018 15:47:53 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Numberphile]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=14624</guid>
+		<description><![CDATA[<p>In case you have watched the following video about the Recamán sequence.</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/FGC5TdIiT9U?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>and want to play around with it in Mathematica. Here is my code for doing so:</p>
+<blockquote><p>nums = {0};</p></blockquote>
+<blockquote><p>For[i = 1, i &#60; 66, i++,<br />
+If[nums[[-1]] &#8211; i &#62; 0 &#38;&#38; Position[nums, nums[[-1]] &#8211; i] === {}, nums = Append[nums, nums[[-1]] &#8211; i],<br />
+nums = Append[nums, nums[[-1]] + i]]<br />
+]</p></blockquote>
+<blockquote><p>{{#[[1]], 0}, #[[2]]} &#38; /@ Partition[Riffle[Mean[#] &#38; /@ Partition[Riffle[nums, nums[[2 ;;]]], 2],<br />
+Abs[Differences[nums]]/2], 2];</p></blockquote>
+<blockquote><p>Show[Show[<br />
+Table[Graphics[Circle[%[[i, 1]], %[[i, 2]], {(i) \[Pi], (i + 1) \[Pi]}]], {i, Length[%]}], ImageSize -&#62; 1000], Plot[0, {x, 0, 91}],<br />
+Axes -&#62; True]</p></blockquote>
+<p>(You may have to copy this by hand rather than copy/paste.)</p>
+<p>This produces the following rather beautiful graphic (and answers the question posed in the video):</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg" rel="attachment wp-att-14625"><img class="aligncenter size-full wp-image-14625" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=1100%2C640" alt="Recaman" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=200%2C116 200w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=300%2C175 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=400%2C233 400w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=600%2C349 600w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=768%2C447 768w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=800%2C466 800w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=1024%2C596 1024w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=1200%2C698 1200w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?fit=2777%2C1616 2777w" sizes="(max-width: 2777px) 100vw, 2777px" data-recalc-dims="1" /></a>Evidence away my dear Watson&#8230;evidence away.</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-146250" data-img="http://www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>In case you have watched the following video about the Recamán sequence.</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/FGC5TdIiT9U?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>and want to play around with it in Mathematica. Here is my code for doing so:</p>
+<blockquote><p>nums = {0};</p></blockquote>
+<blockquote><p>For[i = 1, i &lt; 66, i++,<br />
+If[nums[[-1]] &#8211; i &gt; 0 &amp;&amp; Position[nums, nums[[-1]] &#8211; i] === {}, nums = Append[nums, nums[[-1]] &#8211; i],<br />
+nums = Append[nums, nums[[-1]] + i]]<br />
+]</p></blockquote>
+<blockquote><p>{{#[[1]], 0}, #[[2]]} &amp; /@ Partition[Riffle[Mean[#] &amp; /@ Partition[Riffle[nums, nums[[2 ;;]]], 2],<br />
+Abs[Differences[nums]]/2], 2];</p></blockquote>
+<blockquote><p>Show[Show[<br />
+Table[Graphics[Circle[%[[i, 1]], %[[i, 2]], {(i) \[Pi], (i + 1) \[Pi]}]], {i, Length[%]}], ImageSize -&gt; 1000], Plot[0, {x, 0, 91}],<br />
+Axes -&gt; True]</p></blockquote>
+<p>(You may have to copy this by hand rather than copy/paste.)</p>
+<p>This produces the following rather beautiful graphic (and answers the question posed in the video):</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg" rel="attachment wp-att-14625"><img class="aligncenter size-full wp-image-14625" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=1100%2C640" alt="Recaman" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=200%2C116 200w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=300%2C175 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=400%2C233 400w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=600%2C349 600w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=768%2C447 768w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=800%2C466 800w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=1024%2C596 1024w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?resize=1200%2C698 1200w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg?fit=2777%2C1616 2777w" sizes="(max-width: 2777px) 100vw, 2777px" data-recalc-dims="1" /></a>Evidence away my dear Watson&#8230;evidence away.</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-146250" data-img="http://www.mathemafrica.org/wp-content/uploads/2018/06/Recaman.jpg"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=14624</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Graph Theory, Numberphile and Mathematica</title>
+		<link>http://www.mathemafrica.org/?p=13826</link>
+		<comments>http://www.mathemafrica.org/?p=13826#comments</comments>
+		<pubDate>Mon, 15 Jan 2018 12:03:16 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[Mathematica]]></category>
+		<category><![CDATA[Numberphile]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13826</guid>
+		<description><![CDATA[<p>Edit: I made a mistake with some of the language here. A comment from a true graph theorist:</p>
+<p><em>&#8220;Hamiltonian&#8221; usually means there&#8217;s a hamilton/hamiltonian cycle. Graphs with a hamilton path are &#8220;traceable&#8221;. Hamiltonian implies traceable, but not conversely.</em></p>
+<p>Thus, I have edited below accordingly.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>There was a nice video up on Numberphile about a problem which could easily be explained to a school student, and yet we don&#8217;t yet know the answer to it. See the videos here:</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/G1m7goLCJDY?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>and</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/7_ph5djCCnM?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>The game is the following: Given a sequence of consecutive integers, draw a graph where the nodes are the integers and there is an edge between each integer if their sum is a square number.</p>
+<p>If we take the numbers from 1 to 12, then the following would be the associated graph (note that there are three disconnected pieces of it).</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg" rel="attachment wp-att-13827"><img class="aligncenter wp-image-13827" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=463%2C381" alt="graph12" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=300%2C247 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=400%2C329 400w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=600%2C494 600w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?fit=722%2C594 722w" sizes="(max-width: 463px) 100vw, 463px" data-recalc-dims="1" /></a>Note that this is a disconnected, undirected graph. Looking at some of the edges.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Edit: I made a mistake with some of the language here. A comment from a true graph theorist:</p>
+<p><em>&#8220;Hamiltonian&#8221; usually means there&#8217;s a hamilton/hamiltonian cycle. Graphs with a hamilton path are &#8220;traceable&#8221;. Hamiltonian implies traceable, but not conversely.</em></p>
+<p>Thus, I have edited below accordingly.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>There was a nice video up on Numberphile about a problem which could easily be explained to a school student, and yet we don&#8217;t yet know the answer to it. See the videos here:</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/G1m7goLCJDY?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>and</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/7_ph5djCCnM?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>The game is the following: Given a sequence of consecutive integers, draw a graph where the nodes are the integers and there is an edge between each integer if their sum is a square number.</p>
+<p>If we take the numbers from 1 to 12, then the following would be the associated graph (note that there are three disconnected pieces of it).</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg" rel="attachment wp-att-13827"><img class="aligncenter wp-image-13827" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=463%2C381" alt="graph12" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=300%2C247 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=400%2C329 400w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=600%2C494 600w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?fit=722%2C594 722w" sizes="(max-width: 463px) 100vw, 463px" data-recalc-dims="1" /></a>Note that this is a disconnected, undirected graph. Looking at some of the edges.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13826</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

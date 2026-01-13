@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Aesthetics and Mathematics</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11165" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11165</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Thu, 10 Jan 2019 13:57:22 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Margaret Spicer</title>
+		<link>http://www.mathemafrica.org/?p=11165#comment-1515</link>
+		<dc:creator><![CDATA[Margaret Spicer]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2016 11:00:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11165#comment-1515</guid>
+		<description><![CDATA[Also in the proof in lemma 2.1 on page 3 the denominator is overkill.  The calculation can be done in 3 lines.]]></description>
+		<content:encoded><![CDATA[<p>Also in the proof in lemma 2.1 on page 3 the denominator is overkill.  The calculation can be done in 3 lines.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Margaret Spicer</title>
+		<link>http://www.mathemafrica.org/?p=11165#comment-1514</link>
+		<dc:creator><![CDATA[Margaret Spicer]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2016 10:42:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11165#comment-1514</guid>
+		<description><![CDATA[Typo (x-a) should be (x+a) in (x − a) d/dx(x + a)^n = n(x + a) ^(n-1) (top of page 7)]]></description>
+		<content:encoded><![CDATA[<p>Typo (x-a) should be (x+a) in (x − a) d/dx(x + a)^n = n(x + a) ^(n-1) (top of page 7)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

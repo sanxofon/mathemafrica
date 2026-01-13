@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MAM1000W &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=mam1000w" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Proof by Contradiction</title>
+		<link>http://www.mathemafrica.org/?p=13399</link>
+		<comments>http://www.mathemafrica.org/?p=13399#respond</comments>
+		<pubDate>Mon, 17 Apr 2017 21:35:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ace]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MAM1000 UCT lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[Proof by contradiction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13399</guid>
+		<description><![CDATA[<p>The concept of proof by contradiction refers to taking a statement and assuming the <em>opposite</em> is <strong>true</strong>. When assuming the opposite is true we begin to further examine the our &#8216;opposite&#8217; statement and reach to a conclusion which doesn&#8217;t add up or in simple terms is absurd.</p>
+<p>Take the case:</p>
+<p>Statement: There are <strong>infinite</strong> number of <em>prime numbers</em>.</p>
+<blockquote><p>Using the concept of proof by contradiction, we will assume the opposite is true.</p></blockquote>
+<hr />
+<p>If an integer (2) divides an integer (6) we say that 2 divides 6 or 2&#124;6. In a more general sense we can say that if any integer&#160;<em>&#8216;a&#8217;&#160;</em>divides any other integer&#160;<em>&#8216;b&#8217;&#160;</em>then a&#124;b.</p>
+<p><strong>Prime numbers: </strong>it is an&#160;integer (n ≥ 2) that has exactly two positive factors (1 and itself).</p>
+<p>eg. 2, 3, 5 &#8230;</p>
+<p><strong>Composite numbers:&#160;</strong>it is an&#160;integer (n ≥ 2)&#160;that has more than two positive factors.</p>
+<p>eg. 4, 6, 8 &#8230;</p>
+<p><strong>Fundamental Theorem of Arithmetic:</strong> Every integer n ≥ 2 has a unique (exactly one) prime factorization.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The concept of proof by contradiction refers to taking a statement and assuming the <em>opposite</em> is <strong>true</strong>. When assuming the opposite is true we begin to further examine the our &#8216;opposite&#8217; statement and reach to a conclusion which doesn&#8217;t add up or in simple terms is absurd.</p>
+<p>Take the case:</p>
+<p>Statement: There are <strong>infinite</strong> number of <em>prime numbers</em>.</p>
+<blockquote><p>Using the concept of proof by contradiction, we will assume the opposite is true.</p></blockquote>
+<hr />
+<p>If an integer (2) divides an integer (6) we say that 2 divides 6 or 2|6. In a more general sense we can say that if any integer&nbsp;<em>&#8216;a&#8217;&nbsp;</em>divides any other integer&nbsp;<em>&#8216;b&#8217;&nbsp;</em>then a|b.</p>
+<p><strong>Prime numbers: </strong>it is an&nbsp;integer (n ≥ 2) that has exactly two positive factors (1 and itself).</p>
+<p>eg. 2, 3, 5 &#8230;</p>
+<p><strong>Composite numbers:&nbsp;</strong>it is an&nbsp;integer (n ≥ 2)&nbsp;that has more than two positive factors.</p>
+<p>eg. 4, 6, 8 &#8230;</p>
+<p><strong>Fundamental Theorem of Arithmetic:</strong> Every integer n ≥ 2 has a unique (exactly one) prime factorization.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13399</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Proof by contradiction &#8211; part 2</title>
+		<link>http://www.mathemafrica.org/?p=12520</link>
+		<comments>http://www.mathemafrica.org/?p=12520#comments</comments>
+		<pubDate>Tue, 22 Mar 2016 21:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[Proof by contradiction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12520</guid>
+		<description><![CDATA[<p>So, in the last post we proved that <img src="//s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;sqrt{2}" title="&#92;sqrt{2}" class="latex" /> is irrational, by trying to see what the consequences would be if it were rational. We first said that if it were rational, then we should be able to write it in a simplest form <img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{p}{q}" title="&#92;frac{p}{q}" class="latex" /> where p and q had no common factors, and then showed that in fact this was impossible, so our original proposition was indeed true (as trying to prove otherwise gave us a contradiction).<br />
+Now we are going to look at another example, which looks very similar, but here our contradiction will be a little different to last time. The fact is that, unlike much of what you would have done at highschool, there isn&#8217;t such a roadmap to how to do things here &#8211; you have to figure out for yourself where the contradiction comes in. In these posts I will point them out for you, but in general, you need to build your intuition about where something looks a bit dodgy and a contradiction is raising its head.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So, in the last post we proved that <img src="//s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;sqrt{2}" title="&#92;sqrt{2}" class="latex" /> is irrational, by trying to see what the consequences would be if it were rational. We first said that if it were rational, then we should be able to write it in a simplest form <img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{p}{q}" title="&#92;frac{p}{q}" class="latex" /> where p and q had no common factors, and then showed that in fact this was impossible, so our original proposition was indeed true (as trying to prove otherwise gave us a contradiction).<br />
+Now we are going to look at another example, which looks very similar, but here our contradiction will be a little different to last time. The fact is that, unlike much of what you would have done at highschool, there isn&#8217;t such a roadmap to how to do things here &#8211; you have to figure out for yourself where the contradiction comes in. In these posts I will point them out for you, but in general, you need to build your intuition about where something looks a bit dodgy and a contradiction is raising its head.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12520</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Proof by contradiction &#8211; part 1</title>
+		<link>http://www.mathemafrica.org/?p=12493</link>
+		<comments>http://www.mathemafrica.org/?p=12493#comments</comments>
+		<pubDate>Sun, 20 Mar 2016 20:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[Proof by contradiction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12493</guid>
+		<description><![CDATA[<p>Proof by contradiction may at first seem completely weird! I give you something to prove, and you seem to ignore me and try and prove that what I want you to prove is wrong!</p>
+<p>Actually, this isn&#8217;t nearly as strange as it first seems, and it can work in contexts other than mathematics. The idea stems from the fact that a statement is either true, or false (well, if you listen to Gödel, then you have to be a bit careful, but it&#8217;s reasonable enough for now). The process is the following:</p>
+<ol>
+<li>You want to prove that a statement is true.</li>
+<li>You say &#8220;what would happen if the statement were actually false?&#8221;</li>
+<li>You explore the consequences of it being false.</li>
+<li>If you find that it gives you a contradiction (something which you claimed to be true, but which you now see isn&#8217;t true), then you know that in fact the original statement can&#8217;t be false&#8230;so it must be true, and you&#8217;ve proved it.</li></ol>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Proof by contradiction may at first seem completely weird! I give you something to prove, and you seem to ignore me and try and prove that what I want you to prove is wrong!</p>
+<p>Actually, this isn&#8217;t nearly as strange as it first seems, and it can work in contexts other than mathematics. The idea stems from the fact that a statement is either true, or false (well, if you listen to Gödel, then you have to be a bit careful, but it&#8217;s reasonable enough for now). The process is the following:</p>
+<ol>
+<li>You want to prove that a statement is true.</li>
+<li>You say &#8220;what would happen if the statement were actually false?&#8221;</li>
+<li>You explore the consequences of it being false.</li>
+<li>If you find that it gives you a contradiction (something which you claimed to be true, but which you now see isn&#8217;t true), then you know that in fact the original statement can&#8217;t be false&#8230;so it must be true, and you&#8217;ve proved it.</li></ol>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12493</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Can we find the inverse of a function which is not one-to-one? (part two)</title>
+		<link>http://www.mathemafrica.org/?p=12495</link>
+		<comments>http://www.mathemafrica.org/?p=12495#comments</comments>
+		<pubDate>Wed, 16 Mar 2016 13:16:26 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[arcsin]]></category>
+		<category><![CDATA[inverse functions]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[sin]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12495</guid>
+		<description><![CDATA[<p>So, in the last post we had seen that while the sin function is not one-to-one and thus doesn&#8217;t have an inverse, so long as we restrict it to a given domain, you will find that it is invertible. The domain that we found (indeed chose), was between <img src="//s0.wp.com/latex.php?latex=%5B-%5Cfrac%7B%5Cpi%7D%7B2%7D%2C%5Cfrac%7B%5Cpi%7D%7B2%7D%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-&#92;frac{&#92;pi}{2},&#92;frac{&#92;pi}{2}]" title="[-&#92;frac{&#92;pi}{2},&#92;frac{&#92;pi}{2}]" class="latex" />. It&#8217;s inverse was a function with domain <img src="//s0.wp.com/latex.php?latex=%5B-1%2C1%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-1,1]" title="[-1,1]" class="latex" />. The name of the inverse is arcsin(x).  How can we use this to help us to solve problems?</p>
+<p>Well, what if I asked you to solve:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=sin%28x%29%3D%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="sin(x)=&#92;frac{1}{2}" title="sin(x)=&#92;frac{1}{2}" class="latex" /></p>
+<p>&#160;</p>
+<p>You might think that because we have found the inverse of sin, that we can simply say that the solution to this is:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=x%3Darcsin%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=arcsin&#92;frac{1}{2}" title="x=arcsin&#92;frac{1}{2}" class="latex" /></p>
+<p>&#160;</p>
+<p>Well, because arcsin is itself a one-to-one function, restricted to the domain <img src="//s0.wp.com/latex.php?latex=%5B-1%2C1%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-1,1]" title="[-1,1]" class="latex" /> this will clearly give us a single number (the answer is about 0.52):</p>
+<p>&#160;</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png" rel="attachment wp-att-12497"><img class="aligncenter  wp-image-12497" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png?resize=476%2C474" alt="firstsol" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png?resize=768%2C766 768w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png?fit=1000%2C997 1000w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1" /></a></p>
+<p>Is that it then? Well, let&#8217;s look at the graph of sin(x) and see if this is the only solution to <img src="//s0.wp.com/latex.php?latex=sin%28x%29%3D%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="sin(x)=&#92;frac{1}{2}" title="sin(x)=&#92;frac{1}{2}" class="latex" />:</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png" rel="attachment wp-att-12498"><img class="aligncenter  wp-image-12498" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?resize=409%2C253" alt="singraph" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?resize=300%2C186 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?resize=768%2C475 768w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?fit=1000%2C619 1000w" sizes="(max-width: 409px) 100vw, 409px" data-recalc-dims="1" /></a>In fact, clearly there are an infinite number of solutions to the equation <img src="//s0.wp.com/latex.php?latex=sin%28x%29%3D%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="sin(x)=&#92;frac{1}{2}" title="sin(x)=&#92;frac{1}{2}" class="latex" /> and we have just caught the one within the region <img src="//s0.wp.com/latex.php?latex=%5B-%5Cfrac%7Bpi%7D%7B2%7D%2C%5Cfrac%7B%5Cpi%7D%7B2%7D%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-&#92;frac{pi}{2},&#92;frac{&#92;pi}{2}]" title="[-&#92;frac{pi}{2},&#92;frac{&#92;pi}{2}]" class="latex" />.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So, in the last post we had seen that while the sin function is not one-to-one and thus doesn&#8217;t have an inverse, so long as we restrict it to a given domain, you will find that it is invertible. The domain that we found (indeed chose), was between <img src="//s0.wp.com/latex.php?latex=%5B-%5Cfrac%7B%5Cpi%7D%7B2%7D%2C%5Cfrac%7B%5Cpi%7D%7B2%7D%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-&#92;frac{&#92;pi}{2},&#92;frac{&#92;pi}{2}]" title="[-&#92;frac{&#92;pi}{2},&#92;frac{&#92;pi}{2}]" class="latex" />. It&#8217;s inverse was a function with domain <img src="//s0.wp.com/latex.php?latex=%5B-1%2C1%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-1,1]" title="[-1,1]" class="latex" />. The name of the inverse is arcsin(x).  How can we use this to help us to solve problems?</p>
+<p>Well, what if I asked you to solve:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=sin%28x%29%3D%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="sin(x)=&#92;frac{1}{2}" title="sin(x)=&#92;frac{1}{2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>You might think that because we have found the inverse of sin, that we can simply say that the solution to this is:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=x%3Darcsin%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=arcsin&#92;frac{1}{2}" title="x=arcsin&#92;frac{1}{2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>Well, because arcsin is itself a one-to-one function, restricted to the domain <img src="//s0.wp.com/latex.php?latex=%5B-1%2C1%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-1,1]" title="[-1,1]" class="latex" /> this will clearly give us a single number (the answer is about 0.52):</p>
+<p>&nbsp;</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png" rel="attachment wp-att-12497"><img class="aligncenter  wp-image-12497" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png?resize=476%2C474" alt="firstsol" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png?resize=768%2C766 768w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/firstsol.png?fit=1000%2C997 1000w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1" /></a></p>
+<p>Is that it then? Well, let&#8217;s look at the graph of sin(x) and see if this is the only solution to <img src="//s0.wp.com/latex.php?latex=sin%28x%29%3D%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="sin(x)=&#92;frac{1}{2}" title="sin(x)=&#92;frac{1}{2}" class="latex" />:</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png" rel="attachment wp-att-12498"><img class="aligncenter  wp-image-12498" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?resize=409%2C253" alt="singraph" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?resize=300%2C186 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?resize=768%2C475 768w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2016/03/singraph.png?fit=1000%2C619 1000w" sizes="(max-width: 409px) 100vw, 409px" data-recalc-dims="1" /></a>In fact, clearly there are an infinite number of solutions to the equation <img src="//s0.wp.com/latex.php?latex=sin%28x%29%3D%5Cfrac%7B1%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="sin(x)=&#92;frac{1}{2}" title="sin(x)=&#92;frac{1}{2}" class="latex" /> and we have just caught the one within the region <img src="//s0.wp.com/latex.php?latex=%5B-%5Cfrac%7Bpi%7D%7B2%7D%2C%5Cfrac%7B%5Cpi%7D%7B2%7D%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="[-&#92;frac{pi}{2},&#92;frac{&#92;pi}{2}]" title="[-&#92;frac{pi}{2},&#92;frac{&#92;pi}{2}]" class="latex" />.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12495</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Domain of a composite function &#8211; part 2</title>
+		<link>http://www.mathemafrica.org/?p=12447</link>
+		<comments>http://www.mathemafrica.org/?p=12447#comments</comments>
+		<pubDate>Sat, 12 Mar 2016 10:48:39 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[composite function]]></category>
+		<category><![CDATA[Domain]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12447</guid>
+		<description><![CDATA[<p>This is the second part of a post, written by Muhammad Azhar Rohiman, a first year student on MAM1000W at UCT. This post came about when he asked me a question related to domains of composite functions, and it was clear that on first learning about such topics, there are some simple misunderstandings. I suggested that he write a couple of paragraphs explaining what he had learnt, and the following is, I think, a very clear explanation of some of the ideas and pitfalls of this topic. The first part of the post is <a href="http://www.mathemafrica.org/?p=12438">here</a>.</p>
+<p>&#160;</p>
+<p>Consider the two functions below, from which we want to find the domain of</p>
+<p>&#160;</p>
+<p>(a) <img src="//s0.wp.com/latex.php?latex=%28f%5Ccirc+g%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(f&#92;circ g)(x)" title="(f&#92;circ g)(x)" class="latex" />.</p>
+<p>&#160;</p>
+<p>(b) <img src="//s0.wp.com/latex.php?latex=%28g%5Ccirc+f%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(g&#92;circ f)(x)" title="(g&#92;circ f)(x)" class="latex" />.</p>
+<p>&#160;</p>
+<p>(c) <img src="//s0.wp.com/latex.php?latex=%28f%5Ccirc+f%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(f&#92;circ f)(x)" title="(f&#92;circ f)(x)" class="latex" />.</p>
+<p>&#160;</p>
+<p>(d) <img src="//s0.wp.com/latex.php?latex=%28+g+%5Ccirc+g+%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="( g &#92;circ g )(x)" title="( g &#92;circ g )(x)" class="latex" />.</p>
+<p>&#160;</p>
+<p><img src="//s0.wp.com/latex.php?latex=f%28x%29+%3D+x+%2B+%5Cfrac%7B1%7D%7Bx%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x) = x + &#92;frac{1}{x}" title="f(x) = x + &#92;frac{1}{x}" class="latex" /></p>
+<p>&#160;</p>
+<p><img src="//s0.wp.com/latex.php?latex=g%28x%29+%3D+%5Cfrac%7Bx%2B8%7D%7Bx%2B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(x) = &#92;frac{x+8}{x+2}" title="g(x) = &#92;frac{x+8}{x+2}" class="latex" /></p>
+<p>&#160;</p>
+<p>(a) The functions f(x) and g(x) cannot be defined at the values x = 0 and x = -2 respectively. Therefore, we can write this as follows: f(0) and g(-2) are not defined.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>This is the second part of a post, written by Muhammad Azhar Rohiman, a first year student on MAM1000W at UCT. This post came about when he asked me a question related to domains of composite functions, and it was clear that on first learning about such topics, there are some simple misunderstandings. I suggested that he write a couple of paragraphs explaining what he had learnt, and the following is, I think, a very clear explanation of some of the ideas and pitfalls of this topic. The first part of the post is <a href="http://www.mathemafrica.org/?p=12438">here</a>.</p>
+<p>&nbsp;</p>
+<p>Consider the two functions below, from which we want to find the domain of</p>
+<p>&nbsp;</p>
+<p>(a) <img src="//s0.wp.com/latex.php?latex=%28f%5Ccirc+g%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(f&#92;circ g)(x)" title="(f&#92;circ g)(x)" class="latex" />.</p>
+<p>&nbsp;</p>
+<p>(b) <img src="//s0.wp.com/latex.php?latex=%28g%5Ccirc+f%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(g&#92;circ f)(x)" title="(g&#92;circ f)(x)" class="latex" />.</p>
+<p>&nbsp;</p>
+<p>(c) <img src="//s0.wp.com/latex.php?latex=%28f%5Ccirc+f%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(f&#92;circ f)(x)" title="(f&#92;circ f)(x)" class="latex" />.</p>
+<p>&nbsp;</p>
+<p>(d) <img src="//s0.wp.com/latex.php?latex=%28+g+%5Ccirc+g+%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="( g &#92;circ g )(x)" title="( g &#92;circ g )(x)" class="latex" />.</p>
+<p>&nbsp;</p>
+<p><img src="//s0.wp.com/latex.php?latex=f%28x%29+%3D+x+%2B+%5Cfrac%7B1%7D%7Bx%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x) = x + &#92;frac{1}{x}" title="f(x) = x + &#92;frac{1}{x}" class="latex" /></p>
+<p>&nbsp;</p>
+<p><img src="//s0.wp.com/latex.php?latex=g%28x%29+%3D+%5Cfrac%7Bx%2B8%7D%7Bx%2B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(x) = &#92;frac{x+8}{x+2}" title="g(x) = &#92;frac{x+8}{x+2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>(a) The functions f(x) and g(x) cannot be defined at the values x = 0 and x = -2 respectively. Therefore, we can write this as follows: f(0) and g(-2) are not defined.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12447</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Arbitrary functions as the sum of odd and even functions</title>
+		<link>http://www.mathemafrica.org/?p=12469</link>
+		<comments>http://www.mathemafrica.org/?p=12469#comments</comments>
+		<pubDate>Thu, 10 Mar 2016 16:25:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[odd and even functions]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12469</guid>
+		<description><![CDATA[<p>Let&#8217;s take a function h(x), whose domain is the real numbers. We are simply going to start by writing h(x) in a slightly strange way. We will write it as:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=h%28x%29%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%2Bh%28x%29-h%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="h(x)=&#92;dfrac{h(x)+h(-x)+h(x)-h(-x)}{2}" title="h(x)=&#92;dfrac{h(x)+h(-x)+h(x)-h(-x)}{2}" class="latex" /></p>
+<p>&#160;</p>
+<p>This might seem an odd thing to do &#8211; we have essentially added zero to the original function (in the form h(-x)-h(-x)). However, we can see that we can split this as:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=h%28x%29%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%7D%7B2%7D%2B%5Cdfrac%7Bh%28x%29-h%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="h(x)=&#92;dfrac{h(x)+h(-x)}{2}+&#92;dfrac{h(x)-h(-x)}{2}" title="h(x)=&#92;dfrac{h(x)+h(-x)}{2}+&#92;dfrac{h(x)-h(-x)}{2}" class="latex" /></p>
+<p>&#160;</p>
+<p>It&#8217;s exactly the same thing we started with, right? But now it&#8217;s written in a peculiar way. Now let&#8217;s call the two fractions f(x) and g(x) respectively. So:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=f%28x%29%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)=&#92;dfrac{h(x)+h(-x)}{2}" title="f(x)=&#92;dfrac{h(x)+h(-x)}{2}" class="latex" /></p>
+<p>&#160;</p>
+<p>and</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=g%28x%29%3D%5Cdfrac%7Bh%28x%29-h%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(x)=&#92;dfrac{h(x)-h(-x)}{2}" title="g(x)=&#92;dfrac{h(x)-h(-x)}{2}" class="latex" /></p>
+<p>&#160;</p>
+<p>So our original function can be written as h(x)=f(x)+g(x). If you plug in f(x) and g(x) above you will see that we have said nothing which is not trivial in any of this. However, the interesting part comes when we look at the properties of f(x) and g(x). What is f(-x)?</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=f%28-x%29%3D%5Cdfrac%7Bh%28-x%29%2Bh%28x%29%7D%7B2%7D%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%7D%7B2%7D%3Df%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(-x)=&#92;dfrac{h(-x)+h(x)}{2}=&#92;dfrac{h(x)+h(-x)}{2}=f(x)" title="f(-x)=&#92;dfrac{h(-x)+h(x)}{2}=&#92;dfrac{h(x)+h(-x)}{2}=f(x)" class="latex" /></p>
+<p>&#160;</p>
+<p>But this is just the defining property of an even function, so f(x) is even.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s take a function h(x), whose domain is the real numbers. We are simply going to start by writing h(x) in a slightly strange way. We will write it as:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=h%28x%29%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%2Bh%28x%29-h%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="h(x)=&#92;dfrac{h(x)+h(-x)+h(x)-h(-x)}{2}" title="h(x)=&#92;dfrac{h(x)+h(-x)+h(x)-h(-x)}{2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>This might seem an odd thing to do &#8211; we have essentially added zero to the original function (in the form h(-x)-h(-x)). However, we can see that we can split this as:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=h%28x%29%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%7D%7B2%7D%2B%5Cdfrac%7Bh%28x%29-h%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="h(x)=&#92;dfrac{h(x)+h(-x)}{2}+&#92;dfrac{h(x)-h(-x)}{2}" title="h(x)=&#92;dfrac{h(x)+h(-x)}{2}+&#92;dfrac{h(x)-h(-x)}{2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>It&#8217;s exactly the same thing we started with, right? But now it&#8217;s written in a peculiar way. Now let&#8217;s call the two fractions f(x) and g(x) respectively. So:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=f%28x%29%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)=&#92;dfrac{h(x)+h(-x)}{2}" title="f(x)=&#92;dfrac{h(x)+h(-x)}{2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>and</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=g%28x%29%3D%5Cdfrac%7Bh%28x%29-h%28-x%29%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(x)=&#92;dfrac{h(x)-h(-x)}{2}" title="g(x)=&#92;dfrac{h(x)-h(-x)}{2}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>So our original function can be written as h(x)=f(x)+g(x). If you plug in f(x) and g(x) above you will see that we have said nothing which is not trivial in any of this. However, the interesting part comes when we look at the properties of f(x) and g(x). What is f(-x)?</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=f%28-x%29%3D%5Cdfrac%7Bh%28-x%29%2Bh%28x%29%7D%7B2%7D%3D%5Cdfrac%7Bh%28x%29%2Bh%28-x%29%7D%7B2%7D%3Df%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(-x)=&#92;dfrac{h(-x)+h(x)}{2}=&#92;dfrac{h(x)+h(-x)}{2}=f(x)" title="f(-x)=&#92;dfrac{h(-x)+h(x)}{2}=&#92;dfrac{h(x)+h(-x)}{2}=f(x)" class="latex" /></p>
+<p>&nbsp;</p>
+<p>But this is just the defining property of an even function, so f(x) is even.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12469</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Mathematical induction with an inequality</title>
+		<link>http://www.mathemafrica.org/?p=12464</link>
+		<comments>http://www.mathemafrica.org/?p=12464#comments</comments>
+		<pubDate>Wed, 09 Mar 2016 14:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[mathematical induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464</guid>
+		<description><![CDATA[<p>In the tutorial sessions it was clear that one question in particular was causing problems. This is an induction proof with an inequality. The one which we will look at is the inequality:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5En%3En%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^n&#62;n^3" title="2^n&#62;n^3" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=n%5Cge+10&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 10" title="n&#92;ge 10" class="latex" /></p>
+<p>&#160;</p>
+<p>I am going to talk you through it in more detail than would be needed for the formal proof but I want to give some intuition along the way.</p>
+<p>&#160;</p>
+<p>So, we start off, as always with the base case. The base case is always the first integer for which the statement is claimed to be true. In this case it is for n=10. Let&#8217;s check for n=10. Is it true that?</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5E%7B10%7D%3E10%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^{10}&#62;10^3" title="2^{10}&#62;10^3" class="latex" /> ?</p>
+<p>&#160;</p>
+<p>Well this is:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=1024%3E1000&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1024&#62;1000" title="1024&#62;1000" class="latex" /></p>
+<p>&#160;</p>
+<p>and so we should be happy with that. We&#8217;ve proved the base case. Note that you do not then need to check for n=11, or n=12. I have seen many students check a base case for n=1, and then also check for n=2 and n=3.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In the tutorial sessions it was clear that one question in particular was causing problems. This is an induction proof with an inequality. The one which we will look at is the inequality:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5En%3En%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^n&gt;n^3" title="2^n&gt;n^3" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=n%5Cge+10&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 10" title="n&#92;ge 10" class="latex" /></p>
+<p>&nbsp;</p>
+<p>I am going to talk you through it in more detail than would be needed for the formal proof but I want to give some intuition along the way.</p>
+<p>&nbsp;</p>
+<p>So, we start off, as always with the base case. The base case is always the first integer for which the statement is claimed to be true. In this case it is for n=10. Let&#8217;s check for n=10. Is it true that?</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5E%7B10%7D%3E10%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^{10}&gt;10^3" title="2^{10}&gt;10^3" class="latex" /> ?</p>
+<p>&nbsp;</p>
+<p>Well this is:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=1024%3E1000&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1024&gt;1000" title="1024&gt;1000" class="latex" /></p>
+<p>&nbsp;</p>
+<p>and so we should be happy with that. We&#8217;ve proved the base case. Note that you do not then need to check for n=11, or n=12. I have seen many students check a base case for n=1, and then also check for n=2 and n=3.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12464</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Domain of a composite function &#8211; part 1</title>
+		<link>http://www.mathemafrica.org/?p=12438</link>
+		<comments>http://www.mathemafrica.org/?p=12438#comments</comments>
+		<pubDate>Mon, 07 Mar 2016 14:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[composite function]]></category>
+		<category><![CDATA[Domain]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12438</guid>
+		<description><![CDATA[<p>This post was written by Muhammad Azhar Rohiman, a first year student on MAM1000W at UCT. This post came about when he asked me a question related to domains of composite functions, and it was clear that on first learning about such topics, there are some simple misunderstandings. I suggested that he write a couple of paragraphs explaining what he had learnt, and the following is, I think, a very clear explanation of some of the ideas and pitfalls of this topic.</p>
+<p>&#160;</p>
+<p>Consider the two functions below, from which we want to find the domain of <img src="//s0.wp.com/latex.php?latex=%28+f+%5Ccirc+g+%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="( f &#92;circ g )(x)" title="( f &#92;circ g )(x)" class="latex" /></p>
+<p>&#160;</p>
+<p style="text-align: center;">
+<img src="//s0.wp.com/latex.php?latex=f%28x%29+%3D+%5Cfrac%7B1%7D%7Bx%2B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x) = &#92;frac{1}{x+2}" title="f(x) = &#92;frac{1}{x+2}" class="latex" />, <img src="//s0.wp.com/latex.php?latex=g%28x%29+%3D+%5Cfrac%7Bx%7D%7Bx-3%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(x) = &#92;frac{x}{x-3}" title="g(x) = &#92;frac{x}{x-3}" class="latex" />
+</p>
+<p>&#160;</p>
+<p>We know that f(x) and g(x) cannot be defined at the values x = -2 and x = 3 respectively. This can be written as follows: f(-2) and g(3) are not defined. The domain of a composite function will not allow any values restricted by the domain of the starting function, which is g(x).&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>This post was written by Muhammad Azhar Rohiman, a first year student on MAM1000W at UCT. This post came about when he asked me a question related to domains of composite functions, and it was clear that on first learning about such topics, there are some simple misunderstandings. I suggested that he write a couple of paragraphs explaining what he had learnt, and the following is, I think, a very clear explanation of some of the ideas and pitfalls of this topic.</p>
+<p>&nbsp;</p>
+<p>Consider the two functions below, from which we want to find the domain of <img src="//s0.wp.com/latex.php?latex=%28+f+%5Ccirc+g+%29%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="( f &#92;circ g )(x)" title="( f &#92;circ g )(x)" class="latex" /></p>
+<p>&nbsp;</p>
+<p style="text-align: center;">
+<img src="//s0.wp.com/latex.php?latex=f%28x%29+%3D+%5Cfrac%7B1%7D%7Bx%2B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x) = &#92;frac{1}{x+2}" title="f(x) = &#92;frac{1}{x+2}" class="latex" />, <img src="//s0.wp.com/latex.php?latex=g%28x%29+%3D+%5Cfrac%7Bx%7D%7Bx-3%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(x) = &#92;frac{x}{x-3}" title="g(x) = &#92;frac{x}{x-3}" class="latex" />
+</p>
+<p>&nbsp;</p>
+<p>We know that f(x) and g(x) cannot be defined at the values x = -2 and x = 3 respectively. This can be written as follows: f(-2) and g(3) are not defined. The domain of a composite function will not allow any values restricted by the domain of the starting function, which is g(x).&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12438</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Mathematical induction</title>
+		<link>http://www.mathemafrica.org/?p=12407</link>
+		<comments>http://www.mathemafrica.org/?p=12407#comments</comments>
+		<pubDate>Sun, 06 Mar 2016 15:43:12 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[mathematical induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12407</guid>
+		<description><![CDATA[<p>One of the concepts that most students seem to struggle with the most in the first year maths course is that of mathematical induction. It feels abstract, yet when you have to prove a concrete statement, it feels like all the assumptions, and cases you look at shouldn&#8217;t have any real impact on the thing that you&#8217;re trying to prove. I will now try and prove that this is not true (though not by mathematical induction!).</p>
+<p>&#160;</p>
+<p>I&#8217;m going to start with a ladder brought from a magical ladder supplier. Steps on the ladder are labeled S(1), S(2), S(3) etc. The question is, are there infinitely many steps on the ladder? Well, with the information that I&#8217;ve given you so far, you just don&#8217;t know, but the manufacturer has given a little leaflet with the it. In the leaflet it says:</p>
+<p>&#8220;As long as your ladder has a step S(n), we hereby guarantee that it will have a step S(n+1), for any integers n&#8221;.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the concepts that most students seem to struggle with the most in the first year maths course is that of mathematical induction. It feels abstract, yet when you have to prove a concrete statement, it feels like all the assumptions, and cases you look at shouldn&#8217;t have any real impact on the thing that you&#8217;re trying to prove. I will now try and prove that this is not true (though not by mathematical induction!).</p>
+<p>&nbsp;</p>
+<p>I&#8217;m going to start with a ladder brought from a magical ladder supplier. Steps on the ladder are labeled S(1), S(2), S(3) etc. The question is, are there infinitely many steps on the ladder? Well, with the information that I&#8217;ve given you so far, you just don&#8217;t know, but the manufacturer has given a little leaflet with the it. In the leaflet it says:</p>
+<p>&#8220;As long as your ladder has a step S(n), we hereby guarantee that it will have a step S(n+1), for any integers n&#8221;.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12407</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

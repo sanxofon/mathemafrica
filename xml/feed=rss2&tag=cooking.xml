@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cooking &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=cooking" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Cooking with Mathematics</title>
+		<link>http://www.mathemafrica.org/?p=10484</link>
+		<comments>http://www.mathemafrica.org/?p=10484#comments</comments>
+		<pubDate>Sun, 31 May 2015 14:29:32 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[cooking]]></category>
+		<category><![CDATA[graph theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10484</guid>
+		<description><![CDATA[<p>This post is not going to be very maths-heavy but will include some concepts from the area of graph theory which we will use in an unusual setting.</p>
+<p>Today we&#8217;re going to get into the virtual kitchen and get our virtual taste buds a-buzzing&#8230;.Well, actually we&#8217;re going to get our computers to do the hard work of finding out some tasty recipes and we&#8217;re going to use a few different techniques to do this. The workhorse is going to be the <a href="http://www.wolfram.com/">Mathematica</a> programming language, but a lot of what we will do will be doable in any programming language, though perhaps it will be slightly more cumbersome than this.</p>
+<p>The starting point of our culinary adventure will be a piece of text, taken from a website of flavour pairings <a href="http://nouveauraw.com/raw-recipe-templates-and-development/flavor-prfiles-that-pair-well-in-recipes/">here</a>.</p>
+<p>We see here that we have a piece of text which we can copy and paste into our Mathematica file.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>This post is not going to be very maths-heavy but will include some concepts from the area of graph theory which we will use in an unusual setting.</p>
+<p>Today we&#8217;re going to get into the virtual kitchen and get our virtual taste buds a-buzzing&#8230;.Well, actually we&#8217;re going to get our computers to do the hard work of finding out some tasty recipes and we&#8217;re going to use a few different techniques to do this. The workhorse is going to be the <a href="http://www.wolfram.com/">Mathematica</a> programming language, but a lot of what we will do will be doable in any programming language, though perhaps it will be slightly more cumbersome than this.</p>
+<p>The starting point of our culinary adventure will be a piece of text, taken from a website of flavour pairings <a href="http://nouveauraw.com/raw-recipe-templates-and-development/flavor-prfiles-that-pair-well-in-recipes/">here</a>.</p>
+<p>We see here that we have a piece of text which we can copy and paste into our Mathematica file.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10484</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

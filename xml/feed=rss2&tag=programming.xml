@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programming &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=programming" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Hello World</title>
+		<link>http://www.mathemafrica.org/?p=12100</link>
+		<comments>http://www.mathemafrica.org/?p=12100#comments</comments>
+		<pubDate>Thu, 21 Jan 2016 12:45:09 +0000</pubDate>
+		<dc:creator><![CDATA[Natalie Wood]]></dc:creator>
+				<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12100</guid>
+		<description><![CDATA[<p>So this is my first post and any real “nerd” will know why I named my post “Hello World”. Many years ago, I dabbled in a little bit of computer programming and the first program you ever write, as kind of a rite of passage, is to make the screen say “Hello World”. Needless to say, it wasn’t always easy, but nothing worthwhile in life ever is. At times, I really did want to pull my hair out though, with things like syntax errors. Firstly, I had to work out what a syntax error was… Basically, in layman’s terms, it’s like making a grammar or punctuation error in an essay. Secondly, I needed to find this syntax error (or errors), most of the time it was a missing semi-colon, in my thirty or forty lines of code. Did I mention that the technology didn’t even give you a hint as to where you might begin to look for it.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So this is my first post and any real “nerd” will know why I named my post “Hello World”. Many years ago, I dabbled in a little bit of computer programming and the first program you ever write, as kind of a rite of passage, is to make the screen say “Hello World”. Needless to say, it wasn’t always easy, but nothing worthwhile in life ever is. At times, I really did want to pull my hair out though, with things like syntax errors. Firstly, I had to work out what a syntax error was… Basically, in layman’s terms, it’s like making a grammar or punctuation error in an essay. Secondly, I needed to find this syntax error (or errors), most of the time it was a missing semi-colon, in my thirty or forty lines of code. Did I mention that the technology didn’t even give you a hint as to where you might begin to look for it.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12100</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Mathematica details of the cooking with mathematics post</title>
+		<link>http://www.mathemafrica.org/?p=10615</link>
+		<comments>http://www.mathemafrica.org/?p=10615#comments</comments>
+		<pubDate>Sat, 06 Jun 2015 12:37:50 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Mathematica]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10615</guid>
+		<description><![CDATA[<p><em>Edit: If you want to see the full code, I include everything in this post in the Mathematica file <a href="https://github.com/jonstraveladventures/foodpairing/blob/master/foodgraphs.nb">here</a>.</em></p>
+<p>I promised previously that we would go into depth into the graph theory and food calculations, so today we will do just that. This will be Mathematica heavy, so really this is only aimed at those who have played around with the <a href="http://wolfram.com/">Mathematica programming language</a>.</p>
+<p>I’ve been using this language now for over a decade, and while it is not the fastest language on the market for doing numerics-heavy calculations, it is an incredibly versatile language, and for getting code written fast, it’s hard to beat!</p>
+<p>I tend to code in what is called a <a href="http://www.wolfram.com/broadcast/video.php?c=101&#38;v=491">functional programming style</a> (ideal for Mathematica), which doesn’t use loops as you would normally find in a procedural language. Perhaps the most oft used coding syntax you will see below is of the form:</p>
+<p><strong><em>somefunction[#]&#38;/@{el1,el2,el3,el4…}</em></strong></p>
+<p>which takes the elements of a list and passes them one by one into a function.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>Edit: If you want to see the full code, I include everything in this post in the Mathematica file <a href="https://github.com/jonstraveladventures/foodpairing/blob/master/foodgraphs.nb">here</a>.</em></p>
+<p>I promised previously that we would go into depth into the graph theory and food calculations, so today we will do just that. This will be Mathematica heavy, so really this is only aimed at those who have played around with the <a href="http://wolfram.com/">Mathematica programming language</a>.</p>
+<p>I’ve been using this language now for over a decade, and while it is not the fastest language on the market for doing numerics-heavy calculations, it is an incredibly versatile language, and for getting code written fast, it’s hard to beat!</p>
+<p>I tend to code in what is called a <a href="http://www.wolfram.com/broadcast/video.php?c=101&amp;v=491">functional programming style</a> (ideal for Mathematica), which doesn’t use loops as you would normally find in a procedural language. Perhaps the most oft used coding syntax you will see below is of the form:</p>
+<p><strong><em>somefunction[#]&amp;/@{el1,el2,el3,el4…}</em></strong></p>
+<p>which takes the elements of a list and passes them one by one into a function.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10615</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

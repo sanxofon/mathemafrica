@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Proof by contradiction &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=proof-by-contradiction" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Proof by Contradiction</title>
+		<link>http://www.mathemafrica.org/?p=13399</link>
+		<comments>http://www.mathemafrica.org/?p=13399#respond</comments>
+		<pubDate>Mon, 17 Apr 2017 21:35:39 +0000</pubDate>
+		<dc:creator><![CDATA[Ace]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[MAM1000 UCT lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[Proof by contradiction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13399</guid>
+		<description><![CDATA[<p>The concept of proof by contradiction refers to taking a statement and assuming the <em>opposite</em> is <strong>true</strong>. When assuming the opposite is true we begin to further examine the our &#8216;opposite&#8217; statement and reach to a conclusion which doesn&#8217;t add up or in simple terms is absurd.</p>
+<p>Take the case:</p>
+<p>Statement: There are <strong>infinite</strong> number of <em>prime numbers</em>.</p>
+<blockquote><p>Using the concept of proof by contradiction, we will assume the opposite is true.</p></blockquote>
+<hr />
+<p>If an integer (2) divides an integer (6) we say that 2 divides 6 or 2&#124;6. In a more general sense we can say that if any integer&#160;<em>&#8216;a&#8217;&#160;</em>divides any other integer&#160;<em>&#8216;b&#8217;&#160;</em>then a&#124;b.</p>
+<p><strong>Prime numbers: </strong>it is an&#160;integer (n ≥ 2) that has exactly two positive factors (1 and itself).</p>
+<p>eg. 2, 3, 5 &#8230;</p>
+<p><strong>Composite numbers:&#160;</strong>it is an&#160;integer (n ≥ 2)&#160;that has more than two positive factors.</p>
+<p>eg. 4, 6, 8 &#8230;</p>
+<p><strong>Fundamental Theorem of Arithmetic:</strong> Every integer n ≥ 2 has a unique (exactly one) prime factorization.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The concept of proof by contradiction refers to taking a statement and assuming the <em>opposite</em> is <strong>true</strong>. When assuming the opposite is true we begin to further examine the our &#8216;opposite&#8217; statement and reach to a conclusion which doesn&#8217;t add up or in simple terms is absurd.</p>
+<p>Take the case:</p>
+<p>Statement: There are <strong>infinite</strong> number of <em>prime numbers</em>.</p>
+<blockquote><p>Using the concept of proof by contradiction, we will assume the opposite is true.</p></blockquote>
+<hr />
+<p>If an integer (2) divides an integer (6) we say that 2 divides 6 or 2|6. In a more general sense we can say that if any integer&nbsp;<em>&#8216;a&#8217;&nbsp;</em>divides any other integer&nbsp;<em>&#8216;b&#8217;&nbsp;</em>then a|b.</p>
+<p><strong>Prime numbers: </strong>it is an&nbsp;integer (n ≥ 2) that has exactly two positive factors (1 and itself).</p>
+<p>eg. 2, 3, 5 &#8230;</p>
+<p><strong>Composite numbers:&nbsp;</strong>it is an&nbsp;integer (n ≥ 2)&nbsp;that has more than two positive factors.</p>
+<p>eg. 4, 6, 8 &#8230;</p>
+<p><strong>Fundamental Theorem of Arithmetic:</strong> Every integer n ≥ 2 has a unique (exactly one) prime factorization.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13399</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Proof by contradiction &#8211; part 2</title>
+		<link>http://www.mathemafrica.org/?p=12520</link>
+		<comments>http://www.mathemafrica.org/?p=12520#comments</comments>
+		<pubDate>Tue, 22 Mar 2016 21:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[Proof by contradiction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12520</guid>
+		<description><![CDATA[<p>So, in the last post we proved that <img src="//s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;sqrt{2}" title="&#92;sqrt{2}" class="latex" /> is irrational, by trying to see what the consequences would be if it were rational. We first said that if it were rational, then we should be able to write it in a simplest form <img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{p}{q}" title="&#92;frac{p}{q}" class="latex" /> where p and q had no common factors, and then showed that in fact this was impossible, so our original proposition was indeed true (as trying to prove otherwise gave us a contradiction).<br />
+Now we are going to look at another example, which looks very similar, but here our contradiction will be a little different to last time. The fact is that, unlike much of what you would have done at highschool, there isn&#8217;t such a roadmap to how to do things here &#8211; you have to figure out for yourself where the contradiction comes in. In these posts I will point them out for you, but in general, you need to build your intuition about where something looks a bit dodgy and a contradiction is raising its head.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So, in the last post we proved that <img src="//s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;sqrt{2}" title="&#92;sqrt{2}" class="latex" /> is irrational, by trying to see what the consequences would be if it were rational. We first said that if it were rational, then we should be able to write it in a simplest form <img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{p}{q}" title="&#92;frac{p}{q}" class="latex" /> where p and q had no common factors, and then showed that in fact this was impossible, so our original proposition was indeed true (as trying to prove otherwise gave us a contradiction).<br />
+Now we are going to look at another example, which looks very similar, but here our contradiction will be a little different to last time. The fact is that, unlike much of what you would have done at highschool, there isn&#8217;t such a roadmap to how to do things here &#8211; you have to figure out for yourself where the contradiction comes in. In these posts I will point them out for you, but in general, you need to build your intuition about where something looks a bit dodgy and a contradiction is raising its head.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12520</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Proof by contradiction &#8211; part 1</title>
+		<link>http://www.mathemafrica.org/?p=12493</link>
+		<comments>http://www.mathemafrica.org/?p=12493#comments</comments>
+		<pubDate>Sun, 20 Mar 2016 20:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[Proof by contradiction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12493</guid>
+		<description><![CDATA[<p>Proof by contradiction may at first seem completely weird! I give you something to prove, and you seem to ignore me and try and prove that what I want you to prove is wrong!</p>
+<p>Actually, this isn&#8217;t nearly as strange as it first seems, and it can work in contexts other than mathematics. The idea stems from the fact that a statement is either true, or false (well, if you listen to Gödel, then you have to be a bit careful, but it&#8217;s reasonable enough for now). The process is the following:</p>
+<ol>
+<li>You want to prove that a statement is true.</li>
+<li>You say &#8220;what would happen if the statement were actually false?&#8221;</li>
+<li>You explore the consequences of it being false.</li>
+<li>If you find that it gives you a contradiction (something which you claimed to be true, but which you now see isn&#8217;t true), then you know that in fact the original statement can&#8217;t be false&#8230;so it must be true, and you&#8217;ve proved it.</li></ol>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Proof by contradiction may at first seem completely weird! I give you something to prove, and you seem to ignore me and try and prove that what I want you to prove is wrong!</p>
+<p>Actually, this isn&#8217;t nearly as strange as it first seems, and it can work in contexts other than mathematics. The idea stems from the fact that a statement is either true, or false (well, if you listen to Gödel, then you have to be a bit careful, but it&#8217;s reasonable enough for now). The process is the following:</p>
+<ol>
+<li>You want to prove that a statement is true.</li>
+<li>You say &#8220;what would happen if the statement were actually false?&#8221;</li>
+<li>You explore the consequences of it being false.</li>
+<li>If you find that it gives you a contradiction (something which you claimed to be true, but which you now see isn&#8217;t true), then you know that in fact the original statement can&#8217;t be false&#8230;so it must be true, and you&#8217;ve proved it.</li></ol>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12493</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 Lecture notes part 15 &#8211; Tuesday 11th August</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11100" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11100</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Thu, 10 Jan 2019 13:57:22 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11100#comment-402</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2015 09:04:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11100#comment-402</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 15 and 16 &#8211; Combinations and permutations [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 15 and 16 &#8211; Combinations and permutations [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11100#comment-313</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2015 16:57:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11100#comment-313</guid>
+		<description><![CDATA[Absolutely correct - thank you!]]></description>
+		<content:encoded><![CDATA[<p>Absolutely correct &#8211; thank you!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jean-Michel Lacide</title>
+		<link>http://www.mathemafrica.org/?p=11100#comment-312</link>
+		<dc:creator><![CDATA[Jean-Michel Lacide]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2015 16:54:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11100#comment-312</guid>
+		<description><![CDATA[Regarding the last part of the notes, when you state that 3 ↑↑↑↑ 3 = 3 ↑↑↑↑ (3 ↑↑↑↑ 3).  This would be an infinite sequence as it would continuous increase, so shouldn&#039;t it rather be 3 ↑↑↑↑ 3 = 3 ↑↑↑ (3 ↑↑↑ 3) ?]]></description>
+		<content:encoded><![CDATA[<p>Regarding the last part of the notes, when you state that 3 ↑↑↑↑ 3 = 3 ↑↑↑↑ (3 ↑↑↑↑ 3).  This would be an infinite sequence as it would continuous increase, so shouldn&#8217;t it rather be 3 ↑↑↑↑ 3 = 3 ↑↑↑ (3 ↑↑↑ 3) ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11100#comment-285</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2015 05:41:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11100#comment-285</guid>
+		<description><![CDATA[Spot on, thank you!]]></description>
+		<content:encoded><![CDATA[<p>Spot on, thank you!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Luvo Luzipho</title>
+		<link>http://www.mathemafrica.org/?p=11100#comment-284</link>
+		<dc:creator><![CDATA[Luvo Luzipho]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2015 19:53:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11100#comment-284</guid>
+		<description><![CDATA[In the third step of proof by induction, shouldn&#039;t it be dx (instead of dx^n) inside the brackets?]]></description>
+		<content:encoded><![CDATA[<p>In the third step of proof by induction, shouldn&#8217;t it be dx (instead of dx^n) inside the brackets?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part x &#8211; summary</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11441" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11441</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 06 Aug 2016 14:36:17 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11441#comment-510</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 09:43:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11441#comment-510</guid>
+		<description><![CDATA[Good spot! Thanks.]]></description>
+		<content:encoded><![CDATA[<p>Good spot! Thanks.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Azhar Rohiman</title>
+		<link>http://www.mathemafrica.org/?p=11441#comment-509</link>
+		<dc:creator><![CDATA[Azhar Rohiman]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 09:36:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11441#comment-509</guid>
+		<description><![CDATA[When finding the real part of (1- sqrt(3))^31, you wrote sqrt(2) instead of 2. And in the last example, when using the quadratic formula to find z. I think you missed a -sqrt(2) and wrote -2 instead.
+
+RHMMUH005]]></description>
+		<content:encoded><![CDATA[<p>When finding the real part of (1- sqrt(3))^31, you wrote sqrt(2) instead of 2. And in the last example, when using the quadratic formula to find z. I think you missed a -sqrt(2) and wrote -2 instead.</p>
+<p>RHMMUH005</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11441#comment-416</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2015 11:05:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11441#comment-416</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes &#8211; Complex numbers summary [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes &#8211; Complex numbers summary [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11441#comment-322</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2015 14:22:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11441#comment-322</guid>
+		<description><![CDATA[Think about having e^z=-1.
+
+The modulus of this is 1 and the argument is i\pi+2 n \pi i, so we can write -1=1 e^{i\pi+2n\pi i}. This is where the factor comes from. Does this make sense?
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Think about having e^z=-1.</p>
+<p>The modulus of this is 1 and the argument is i\pi+2 n \pi i, so we can write -1=1 e^{i\pi+2n\pi i}. This is where the factor comes from. Does this make sense?</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Rohin Jain</title>
+		<link>http://www.mathemafrica.org/?p=11441#comment-321</link>
+		<dc:creator><![CDATA[Rohin Jain]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2015 13:36:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11441#comment-321</guid>
+		<description><![CDATA[For the second last problem. When you convert to mod arg form.  I don&#039;t understand where the i times pi comes from. Please explain]]></description>
+		<content:encoded><![CDATA[<p>For the second last problem. When you convert to mod arg form.  I don&#8217;t understand where the i times pi comes from. Please explain</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

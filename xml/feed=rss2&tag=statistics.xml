@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>statistics &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=statistics" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Correlation vs Mutual Information</title>
+		<link>http://www.mathemafrica.org/?p=16127</link>
+		<comments>http://www.mathemafrica.org/?p=16127#respond</comments>
+		<pubDate>Sat, 28 Mar 2020 11:32:03 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[correlation]]></category>
+		<category><![CDATA[Information theory]]></category>
+		<category><![CDATA[mutual information]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16127</guid>
+		<description><![CDATA[<p><i>This post is based on a (very small) part of the (dense and technical) paper Fooled by Correlation by N.N. Taleb, found at (1)</i></p>
+<p><i>Notes on the main ideas in this post are available from Universidad de Cantabria, found at (2)</i></p>
+<p><em>The aims of this post are to 1) introduce mutual information as a measure of similarity and 2) to show the nonlinear relationship between correlation and information my means of a relatively simple example</em></p>
+<p><strong>Introduction</strong></p>
+<p>A significant part of Statistical analysis is understanding how random variables are related &#8211; how much knowledge about the value of one variable tells us about the value of another. This post will consider this issue in the context of Gaussian random variables. More specifically, we will compare- and discuss the relationship between- correlation and mutual information.</p>
+<p><strong>Mutual Information</strong></p>
+<p>The Mutual Information between 2 random variables is the amount of information that one gains about a random variable by observing the value of the other.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><i>This post is based on a (very small) part of the (dense and technical) paper Fooled by Correlation by N.N. Taleb, found at (1)</i></p>
+<p><i>Notes on the main ideas in this post are available from Universidad de Cantabria, found at (2)</i></p>
+<p><em>The aims of this post are to 1) introduce mutual information as a measure of similarity and 2) to show the nonlinear relationship between correlation and information my means of a relatively simple example</em></p>
+<p><strong>Introduction</strong></p>
+<p>A significant part of Statistical analysis is understanding how random variables are related &#8211; how much knowledge about the value of one variable tells us about the value of another. This post will consider this issue in the context of Gaussian random variables. More specifically, we will compare- and discuss the relationship between- correlation and mutual information.</p>
+<p><strong>Mutual Information</strong></p>
+<p>The Mutual Information between 2 random variables is the amount of information that one gains about a random variable by observing the value of the other.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16127</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Objective Function</title>
+		<link>http://www.mathemafrica.org/?p=15998</link>
+		<comments>http://www.mathemafrica.org/?p=15998#respond</comments>
+		<pubDate>Thu, 20 Feb 2020 18:25:49 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[modelling]]></category>
+		<category><![CDATA[optimisation]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15998</guid>
+		<description><![CDATA[<p>In both Supervised and Unsupervised machine learning, most algorithms are centered around minimising (or, equivalently) maximising some objective function. This function is supposed to somehow represent what the model knows/can get right. Normally, as one would expect, the objective function does not always reflect exactly what we want.</p>
+<p>The objective function presents 2 main problems: 1. how do we minimise it (the answer to this is up for debate and there is lots of interesting research about efficient optimisation of non-convex functions and 2) assuming we can minimise it perfectly, is it the correct thing to be minimising?</p>
+<p>It is point 2 which is the focus of this post.</p>
+<p>Let&#8217;s take the example of square-loss-linear-regression.<em> </em>To do so we train a linear regression model with a square loss <img src="//s0.wp.com/latex.php?latex=%5Cmathcal%7BL%7D%28%5Cmathbf%7Bw%7D%29%3D%5Csum_i+%28y_i+-+%5Cmathbf%7Bw%7D%5ETx_i%29%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" title="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" class="latex" />. (Where we are taking the inner product of learned weights with a vector of features for each observation to predict the outcome).&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In both Supervised and Unsupervised machine learning, most algorithms are centered around minimising (or, equivalently) maximising some objective function. This function is supposed to somehow represent what the model knows/can get right. Normally, as one would expect, the objective function does not always reflect exactly what we want.</p>
+<p>The objective function presents 2 main problems: 1. how do we minimise it (the answer to this is up for debate and there is lots of interesting research about efficient optimisation of non-convex functions and 2) assuming we can minimise it perfectly, is it the correct thing to be minimising?</p>
+<p>It is point 2 which is the focus of this post.</p>
+<p>Let&#8217;s take the example of square-loss-linear-regression.<em> </em>To do so we train a linear regression model with a square loss <img src="//s0.wp.com/latex.php?latex=%5Cmathcal%7BL%7D%28%5Cmathbf%7Bw%7D%29%3D%5Csum_i+%28y_i+-+%5Cmathbf%7Bw%7D%5ETx_i%29%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" title="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" class="latex" />. (Where we are taking the inner product of learned weights with a vector of features for each observation to predict the outcome).&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15998</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simpson&#8217;s Paradox</title>
+		<link>http://www.mathemafrica.org/?p=15994</link>
+		<comments>http://www.mathemafrica.org/?p=15994#comments</comments>
+		<pubDate>Sun, 05 Jan 2020 16:57:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[paradoxes]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15994</guid>
+		<description><![CDATA[<p><strong>Introduction</strong></p>
+<p>A key consideration when analysing stratified data is how the behaviour of each category differs and how these differences might influence the overall observations about the data. For example, a data set might be split into one large category that dictates the overall behaviour or there may be a category with statistics that are significantly different from the other categories that skews the overall numbers. These features of the data are important to be aware of and go find to prevent drawing erroneous conclusions from your analysis. Context, the source of the data and a careful analysis of the data can prevent this. Simpson&#8217;s paradox is an interesting result of some of these effects.</p>
+<p><strong>The Paradox</strong></p>
+<p>Simpson&#8217;s paradox is observed in statistics when a trend is observed in a number of different groups but it is not observed in the overall data or the opposite trend is observed.</p>
+<p>Observing the overall data might therefore lead us to draw a conclusion, but when the data is grouped we might conclude something different.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Introduction</strong></p>
+<p>A key consideration when analysing stratified data is how the behaviour of each category differs and how these differences might influence the overall observations about the data. For example, a data set might be split into one large category that dictates the overall behaviour or there may be a category with statistics that are significantly different from the other categories that skews the overall numbers. These features of the data are important to be aware of and go find to prevent drawing erroneous conclusions from your analysis. Context, the source of the data and a careful analysis of the data can prevent this. Simpson&#8217;s paradox is an interesting result of some of these effects.</p>
+<p><strong>The Paradox</strong></p>
+<p>Simpson&#8217;s paradox is observed in statistics when a trend is observed in a number of different groups but it is not observed in the overall data or the opposite trend is observed.</p>
+<p>Observing the overall data might therefore lead us to draw a conclusion, but when the data is grouped we might conclude something different.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15994</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>The (Central) Cauchy distribution</title>
+		<link>http://www.mathemafrica.org/?p=15897</link>
+		<comments>http://www.mathemafrica.org/?p=15897#respond</comments>
+		<pubDate>Tue, 17 Sep 2019 16:43:47 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[STA200F]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15897</guid>
+		<description><![CDATA[<p><em>The core of this post comes from Mathematical Statistics and Data Analysis by John A. Rice which is a useful resource for subjects such as UCT&#8217;s STA2004F.</em></p>
+<p><strong>Introduction</strong></p>
+<p>The Cauchy distribution has a number of interesting properties and is considered a <em>pathological </em>(badly behaved) distribution. What is interesting about it is that it is a distribution that we can think about in a number of different ways*, and we can formulate the probability density function these ways. This post will handle the derivation of the Cauchy distribution as a ratio of independent standard normals and as a special case of the Student&#8217;s t distribution.</p>
+<p>Like the normal- and t-distributions, the standard form is centred on, and symmetric about 0. But unlike these distributions, it is known for its very heavy (fat) tails. Whereas you are unlikely to see values that are significantly larger or smaller than 0 coming from a normal distribution, this is just not the case when it comes to the Cauchy distribution.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>The core of this post comes from Mathematical Statistics and Data Analysis by John A. Rice which is a useful resource for subjects such as UCT&#8217;s STA2004F.</em></p>
+<p><strong>Introduction</strong></p>
+<p>The Cauchy distribution has a number of interesting properties and is considered a <em>pathological </em>(badly behaved) distribution. What is interesting about it is that it is a distribution that we can think about in a number of different ways*, and we can formulate the probability density function these ways. This post will handle the derivation of the Cauchy distribution as a ratio of independent standard normals and as a special case of the Student&#8217;s t distribution.</p>
+<p>Like the normal- and t-distributions, the standard form is centred on, and symmetric about 0. But unlike these distributions, it is known for its very heavy (fat) tails. Whereas you are unlikely to see values that are significantly larger or smaller than 0 coming from a normal distribution, this is just not the case when it comes to the Cauchy distribution.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15897</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>p-values (part 3): meta distribution of p-values</title>
+		<link>http://www.mathemafrica.org/?p=15794</link>
+		<comments>http://www.mathemafrica.org/?p=15794#respond</comments>
+		<pubDate>Thu, 05 Sep 2019 13:57:43 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[meta-distribution]]></category>
+		<category><![CDATA[p-values]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15794</guid>
+		<description><![CDATA[<p><b>Introduction</b></p>
+<p>So far we have discussed what p-values are and how they are calculated, as well as how bad experiments can lead to artificially small p-values. The next thing that we will look at comes from a paper by N.N. Taleb (1), in which he derives the meta-distribution of p-values i.e. what ranges of p-values we might expect if we repeatedly did an experiment where we sampled from the same underlying distribution.</p>
+<p>The derivations are pretty in depth and this content and the implications of the results are pretty new to me, so any discrepancies/misinterpretations found should be pointed out and/or discussed.</p>
+<p>Thankfully, in this video (2) there is an explanation that covers some of what the paper says as well as some Monte-Carlo simulations. My discussion will focus on some simulations of my own that are based on those that are done in the video.</p>
+<p><strong>What we are talking about</strong></p>
+<p>We have already discussed what p-values mean and how they can go wrong.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><b>Introduction</b></p>
+<p>So far we have discussed what p-values are and how they are calculated, as well as how bad experiments can lead to artificially small p-values. The next thing that we will look at comes from a paper by N.N. Taleb (1), in which he derives the meta-distribution of p-values i.e. what ranges of p-values we might expect if we repeatedly did an experiment where we sampled from the same underlying distribution.</p>
+<p>The derivations are pretty in depth and this content and the implications of the results are pretty new to me, so any discrepancies/misinterpretations found should be pointed out and/or discussed.</p>
+<p>Thankfully, in this video (2) there is an explanation that covers some of what the paper says as well as some Monte-Carlo simulations. My discussion will focus on some simulations of my own that are based on those that are done in the video.</p>
+<p><strong>What we are talking about</strong></p>
+<p>We have already discussed what p-values mean and how they can go wrong.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15794</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>p-values (part 2) : p-Hacking Why drinking red wine is not the same as exercising</title>
+		<link>http://www.mathemafrica.org/?p=15773</link>
+		<comments>http://www.mathemafrica.org/?p=15773#comments</comments>
+		<pubDate>Mon, 02 Sep 2019 15:39:28 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[p-hacking]]></category>
+		<category><![CDATA[p-values]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15773</guid>
+		<description><![CDATA[<p><strong>What is p-hacking?</strong></p>
+<p>You might have heard about a reproducibility problem with scientific studies. Or you might have heard that drinking a glass of red wine every evening is equivalent to an hour&#8217;s worth of exercise.</p>
+<p>Part of the reason that you might have heard about these things is p-hacking: &#8216;torturing the data until it confesses&#8217;. The reason for doing this is mostly pressure on researchers to find positive results (as these are more likely to be published) but it may also arise from misapplication of Statistical procedures or bad experimental design.</p>
+<p>Some of the content here is based on a more serious video from Veritasium: https://www.youtube.com/watch?v=42QuXLucH3Q. John Oliver has also spoken about this on <em>Last Week Tonight</em>, for those who are interested in some more examples of science that makes its way onto morning talk shows.</p>
+<p>p-hacking can be done in a number of ways- basically anything that is done either consciously or unconsciously to produce statistically significant results where there aren&#8217;t any.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>What is p-hacking?</strong></p>
+<p>You might have heard about a reproducibility problem with scientific studies. Or you might have heard that drinking a glass of red wine every evening is equivalent to an hour&#8217;s worth of exercise.</p>
+<p>Part of the reason that you might have heard about these things is p-hacking: &#8216;torturing the data until it confesses&#8217;. The reason for doing this is mostly pressure on researchers to find positive results (as these are more likely to be published) but it may also arise from misapplication of Statistical procedures or bad experimental design.</p>
+<p>Some of the content here is based on a more serious video from Veritasium: https://www.youtube.com/watch?v=42QuXLucH3Q. John Oliver has also spoken about this on <em>Last Week Tonight</em>, for those who are interested in some more examples of science that makes its way onto morning talk shows.</p>
+<p>p-hacking can be done in a number of ways- basically anything that is done either consciously or unconsciously to produce statistically significant results where there aren&#8217;t any.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15773</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>A quick argument for why we don&#8217;t accept the null hypothesis</title>
+		<link>http://www.mathemafrica.org/?p=15769</link>
+		<comments>http://www.mathemafrica.org/?p=15769#respond</comments>
+		<pubDate>Wed, 28 Aug 2019 13:16:43 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[hypothesis testing]]></category>
+		<category><![CDATA[statistics]]></category>
+		<category><![CDATA[stats1000]]></category>
+		<category><![CDATA[stats1006]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15769</guid>
+		<description><![CDATA[<p><strong>Introduction</strong></p>
+<p>When doing hypothesis testing, an often-repeated rule is &#8216;never accept the null hypothesis&#8217;. The reason for this is that we aren&#8217;t making probability statements about true underlying quantities, rather we are making statements about the observed data, given a hypothesis.</p>
+<p>We reject the null hypothesis if the observed data is unlikely to be observed given the null hypothesis. In a sense we are trying to disprove the null hypothesis and the strongest thing we can say about it is that we fail to reject the null hypothesis.</p>
+<p>That is because observing data that is not unlikely given that a hypothesis is true does not make that hypothesis true. That is a bit of a mouthful, but basically what we are saying is that if we make some claim about the world and then we see some data that does not disprove this claim, we cannot conclude that the claim is true.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Introduction</strong></p>
+<p>When doing hypothesis testing, an often-repeated rule is &#8216;never accept the null hypothesis&#8217;. The reason for this is that we aren&#8217;t making probability statements about true underlying quantities, rather we are making statements about the observed data, given a hypothesis.</p>
+<p>We reject the null hypothesis if the observed data is unlikely to be observed given the null hypothesis. In a sense we are trying to disprove the null hypothesis and the strongest thing we can say about it is that we fail to reject the null hypothesis.</p>
+<p>That is because observing data that is not unlikely given that a hypothesis is true does not make that hypothesis true. That is a bit of a mouthful, but basically what we are saying is that if we make some claim about the world and then we see some data that does not disprove this claim, we cannot conclude that the claim is true.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15769</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>p-values: an introduction (Part 1)</title>
+		<link>http://www.mathemafrica.org/?p=15766</link>
+		<comments>http://www.mathemafrica.org/?p=15766#respond</comments>
+		<pubDate>Wed, 21 Aug 2019 21:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[p-values]]></category>
+		<category><![CDATA[statistics]]></category>
+		<category><![CDATA[stats1000]]></category>
+		<category><![CDATA[stats1006]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15766</guid>
+		<description><![CDATA[<p><strong>The starting point</strong></p>
+<p>This is the first of (at least) 3 posts on p-values. p-values are everywhere in statistics- especially in fields that require experimental design.</p>
+<p>They are also pretty tricky to get your head around at first. This is because of the nature of classical (frequentist) statistics. So to motivate this I am going to talk about a non-statistical situation that will hopefully give some intuition about how to think when interpreting p-values and doing hypothesis testing.</p>
+<p><strong>My New Car</strong></p>
+<p>I want to buy a car. So I go down to the second hand car dealership to get one. I walk around a bit until I find one that I like.</p>
+<p>I think to myself: <strong>&#8216;this is a good car&#8217;. </strong></p>
+<p>Now because I am at a second-hand car dealership I find it appropriate to gather some data. So I chat to the lady there (looks like a bit of a scammer, but I am here for a deal) about the car.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>The starting point</strong></p>
+<p>This is the first of (at least) 3 posts on p-values. p-values are everywhere in statistics- especially in fields that require experimental design.</p>
+<p>They are also pretty tricky to get your head around at first. This is because of the nature of classical (frequentist) statistics. So to motivate this I am going to talk about a non-statistical situation that will hopefully give some intuition about how to think when interpreting p-values and doing hypothesis testing.</p>
+<p><strong>My New Car</strong></p>
+<p>I want to buy a car. So I go down to the second hand car dealership to get one. I walk around a bit until I find one that I like.</p>
+<p>I think to myself: <strong>&#8216;this is a good car&#8217;. </strong></p>
+<p>Now because I am at a second-hand car dealership I find it appropriate to gather some data. So I chat to the lady there (looks like a bit of a scammer, but I am here for a deal) about the car.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15766</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>R-squared values for linear regression</title>
+		<link>http://www.mathemafrica.org/?p=15734</link>
+		<comments>http://www.mathemafrica.org/?p=15734#comments</comments>
+		<pubDate>Sun, 18 Aug 2019 11:28:56 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[linear regression]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15734</guid>
+		<description><![CDATA[<p><strong>What we are talking about</strong></p>
+<p>Linear regression is a common and useful statistical tool. You will have almost certainly come across it if your studies have presented you with any sort of statistical problems.</p>
+<p>The pros of regression are that it is relatively easy to implement and that the relationship between inputs and outputs is linear (it&#8217;s in the name, but this simplifies the interpretation of the relationship significantly). On the downside, it relies fairly heavily on frequentist interpretation of probability (which is a little counterintuitive) and it&#8217;s very easy to draw erroneous conclusions from different models.</p>
+<p>This post will deal with a measure of how good a model is: <img src="//s0.wp.com/latex.php?latex=R%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="R^2" title="R^2" class="latex" />. First, I will go through what this value means and what it measures. Then, I will discuss an example of how reliance on  <img src="//s0.wp.com/latex.php?latex=R%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="R^2" title="R^2" class="latex" />  is a dangerous game when it comes to linear models.</p>
+<p><strong>What you should know</strong></p>
+<p>Firstly, let&#8217;s establish a bit of context.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>What we are talking about</strong></p>
+<p>Linear regression is a common and useful statistical tool. You will have almost certainly come across it if your studies have presented you with any sort of statistical problems.</p>
+<p>The pros of regression are that it is relatively easy to implement and that the relationship between inputs and outputs is linear (it&#8217;s in the name, but this simplifies the interpretation of the relationship significantly). On the downside, it relies fairly heavily on frequentist interpretation of probability (which is a little counterintuitive) and it&#8217;s very easy to draw erroneous conclusions from different models.</p>
+<p>This post will deal with a measure of how good a model is: <img src="//s0.wp.com/latex.php?latex=R%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="R^2" title="R^2" class="latex" />. First, I will go through what this value means and what it measures. Then, I will discuss an example of how reliance on  <img src="//s0.wp.com/latex.php?latex=R%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="R^2" title="R^2" class="latex" />  is a dangerous game when it comes to linear models.</p>
+<p><strong>What you should know</strong></p>
+<p>Firstly, let&#8217;s establish a bit of context.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15734</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Ten Great Ideas about Chance &#8211; By Persi Diaconis &#038; Brian Skyrms, a review</title>
+		<link>http://www.mathemafrica.org/?p=13780</link>
+		<comments>http://www.mathemafrica.org/?p=13780#comments</comments>
+		<pubDate>Sun, 31 Dec 2017 12:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[Book Review]]></category>
+		<category><![CDATA[Chance]]></category>
+		<category><![CDATA[probability]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13780</guid>
+		<description><![CDATA[<p>NB. I was sent <a href="https://press.princeton.edu/titles/11082.html">this book</a> as a review copy.</p>
+<div style="width: 346px" class="wp-caption alignnone"><img class="" src="http://i1.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691174167.png?resize=336%2C480&#038;ssl=1" alt="http://i1.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691174167.png?resize=336%2C480&#038;ssl=1" data-recalc-dims="1" /><p class="wp-caption-text">From Princeton University Press</p></div>
+<p>This book straddles a tricky middle ground, given that it introduces topics from scratch and goes into some very specific details of them in a relatively few pages, before jumping onto the next. On starting to read it, I was skeptical of how this could possible work, but by the end of it I believe that I saw the real utility of a book like this. The audience is quite specific, but for them it will be a gem.</p>
+<p>The book covers a huge range of ideas related to chance, from the underlying mathematics of probability, to the psychology of decision making, the physics of chaos and quantum mechanics, the problems inherent in induction and inference and much more besides.</p>
+<p>The book is taken from a long-running course at Stanford which the authors taught for a number of years, and they have tried to condense down the most important aspects of it to a relatively light book.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>NB. I was sent <a href="https://press.princeton.edu/titles/11082.html">this book</a> as a review copy.</p>
+<div style="width: 346px" class="wp-caption alignnone"><img class="" src="http://i1.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691174167.png?resize=336%2C480&#038;ssl=1" alt="http://i1.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691174167.png?resize=336%2C480&#038;ssl=1" data-recalc-dims="1" /><p class="wp-caption-text">From Princeton University Press</p></div>
+<p>This book straddles a tricky middle ground, given that it introduces topics from scratch and goes into some very specific details of them in a relatively few pages, before jumping onto the next. On starting to read it, I was skeptical of how this could possible work, but by the end of it I believe that I saw the real utility of a book like this. The audience is quite specific, but for them it will be a gem.</p>
+<p>The book covers a huge range of ideas related to chance, from the underlying mathematics of probability, to the psychology of decision making, the physics of chaos and quantum mechanics, the problems inherent in induction and inference and much more besides.</p>
+<p>The book is taken from a long-running course at Stanford which the authors taught for a number of years, and they have tried to condense down the most important aspects of it to a relatively light book.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13780</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

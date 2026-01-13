@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;lang=Xh" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org?lang=Xh</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>xh</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Mathematics or dreams, which is more real? Izibalo okanye amaphupha, yeyiphi eyona iyinyani?</title>
+		<link>http://www.mathemafrica.org/?p=13459&#038;lang=Xh</link>
+		<comments>http://www.mathemafrica.org/?p=13459&#038;lang=Xh#comments</comments>
+		<pubDate>Mon, 17 Aug 2015 15:06:26 +0000</pubDate>
+		<dc:creator><![CDATA[Portia Mabedla]]></dc:creator>
+				<category><![CDATA[Uncategorized @Xh]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13459&#038;lang=Xh</guid>
+		<description><![CDATA[<p>Translated from <a href="http://www.mathemafrica.org/?p=10443">here</a>.</p>
+<h2 class="entry-title">Mathematics or dreams, which is more real? <em>Izibalo okanye amaphupha, yeyiphi eyona iyinyani?</em></h2>
+<div class="post-content">
+<p>Mathematics can sometimes seem dream-like, at least on first encounter. Later on, one gets<br />
+used to a new mathematical object, and it seems everyday. I remember how strange the idea of<br />
+a group was to me, how mysteriously it grew from three almost trivial axioms to a forest<br />
+of subgroups and quotient groups and equivalence classes and so on. Of the few dreams I<br />
+now recall, there was one with a huge hall full of people, perhaps a giant cave, and I was descending a long,<br />
+rickety staircase — or was I sliding down a cable? — feeling myself among a heretofore<br />
+completely unsuspected part of humanity, who perhaps nobody from above ground had ever seen.<br />
+Groups were a bit like that, and saying that a square had a symmetery group did not<br />
+make them appear any less unexpected.</p>&#8230;</div>]]></description>
+				<content:encoded><![CDATA[<p>Translated from <a href="http://www.mathemafrica.org/?p=10443">here</a>.</p>
+<h2 class="entry-title">Mathematics or dreams, which is more real? <em>Izibalo okanye amaphupha, yeyiphi eyona iyinyani?</em></h2>
+<div class="post-content">
+<p>Mathematics can sometimes seem dream-like, at least on first encounter. Later on, one gets<br />
+used to a new mathematical object, and it seems everyday. I remember how strange the idea of<br />
+a group was to me, how mysteriously it grew from three almost trivial axioms to a forest<br />
+of subgroups and quotient groups and equivalence classes and so on. Of the few dreams I<br />
+now recall, there was one with a huge hall full of people, perhaps a giant cave, and I was descending a long,<br />
+rickety staircase — or was I sliding down a cable? — feeling myself among a heretofore<br />
+completely unsuspected part of humanity, who perhaps nobody from above ground had ever seen.<br />
+Groups were a bit like that, and saying that a square had a symmetery group did not<br />
+make them appear any less unexpected.</p>&hellip;</div>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?lang=Xh&#038;feed=rss2&#038;p=13459</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

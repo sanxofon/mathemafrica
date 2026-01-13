@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Mathematical induction with an inequality</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=12464" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=12464</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Wed, 08 Apr 2020 11:39:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Umar Farouk</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1866</link>
+		<dc:creator><![CDATA[Umar Farouk]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2019 19:17:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1866</guid>
+		<description><![CDATA[yes, this does help as i was lost on the same step.]]></description>
+		<content:encoded><![CDATA[<p>yes, this does help as i was lost on the same step.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: UCT MAM1000W lecture notes subject links &#8211; Mathemafrica</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1701</link>
+		<dc:creator><![CDATA[UCT MAM1000W lecture notes subject links &#8211; Mathemafrica]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2018 10:29:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1701</guid>
+		<description><![CDATA[[&#8230;] Mathematical induction with an inequalityProof by induction winning explanation [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Mathematical induction with an inequalityProof by induction winning explanation [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mufhatutshedzwa Nemakhavhani</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1552</link>
+		<dc:creator><![CDATA[Mufhatutshedzwa Nemakhavhani]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2017 23:38:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1552</guid>
+		<description><![CDATA[Thank you Dr Shock for such a wonderful explanation.]]></description>
+		<content:encoded><![CDATA[<p>Thank you Dr Shock for such a wonderful explanation.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1164</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 09:33:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1164</guid>
+		<description><![CDATA[If we have (1+a)^b, we can write this is (a(1+1/a))^b, and we know that if we have (pq)^r, this is p^rq^r, so therefore (a(1+1/a))^b=a^b(1+1/a)^b. In this case a is n and b is 3. Does that help?]]></description>
+		<content:encoded><![CDATA[<p>If we have (1+a)^b, we can write this is (a(1+1/a))^b, and we know that if we have (pq)^r, this is p^rq^r, so therefore (a(1+1/a))^b=a^b(1+1/a)^b. In this case a is n and b is 3. Does that help?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Greg</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1163</link>
+		<dc:creator><![CDATA[Greg]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 09:26:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1163</guid>
+		<description><![CDATA[&quot;ok, now we have to do some inspection. We want to get the right hand side somehow to look like (n+1)^3 but at the moment, we just have n^3. In fact one can write: (n+1)^3 = n^3(1+1/n)^3&quot;
+
+
+I really don&#039;t understand this step at all. Please explain why and how you went from (n+1)^3 to (n+1)^3 = n^3(1+1/n)^3
+
+Thank you kindly.]]></description>
+		<content:encoded><![CDATA[<p>&#8220;ok, now we have to do some inspection. We want to get the right hand side somehow to look like (n+1)^3 but at the moment, we just have n^3. In fact one can write: (n+1)^3 = n^3(1+1/n)^3&#8221;</p>
+<p>I really don&#8217;t understand this step at all. Please explain why and how you went from (n+1)^3 to (n+1)^3 = n^3(1+1/n)^3</p>
+<p>Thank you kindly.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1159</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2016 16:13:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1159</guid>
+		<description><![CDATA[In this case you have to be a bit careful as it is only true for n&gt;=10, so you can say &quot;Suppose for an arbitrary natural number&gt;=10, that...&quot;]]></description>
+		<content:encoded><![CDATA[<p>In this case you have to be a bit careful as it is only true for n>=10, so you can say &#8220;Suppose for an arbitrary natural number>=10, that&#8230;&#8221;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Kabelo</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1157</link>
+		<dc:creator><![CDATA[Kabelo]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2016 08:02:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1157</guid>
+		<description><![CDATA[Can we phrase for exam purposes, the inductive hypothesis: as &quot;Suppose for an arbitrary natural number n, that 2^n &#062; n^3...&quot;?]]></description>
+		<content:encoded><![CDATA[<p>Can we phrase for exam purposes, the inductive hypothesis: as &#8220;Suppose for an arbitrary natural number n, that 2^n &gt; n^3&#8230;&#8221;?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tshepiso</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1156</link>
+		<dc:creator><![CDATA[Tshepiso]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 22:49:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1156</guid>
+		<description><![CDATA[Thank you very much Dr Shock!]]></description>
+		<content:encoded><![CDATA[<p>Thank you very much Dr Shock!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Josh</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1155</link>
+		<dc:creator><![CDATA[Josh]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 18:57:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1155</guid>
+		<description><![CDATA[Thank you!]]></description>
+		<content:encoded><![CDATA[<p>Thank you!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Shai</title>
+		<link>http://www.mathemafrica.org/?p=12464#comment-1154</link>
+		<dc:creator><![CDATA[Shai]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 16:50:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464#comment-1154</guid>
+		<description><![CDATA[Thanks for clarifying, Doc Shock!]]></description>
+		<content:encoded><![CDATA[<p>Thanks for clarifying, Doc Shock!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

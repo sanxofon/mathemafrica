@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taylor polynomials &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=taylor-polynomials" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>UCT MAM1000 lecture notes part 21 &#8211; Tuesday 18th August</title>
+		<link>http://www.mathemafrica.org/?p=11203</link>
+		<comments>http://www.mathemafrica.org/?p=11203#comments</comments>
+		<pubDate>Sun, 16 Aug 2015 09:52:25 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[taylor polynomials]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11203</guid>
+		<description><![CDATA[<p>So we&#8217;ve now looked at a couple of different functions and found polynomials which approximate the functions to different levels of accuracy. Let&#8217;s try and come up with a general method of formulating this. Let&#8217;s say that we have some function <img src="//s0.wp.com/latex.php?latex=f%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)" title="f(x)" class="latex" /> and we want to approximate it close to <img src="//s0.wp.com/latex.php?latex=x%3Da&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=a" title="x=a" class="latex" />. We will then assume that we can write the polynomial approximation as:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Csum_%7Bi%3D0%7D%5En+c_i+%28x-a%29%5Ei&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;sum_{i=0}^n c_i (x-a)^i" title="&#92;sum_{i=0}^n c_i (x-a)^i" class="latex" /></p>
+<p>&#160;</p>
+<p>Note that previously we wrote <img src="//s0.wp.com/latex.php?latex=a_i&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_i" title="a_i" class="latex" /> but it&#8217;s good to get used to slightly changeable notation. The context is what should tell you the meaning.</p>
+<p>We want to have that:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=f%28x%29%5Capprox+%5Csum_%7Bi%3D0%7D%5En+c_i+%28x-a%29%5Ei&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)&#92;approx &#92;sum_{i=0}^n c_i (x-a)^i" title="f(x)&#92;approx &#92;sum_{i=0}^n c_i (x-a)^i" class="latex" /></p>
+<p>&#160;</p>
+<p>We will first ask that the value of the polynomial is equal to the value of the function at <img src="//s0.wp.com/latex.php?latex=x%3Da&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=a" title="x=a" class="latex" />. We do this by setting <img src="//s0.wp.com/latex.php?latex=x%3Da&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=a" title="x=a" class="latex" /> in both sides of the above. Note that we are being slightly ambiguous in what we mean by the approximation here because in a moment we will go from a <img src="//s0.wp.com/latex.php?latex=%5Capprox&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;approx" title="&#92;approx" class="latex" /> sign to an <img src="//s0.wp.com/latex.php?latex=%3D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="=" title="=" class="latex" /> sign.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So we&#8217;ve now looked at a couple of different functions and found polynomials which approximate the functions to different levels of accuracy. Let&#8217;s try and come up with a general method of formulating this. Let&#8217;s say that we have some function <img src="//s0.wp.com/latex.php?latex=f%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)" title="f(x)" class="latex" /> and we want to approximate it close to <img src="//s0.wp.com/latex.php?latex=x%3Da&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=a" title="x=a" class="latex" />. We will then assume that we can write the polynomial approximation as:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Csum_%7Bi%3D0%7D%5En+c_i+%28x-a%29%5Ei&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;sum_{i=0}^n c_i (x-a)^i" title="&#92;sum_{i=0}^n c_i (x-a)^i" class="latex" /></p>
+<p>&nbsp;</p>
+<p>Note that previously we wrote <img src="//s0.wp.com/latex.php?latex=a_i&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_i" title="a_i" class="latex" /> but it&#8217;s good to get used to slightly changeable notation. The context is what should tell you the meaning.</p>
+<p>We want to have that:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=f%28x%29%5Capprox+%5Csum_%7Bi%3D0%7D%5En+c_i+%28x-a%29%5Ei&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)&#92;approx &#92;sum_{i=0}^n c_i (x-a)^i" title="f(x)&#92;approx &#92;sum_{i=0}^n c_i (x-a)^i" class="latex" /></p>
+<p>&nbsp;</p>
+<p>We will first ask that the value of the polynomial is equal to the value of the function at <img src="//s0.wp.com/latex.php?latex=x%3Da&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=a" title="x=a" class="latex" />. We do this by setting <img src="//s0.wp.com/latex.php?latex=x%3Da&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=a" title="x=a" class="latex" /> in both sides of the above. Note that we are being slightly ambiguous in what we mean by the approximation here because in a moment we will go from a <img src="//s0.wp.com/latex.php?latex=%5Capprox&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;approx" title="&#92;approx" class="latex" /> sign to an <img src="//s0.wp.com/latex.php?latex=%3D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="=" title="=" class="latex" /> sign.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11203</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 20 &#8211; part iii &#8211; Monday 17th August</title>
+		<link>http://www.mathemafrica.org/?p=11192</link>
+		<comments>http://www.mathemafrica.org/?p=11192#comments</comments>
+		<pubDate>Sun, 16 Aug 2015 09:34:01 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[taylor polynomials]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11192</guid>
+		<description><![CDATA[<p>Now we&#8217;re going to take a more complicated expression and approximate it by a polynomial function. The function we&#8217;re going to look at is <img src="//s0.wp.com/latex.php?latex=f%28x%29%3D2+%5Csin+x%2B%5Cfrac%7B%5Ccos+3x%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)=2 &#92;sin x+&#92;frac{&#92;cos 3x}{2}" title="f(x)=2 &#92;sin x+&#92;frac{&#92;cos 3x}{2}" class="latex" />, but we could choose any function which is well behaved close to where we want to approximate it (there is a much more precise way to phrase this, but for the current discussion, this is enough).</p>
+<p>This function looks like:</p>
+<p><a href="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png"><img class="aligncenter size-full wp-image-11193" src="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png?resize=913%2C531" alt="approxfunc" srcset="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png?resize=300%2C174 300w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png?fit=913%2C531 913w" sizes="(max-width: 913px) 100vw, 913px" data-recalc-dims="1" /></a></p>
+<p>OK, so how are we going to go about approximating this function? Well, let&#8217;s ask about approximating it close to the point <img src="//s0.wp.com/latex.php?latex=x%3D2.5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=2.5" title="x=2.5" class="latex" /> (this value is arbitrary and we could have asked for any value). What would be the most naive approximation we could make? Well, if we have a function which is a constant, and equal to the original function at <img src="//s0.wp.com/latex.php?latex=x%3D2.5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=2.5" title="x=2.5" class="latex" /> then that&#8217;s a start. At least it matches the value of the function at that point, if nothing else. What is the value of this function at <img src="//s0.wp.com/latex.php?latex=x%3D2.5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=2.5" title="x=2.5" class="latex" />?&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Now we&#8217;re going to take a more complicated expression and approximate it by a polynomial function. The function we&#8217;re going to look at is <img src="//s0.wp.com/latex.php?latex=f%28x%29%3D2+%5Csin+x%2B%5Cfrac%7B%5Ccos+3x%7D%7B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)=2 &#92;sin x+&#92;frac{&#92;cos 3x}{2}" title="f(x)=2 &#92;sin x+&#92;frac{&#92;cos 3x}{2}" class="latex" />, but we could choose any function which is well behaved close to where we want to approximate it (there is a much more precise way to phrase this, but for the current discussion, this is enough).</p>
+<p>This function looks like:</p>
+<p><a href="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png"><img class="aligncenter size-full wp-image-11193" src="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png?resize=913%2C531" alt="approxfunc" srcset="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png?resize=300%2C174 300w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2015/08/approxfunc.png?fit=913%2C531 913w" sizes="(max-width: 913px) 100vw, 913px" data-recalc-dims="1" /></a></p>
+<p>OK, so how are we going to go about approximating this function? Well, let&#8217;s ask about approximating it close to the point <img src="//s0.wp.com/latex.php?latex=x%3D2.5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=2.5" title="x=2.5" class="latex" /> (this value is arbitrary and we could have asked for any value). What would be the most naive approximation we could make? Well, if we have a function which is a constant, and equal to the original function at <img src="//s0.wp.com/latex.php?latex=x%3D2.5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=2.5" title="x=2.5" class="latex" /> then that&#8217;s a start. At least it matches the value of the function at that point, if nothing else. What is the value of this function at <img src="//s0.wp.com/latex.php?latex=x%3D2.5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=2.5" title="x=2.5" class="latex" />?&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11192</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

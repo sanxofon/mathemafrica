@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Economics &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=economics" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>An explanation for the multiplier effect in a Keynesian macroeconomic model</title>
+		<link>http://www.mathemafrica.org/?p=10311</link>
+		<comments>http://www.mathemafrica.org/?p=10311#comments</comments>
+		<pubDate>Sun, 15 Mar 2015 16:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[Aidan Horn]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Economics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10311</guid>
+		<description><![CDATA[<p style="text-align: justify"><span style="color: #333333">In this post I will provide a mathematical basis for the multiplier effect which is found when changing an autonomous variable in the aggregate expenditure function (AE). AE is a function which represents the total amount of money that is spent by all consumers in an economy, and is made up of two components: autonomous expenditure (which is exogenous in relation to income) and induced expenditure (endogenous to income). In other words, autonomous expenditure is the y-cut of the AE funtion, and any increases in autonomous expenditure will shift AE vertically. Induced consumption refers to any expenditure that is over and above the level of expenditure at the y-cut, and is directly related to the gradient of the AE function (which includes the marginal propensity to consume¹). Referring to Figure 1 below, let the increase in autonomous expenditure be <em>y<sub>1</sub>. y<sub>1</sub></em> thus shifts AE<em><sub>1</sub></em> to AE<em><sub>2</sub></em>.</span>&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify"><span style="color: #333333">In this post I will provide a mathematical basis for the multiplier effect which is found when changing an autonomous variable in the aggregate expenditure function (AE). AE is a function which represents the total amount of money that is spent by all consumers in an economy, and is made up of two components: autonomous expenditure (which is exogenous in relation to income) and induced expenditure (endogenous to income). In other words, autonomous expenditure is the y-cut of the AE funtion, and any increases in autonomous expenditure will shift AE vertically. Induced consumption refers to any expenditure that is over and above the level of expenditure at the y-cut, and is directly related to the gradient of the AE function (which includes the marginal propensity to consume¹). Referring to Figure 1 below, let the increase in autonomous expenditure be <em>y<sub>1</sub>. y<sub>1</sub></em> thus shifts AE<em><sub>1</sub></em> to AE<em><sub>2</sub></em>.</span>&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10311</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Polynomial division</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=12378" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=12378</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 01 Aug 2016 17:30:49 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=12378#comment-1136</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Sun, 06 Mar 2016 14:25:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12378#comment-1136</guid>
+		<description><![CDATA[Hi Mike, I plan on doing precisely that.]]></description>
+		<content:encoded><![CDATA[<p>Hi Mike, I plan on doing precisely that.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mike</title>
+		<link>http://www.mathemafrica.org/?p=12378#comment-1135</link>
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Sun, 06 Mar 2016 14:13:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12378#comment-1135</guid>
+		<description><![CDATA[Nice post for those who have been struggling with this. Any chance you would consider doing a post of this sort of step by step nature with regards to mathematical induction? I know that at least a few people have been finding it difficult to properly grasp the concept, and would likely find it helpful.]]></description>
+		<content:encoded><![CDATA[<p>Nice post for those who have been struggling with this. Any chance you would consider doing a post of this sort of step by step nature with regards to mathematical induction? I know that at least a few people have been finding it difficult to properly grasp the concept, and would likely find it helpful.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

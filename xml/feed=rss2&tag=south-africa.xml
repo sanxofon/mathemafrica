@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>South Africa &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=south-africa" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>A personal introduction</title>
+		<link>http://www.mathemafrica.org/?p=10245</link>
+		<comments>http://www.mathemafrica.org/?p=10245#respond</comments>
+		<pubDate>Sat, 13 Dec 2014 12:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Background]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[AIMS]]></category>
+		<category><![CDATA[Imaginary]]></category>
+		<category><![CDATA[South Africa]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10245</guid>
+		<description><![CDATA[<p>I write this before Mathemafrica publicly launches. I want to give a little background about myself, what I am doing now, and what I see as the potential for Mathemafrica.</p>
+<p>I am originally from England, Oxford to be precise. From a very early age I was fascinated with the way the world worked, being that pestering, questioning child who won&#8217;t take &#8216;just because&#8217; for an answer. I was very lucky to discover early on that not only were there fascinating questions to be asked, but answers when you knew the right places to look. I was lucky to have resources at my fingertips and museums just down the road where there were mysteries to be solved on every trip. My curiosity was not sated by reading books and so I went on to study physics at University. After four years and still hungry for more I thought that a PhD might finally put a stop to my questioning, but of course that only added to the arsenal of tools at my disposal for answering them.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>I write this before Mathemafrica publicly launches. I want to give a little background about myself, what I am doing now, and what I see as the potential for Mathemafrica.</p>
+<p>I am originally from England, Oxford to be precise. From a very early age I was fascinated with the way the world worked, being that pestering, questioning child who won&#8217;t take &#8216;just because&#8217; for an answer. I was very lucky to discover early on that not only were there fascinating questions to be asked, but answers when you knew the right places to look. I was lucky to have resources at my fingertips and museums just down the road where there were mysteries to be solved on every trip. My curiosity was not sated by reading books and so I went on to study physics at University. After four years and still hungry for more I thought that a PhD might finally put a stop to my questioning, but of course that only added to the arsenal of tools at my disposal for answering them.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10245</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

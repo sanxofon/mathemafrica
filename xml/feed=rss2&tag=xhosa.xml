@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Xhosa &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=xhosa" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Khan academy in Xhosa</title>
+		<link>http://www.mathemafrica.org/?p=11614</link>
+		<comments>http://www.mathemafrica.org/?p=11614#comments</comments>
+		<pubDate>Mon, 28 Sep 2015 14:40:28 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[binomial theorem]]></category>
+		<category><![CDATA[Khan academy]]></category>
+		<category><![CDATA[videos]]></category>
+		<category><![CDATA[Xhosa]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11614</guid>
+		<description><![CDATA[<p>For those who don&#8217;t know, a huge amount of Khan academy has been translated into Xhosa. The videos can be found <a href="https://xh.khanacademy.org/">here</a>.</p>
+<p>For instance, here&#8217;s the binomial theorem:</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/CwVg10ziugY?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>as translated by <span class="long-description">Zwelithini Mxhego. It looks like these videos haven&#8217;t been viewed all that many times, though a huge amount of work has clearly gone into them. If you think you know people who might benefit from these, please do spread the word!</span></p>
+<p>&#160;</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-116150"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>For those who don&#8217;t know, a huge amount of Khan academy has been translated into Xhosa. The videos can be found <a href="https://xh.khanacademy.org/">here</a>.</p>
+<p>For instance, here&#8217;s the binomial theorem:</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/CwVg10ziugY?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>as translated by <span class="long-description">Zwelithini Mxhego. It looks like these videos haven&#8217;t been viewed all that many times, though a huge amount of work has clearly gone into them. If you think you know people who might benefit from these, please do spread the word!</span></p>
+<p>&nbsp;</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-116150"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11614</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

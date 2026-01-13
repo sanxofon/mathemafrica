@@ -1,0 +1,1 @@
+s{http://www\.mathemafrica\.org/\?(feed[^"'#<]+)}{/mathemafrica/$1.xml}gi;

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 35- differential equations part iv &#8211; separable differential equations</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11471" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11471</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 06 Aug 2016 14:36:17 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject links</title>
+		<link>http://www.mathemafrica.org/?p=11471#comment-439</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject links]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2015 10:36:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11471#comment-439</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 35 &#8211; Differential equations &#8211; separable differential equation&#8230; [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 35 &#8211; Differential equations &#8211; separable differential equation&#8230; [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11471#comment-354</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 05:47:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11471#comment-354</guid>
+		<description><![CDATA[Cheers Abigail!]]></description>
+		<content:encoded><![CDATA[<p>Cheers Abigail!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Abigail Mallows</title>
+		<link>http://www.mathemafrica.org/?p=11471#comment-353</link>
+		<dc:creator><![CDATA[Abigail Mallows]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 21:16:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11471#comment-353</guid>
+		<description><![CDATA[Hello Dr Shock
+There is an integral sign missing in the Right hand side of the integration of the example dy/dx=e^(-y)*(2x-4).]]></description>
+		<content:encoded><![CDATA[<p>Hello Dr Shock<br />
+There is an integral sign missing in the Right hand side of the integration of the example dy/dx=e^(-y)*(2x-4).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11471#comment-351</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2015 00:00:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11471#comment-351</guid>
+		<description><![CDATA[Cheers - good spot.
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Cheers &#8211; good spot.</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Valentine Chisango</title>
+		<link>http://www.mathemafrica.org/?p=11471#comment-350</link>
+		<dc:creator><![CDATA[Valentine Chisango]]></dc:creator>
+		<pubDate>Sun, 13 Sep 2015 23:09:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11471#comment-350</guid>
+		<description><![CDATA[In the sentence before the first figure you have &quot;In figure the figure below&quot;]]></description>
+		<content:encoded><![CDATA[<p>In the sentence before the first figure you have &#8220;In figure the figure below&#8221;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

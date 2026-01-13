@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: System Of Reasoning (S1E01): The Rules.</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=16174" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=16174</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Wed, 08 Apr 2020 11:39:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Systems Of Reasong (S1E02) : The Axiomatic Structure. &#8211; Mathemafrica</title>
+		<link>http://www.mathemafrica.org/?p=16174#comment-1950</link>
+		<dc:creator><![CDATA[Systems Of Reasong (S1E02) : The Axiomatic Structure. &#8211; Mathemafrica]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 11:39:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16174#comment-1950</guid>
+		<description><![CDATA[[&#8230;] Previous [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Previous [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: tswelopele moshe</title>
+		<link>http://www.mathemafrica.org/?p=16174#comment-1949</link>
+		<dc:creator><![CDATA[tswelopele moshe]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 13:35:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16174#comment-1949</guid>
+		<description><![CDATA[I realise the way I&#039;ve used the substitution function implicitly assumes invertibility. Is this the case? Can one prove it from the definition?]]></description>
+		<content:encoded><![CDATA[<p>I realise the way I&#8217;ve used the substitution function implicitly assumes invertibility. Is this the case? Can one prove it from the definition?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cape Town &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=cape-town" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>3rd International Workshop on Nonlinear and Modern Mathematical Physics 9-11 April 2015, Cape Town, South Africa</title>
+		<link>http://www.mathemafrica.org/?p=10276</link>
+		<comments>http://www.mathemafrica.org/?p=10276#respond</comments>
+		<pubDate>Mon, 02 Mar 2015 12:12:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Conference advert]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cape Town]]></category>
+		<category><![CDATA[confererence]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10276</guid>
+		<description><![CDATA[<p>Check out the following conference happening near Cape Town in April:</p>
+<h2><a href="https://sites.google.com/a/aims.ac.za/3rd-nmmp/home">3rd International Workshop on Nonlinear and Modern Mathematical Physics 9-11 April 2015, Cape Town, South Africa</a></h2>
+<p>&#160;</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-102770"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Check out the following conference happening near Cape Town in April:</p>
+<h2><a href="https://sites.google.com/a/aims.ac.za/3rd-nmmp/home">3rd International Workshop on Nonlinear and Modern Mathematical Physics 9-11 April 2015, Cape Town, South Africa</a></h2>
+<p>&nbsp;</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-102770"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10276</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

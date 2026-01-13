@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mathematical induction &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=mathematical-induction" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Mathematical induction with an inequality</title>
+		<link>http://www.mathemafrica.org/?p=12464</link>
+		<comments>http://www.mathemafrica.org/?p=12464#comments</comments>
+		<pubDate>Wed, 09 Mar 2016 14:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[mathematical induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464</guid>
+		<description><![CDATA[<p>In the tutorial sessions it was clear that one question in particular was causing problems. This is an induction proof with an inequality. The one which we will look at is the inequality:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5En%3En%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^n&#62;n^3" title="2^n&#62;n^3" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=n%5Cge+10&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 10" title="n&#92;ge 10" class="latex" /></p>
+<p>&#160;</p>
+<p>I am going to talk you through it in more detail than would be needed for the formal proof but I want to give some intuition along the way.</p>
+<p>&#160;</p>
+<p>So, we start off, as always with the base case. The base case is always the first integer for which the statement is claimed to be true. In this case it is for n=10. Let&#8217;s check for n=10. Is it true that?</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5E%7B10%7D%3E10%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^{10}&#62;10^3" title="2^{10}&#62;10^3" class="latex" /> ?</p>
+<p>&#160;</p>
+<p>Well this is:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=1024%3E1000&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1024&#62;1000" title="1024&#62;1000" class="latex" /></p>
+<p>&#160;</p>
+<p>and so we should be happy with that. We&#8217;ve proved the base case. Note that you do not then need to check for n=11, or n=12. I have seen many students check a base case for n=1, and then also check for n=2 and n=3.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In the tutorial sessions it was clear that one question in particular was causing problems. This is an induction proof with an inequality. The one which we will look at is the inequality:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5En%3En%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^n&gt;n^3" title="2^n&gt;n^3" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=n%5Cge+10&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 10" title="n&#92;ge 10" class="latex" /></p>
+<p>&nbsp;</p>
+<p>I am going to talk you through it in more detail than would be needed for the formal proof but I want to give some intuition along the way.</p>
+<p>&nbsp;</p>
+<p>So, we start off, as always with the base case. The base case is always the first integer for which the statement is claimed to be true. In this case it is for n=10. Let&#8217;s check for n=10. Is it true that?</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5E%7B10%7D%3E10%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^{10}&gt;10^3" title="2^{10}&gt;10^3" class="latex" /> ?</p>
+<p>&nbsp;</p>
+<p>Well this is:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=1024%3E1000&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1024&gt;1000" title="1024&gt;1000" class="latex" /></p>
+<p>&nbsp;</p>
+<p>and so we should be happy with that. We&#8217;ve proved the base case. Note that you do not then need to check for n=11, or n=12. I have seen many students check a base case for n=1, and then also check for n=2 and n=3.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12464</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Mathematical induction</title>
+		<link>http://www.mathemafrica.org/?p=12407</link>
+		<comments>http://www.mathemafrica.org/?p=12407#comments</comments>
+		<pubDate>Sun, 06 Mar 2016 15:43:12 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[mathematical induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12407</guid>
+		<description><![CDATA[<p>One of the concepts that most students seem to struggle with the most in the first year maths course is that of mathematical induction. It feels abstract, yet when you have to prove a concrete statement, it feels like all the assumptions, and cases you look at shouldn&#8217;t have any real impact on the thing that you&#8217;re trying to prove. I will now try and prove that this is not true (though not by mathematical induction!).</p>
+<p>&#160;</p>
+<p>I&#8217;m going to start with a ladder brought from a magical ladder supplier. Steps on the ladder are labeled S(1), S(2), S(3) etc. The question is, are there infinitely many steps on the ladder? Well, with the information that I&#8217;ve given you so far, you just don&#8217;t know, but the manufacturer has given a little leaflet with the it. In the leaflet it says:</p>
+<p>&#8220;As long as your ladder has a step S(n), we hereby guarantee that it will have a step S(n+1), for any integers n&#8221;.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the concepts that most students seem to struggle with the most in the first year maths course is that of mathematical induction. It feels abstract, yet when you have to prove a concrete statement, it feels like all the assumptions, and cases you look at shouldn&#8217;t have any real impact on the thing that you&#8217;re trying to prove. I will now try and prove that this is not true (though not by mathematical induction!).</p>
+<p>&nbsp;</p>
+<p>I&#8217;m going to start with a ladder brought from a magical ladder supplier. Steps on the ladder are labeled S(1), S(2), S(3) etc. The question is, are there infinitely many steps on the ladder? Well, with the information that I&#8217;ve given you so far, you just don&#8217;t know, but the manufacturer has given a little leaflet with the it. In the leaflet it says:</p>
+<p>&#8220;As long as your ladder has a step S(n), we hereby guarantee that it will have a step S(n+1), for any integers n&#8221;.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12407</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

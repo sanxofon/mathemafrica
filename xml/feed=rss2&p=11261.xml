@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Could these have been the first computer games?</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11261" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11261</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Tue, 31 May 2016 09:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Tapiwa Chadenga</title>
+		<link>http://www.mathemafrica.org/?p=11261#comment-298</link>
+		<dc:creator><![CDATA[Tapiwa Chadenga]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2015 14:09:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11261#comment-298</guid>
+		<description><![CDATA[Hi Jonathan, thank you for pointing that out, I have made the necessary corrections. The formula gives an upper approximation of possible states because it includes board conditions that will never occur in a real game; for example, you can never have a board state in which all pebbles are in a single pit. As for the simulation; it has been a matter of interest in artificial intelligence and algorithm analysis since the game was developed. In algorithm analysis, developers often choose between going for aggressive win strategies, or loss minimization strategies. I have tried to incorporate the best of both worlds (to some extent) in my version, so it should prove to be a worthy adversary. Enjoy.]]></description>
+		<content:encoded><![CDATA[<p>Hi Jonathan, thank you for pointing that out, I have made the necessary corrections. The formula gives an upper approximation of possible states because it includes board conditions that will never occur in a real game; for example, you can never have a board state in which all pebbles are in a single pit. As for the simulation; it has been a matter of interest in artificial intelligence and algorithm analysis since the game was developed. In algorithm analysis, developers often choose between going for aggressive win strategies, or loss minimization strategies. I have tried to incorporate the best of both worlds (to some extent) in my version, so it should prove to be a worthy adversary. Enjoy.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11261#comment-296</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2015 19:03:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11261#comment-296</guid>
+		<description><![CDATA[Many thanks Tapiwa!! 
+
+I have to say that the number of possible positions seems surprisingly small given this is a combinatoric expression. I would expect to find a factorial in there somewhere, rather than it simply to go linearly with most of the variables. I hope to be able to play this on a Windows computer when I track one down!]]></description>
+		<content:encoded><![CDATA[<p>Many thanks Tapiwa!! </p>
+<p>I have to say that the number of possible positions seems surprisingly small given this is a combinatoric expression. I would expect to find a factorial in there somewhere, rather than it simply to go linearly with most of the variables. I hope to be able to play this on a Windows computer when I track one down!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

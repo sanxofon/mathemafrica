@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mathematics &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=mathematics" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>0.1 Sets</title>
+		<link>http://www.mathemafrica.org/?p=13931</link>
+		<comments>http://www.mathemafrica.org/?p=13931#comments</comments>
+		<pubDate>Wed, 07 Mar 2018 18:51:43 +0000</pubDate>
+		<dc:creator><![CDATA[Yolisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[first year]]></category>
+		<category><![CDATA[fundamentals of mathematics]]></category>
+		<category><![CDATA[FunMath]]></category>
+		<category><![CDATA[Introductory]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1019H]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[sets]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13931</guid>
+		<description><![CDATA[<p>If like me, you&#8217;ve spent most of your mathematical high school years introduced to basic sets at the beginning of the year from Grades 8 to 12, then I think you&#8217;d agree that sets was one of the quickest and easiest sections we traditionally did. We would quickly recap the same fundamental properties of sets before moving onto more interesting topics, usually algebra. The section would go a little bit like this:</p>
+<ul>
+<li>define the differences between whole and natural numbers, integers, rational numbers and real numbers</li>
+<li>define the differences between unions, intersections and complements, usually through the understanding of Venn-diagrams</li>
+<li>use set builder notation (introducing algebra through this)</li>
+</ul>
+<p>If like myself, you truly believed that this was as complicated as sets could ever get, then you, dear reader, like my former-myself, are in for a treat. In university, we build on these basic ideas and have a more in depth understanding about the importance of sets and their greater role in the scheme of mathematics.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>If like me, you&#8217;ve spent most of your mathematical high school years introduced to basic sets at the beginning of the year from Grades 8 to 12, then I think you&#8217;d agree that sets was one of the quickest and easiest sections we traditionally did. We would quickly recap the same fundamental properties of sets before moving onto more interesting topics, usually algebra. The section would go a little bit like this:</p>
+<ul>
+<li>define the differences between whole and natural numbers, integers, rational numbers and real numbers</li>
+<li>define the differences between unions, intersections and complements, usually through the understanding of Venn-diagrams</li>
+<li>use set builder notation (introducing algebra through this)</li>
+</ul>
+<p>If like myself, you truly believed that this was as complicated as sets could ever get, then you, dear reader, like my former-myself, are in for a treat. In university, we build on these basic ideas and have a more in depth understanding about the importance of sets and their greater role in the scheme of mathematics.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13931</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>A Whimsical Introduction to Graph Theory (1)</title>
+		<link>http://www.mathemafrica.org/?p=13883</link>
+		<comments>http://www.mathemafrica.org/?p=13883#respond</comments>
+		<pubDate>Mon, 12 Feb 2018 12:21:44 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon Du Preez]]></dc:creator>
+				<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[Mathematics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13883</guid>
+		<description><![CDATA[<p><strong>Part 1 &#8211; What are Graphs?<br />
+</strong></p>
+<hr />
+<p>Mathematics is full of fascinating ideas and concepts. These can, however, be very challenging to tackle and make sense of, especially when you are put under pressure to answer questions about them! In this post, and those to come, I hope to share some insight into these concepts without getting too formal. Where some definitions and more technical bits are introduced, they will be explained at end of the post: look out for the dagger <img src="//s0.wp.com/latex.php?latex=%5Cdagger&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;dagger" title="&#92;dagger" class="latex" /> symbols!</p>
+<p>To begin, let&#8217;s ask what we <strong>do</strong> in mathematics. The first step in any area of maths is almost always to abstract things. We take some concept we want to be able to work with and pull out the essential ideas. From a bunch of maps we may take out just destinations and the routes between them; from 3D objects we may only need to know what ways we can rotate them and still see the same thing; from a collection of algorithms we may only care about how long they take to run on a computer, and so on.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Part 1 &#8211; What are Graphs?<br />
+</strong></p>
+<hr />
+<p>Mathematics is full of fascinating ideas and concepts. These can, however, be very challenging to tackle and make sense of, especially when you are put under pressure to answer questions about them! In this post, and those to come, I hope to share some insight into these concepts without getting too formal. Where some definitions and more technical bits are introduced, they will be explained at end of the post: look out for the dagger <img src="//s0.wp.com/latex.php?latex=%5Cdagger&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;dagger" title="&#92;dagger" class="latex" /> symbols!</p>
+<p>To begin, let&#8217;s ask what we <strong>do</strong> in mathematics. The first step in any area of maths is almost always to abstract things. We take some concept we want to be able to work with and pull out the essential ideas. From a bunch of maps we may take out just destinations and the routes between them; from 3D objects we may only need to know what ways we can rotate them and still see the same thing; from a collection of algorithms we may only care about how long they take to run on a computer, and so on.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13883</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Counting to Infinity</title>
+		<link>http://www.mathemafrica.org/?p=13509</link>
+		<comments>http://www.mathemafrica.org/?p=13509#respond</comments>
+		<pubDate>Fri, 28 Jul 2017 08:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[Siphelele Danisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cardinality]]></category>
+		<category><![CDATA[counting]]></category>
+		<category><![CDATA[functions]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[numbers]]></category>
+		<category><![CDATA[set theory]]></category>
+		<category><![CDATA[sets]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13509</guid>
+		<description><![CDATA[<blockquote><p>I haven&#8217;t  really been active, so please accept my apologies since my first post seemed to promise that I would write quite often than I have done. But it was all for a good cause, so I have decided to share something which I found interesting while reading up some Mathematics this holiday (any corrections, additions of definitions, etc. will be appreciated).</p></blockquote>
+<p>Now, the idea I am going to talk about is the Cardinality of a set. In simple terms:<br />
+<strong>Definition 1: Cardinality is a &#8220;measure  of the size&#8221; of a set.</strong></p>
+<blockquote><p>Suppose that we have a set, <img src="//s0.wp.com/latex.php?latex=A+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A " title="A " class="latex" />, such that <img src="//s0.wp.com/latex.php?latex=A%3D%5C%7Ba%2Cb%2Cc%2Cd%2Ce%5C%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A=&#92;{a,b,c,d,e&#92;} " title="A=&#92;{a,b,c,d,e&#92;} " class="latex" />. The cardinality of the set, denoted by <img src="//s0.wp.com/latex.php?latex=%7CA%7C+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#124;A&#124; " title="&#124;A&#124; " class="latex" />, is <img src="//s0.wp.com/latex.php?latex=5+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="5 " title="5 " class="latex" />, because there are <img src="//s0.wp.com/latex.php?latex=5+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="5 " title="5 " class="latex" /> elements.<br />
+It is indeed worth noting that unlike &#8216;lists&#8217;, in Mathematics, order and number of elements doesn&#8217;t determine much concerning the identity  of a set, so <img src="//s0.wp.com/latex.php?latex=%5C%7Ba%2Cb%2Cc%5C%7D%3D%5C%7Ba%2Ca%2Ca%2Cb%2Cc%5C%7D%3D%5C%7Ba%2Cb%2Cb%2Cb%2Cc%2Cc%5C%7D%3D%5C%7Ba%2C...%2Cb%2C...%2Cc%2C+...%5C%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;{a,b,c&#92;}=&#92;{a,a,a,b,c&#92;}=&#92;{a,b,b,b,c,c&#92;}=&#92;{a,...,b,...,c, ...&#92;} " title="&#92;{a,b,c&#92;}=&#92;{a,a,a,b,c&#92;}=&#92;{a,b,b,b,c,c&#92;}=&#92;{a,...,b,...,c, ...&#92;} " class="latex" /> as long as you use the same elements, they are all equal, and of course, cardinalities would be the same, because all of them are a representation of the same mathematical entity.</p></blockquote>&#8230;]]></description>
+				<content:encoded><![CDATA[<blockquote><p>I haven&#8217;t  really been active, so please accept my apologies since my first post seemed to promise that I would write quite often than I have done. But it was all for a good cause, so I have decided to share something which I found interesting while reading up some Mathematics this holiday (any corrections, additions of definitions, etc. will be appreciated).</p></blockquote>
+<p>Now, the idea I am going to talk about is the Cardinality of a set. In simple terms:<br />
+<strong>Definition 1: Cardinality is a &#8220;measure  of the size&#8221; of a set.</strong></p>
+<blockquote><p>Suppose that we have a set, <img src="//s0.wp.com/latex.php?latex=A+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A " title="A " class="latex" />, such that <img src="//s0.wp.com/latex.php?latex=A%3D%5C%7Ba%2Cb%2Cc%2Cd%2Ce%5C%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A=&#92;{a,b,c,d,e&#92;} " title="A=&#92;{a,b,c,d,e&#92;} " class="latex" />. The cardinality of the set, denoted by <img src="//s0.wp.com/latex.php?latex=%7CA%7C+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="|A| " title="|A| " class="latex" />, is <img src="//s0.wp.com/latex.php?latex=5+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="5 " title="5 " class="latex" />, because there are <img src="//s0.wp.com/latex.php?latex=5+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="5 " title="5 " class="latex" /> elements.<br />
+It is indeed worth noting that unlike &#8216;lists&#8217;, in Mathematics, order and number of elements doesn&#8217;t determine much concerning the identity  of a set, so <img src="//s0.wp.com/latex.php?latex=%5C%7Ba%2Cb%2Cc%5C%7D%3D%5C%7Ba%2Ca%2Ca%2Cb%2Cc%5C%7D%3D%5C%7Ba%2Cb%2Cb%2Cb%2Cc%2Cc%5C%7D%3D%5C%7Ba%2C...%2Cb%2C...%2Cc%2C+...%5C%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;{a,b,c&#92;}=&#92;{a,a,a,b,c&#92;}=&#92;{a,b,b,b,c,c&#92;}=&#92;{a,...,b,...,c, ...&#92;} " title="&#92;{a,b,c&#92;}=&#92;{a,a,a,b,c&#92;}=&#92;{a,b,b,b,c,c&#92;}=&#92;{a,...,b,...,c, ...&#92;} " class="latex" /> as long as you use the same elements, they are all equal, and of course, cardinalities would be the same, because all of them are a representation of the same mathematical entity.</p></blockquote>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13509</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Do You Find Mathematics Scary?</title>
+		<link>http://www.mathemafrica.org/?p=12559</link>
+		<comments>http://www.mathemafrica.org/?p=12559#comments</comments>
+		<pubDate>Tue, 29 Mar 2016 19:58:05 +0000</pubDate>
+		<dc:creator><![CDATA[Natalie Wood]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Homework]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Passion]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12559</guid>
+		<description><![CDATA[<p>A few weeks ago I attended a lecture by Johnathan Lewin, regarding the use of technology when teaching and it was brilliant, and I’m not even talking about his use of technology. The passion that Johnathan speaks with and the passion he has for Mathematics is explosive and practically contagious.</p>
+<p>&#160;<br />
+He uses a number of different programmes and applications to assist him in the classroom. He even records his lectures (he captures the audio and a visual of the learning materials and then makes them available to his students). He is in favour of designing the materials in front of the learners in order for them to see how the Mathematics is created rather than to arrive with some neatly prepared sides and show them what Mathematics looks like. He wants them to engage in it at all levels and not just see the perfect final product, if you wish.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>A few weeks ago I attended a lecture by Johnathan Lewin, regarding the use of technology when teaching and it was brilliant, and I’m not even talking about his use of technology. The passion that Johnathan speaks with and the passion he has for Mathematics is explosive and practically contagious.</p>
+<p>&nbsp;<br />
+He uses a number of different programmes and applications to assist him in the classroom. He even records his lectures (he captures the audio and a visual of the learning materials and then makes them available to his students). He is in favour of designing the materials in front of the learners in order for them to see how the Mathematics is created rather than to arrive with some neatly prepared sides and show them what Mathematics looks like. He wants them to engage in it at all levels and not just see the perfect final product, if you wish.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12559</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>How Many Languages Do You Speak?</title>
+		<link>http://www.mathemafrica.org/?p=12323</link>
+		<comments>http://www.mathemafrica.org/?p=12323#comments</comments>
+		<pubDate>Mon, 22 Feb 2016 05:36:57 +0000</pubDate>
+		<dc:creator><![CDATA[Natalie Wood]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Fun]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[Mathematics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12323</guid>
+		<description><![CDATA[<p>I’m not sure how, but it’s been a month since my last post. It feels like it was just the other day that I was working on its first draft… Since my first blog dealt with the language of Mathematics, I thought I might continue the language theme for now as it is something that really interests me.</p>
+<p>Let me start by asking you this: How often do you take being a First Language English speaker for granted? (Has this thought ever even crossed your mind?) Have you ever traveled to a foreign country and needed to communicate and found it difficult? Were you frustrated by this? What happens when you don’t have a very good grasp of a particular Language, would you want to speak it? Or read it? Or perhaps worse still, write it?</p>
+<p>Well, I think this is the challenge that a number of learners face and they are often left feeling frustrated and misunderstood in their classrooms, particularly in South Africa, where we have 11 official languages.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>I’m not sure how, but it’s been a month since my last post. It feels like it was just the other day that I was working on its first draft… Since my first blog dealt with the language of Mathematics, I thought I might continue the language theme for now as it is something that really interests me.</p>
+<p>Let me start by asking you this: How often do you take being a First Language English speaker for granted? (Has this thought ever even crossed your mind?) Have you ever traveled to a foreign country and needed to communicate and found it difficult? Were you frustrated by this? What happens when you don’t have a very good grasp of a particular Language, would you want to speak it? Or read it? Or perhaps worse still, write it?</p>
+<p>Well, I think this is the challenge that a number of learners face and they are often left feeling frustrated and misunderstood in their classrooms, particularly in South Africa, where we have 11 official languages.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12323</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>How to reduce the fear of mathematics</title>
+		<link>http://www.mathemafrica.org/?p=12320</link>
+		<comments>http://www.mathemafrica.org/?p=12320#comments</comments>
+		<pubDate>Sat, 20 Feb 2016 10:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[fear]]></category>
+		<category><![CDATA[Krishnamurti]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[pedagogy]]></category>
+		<category><![CDATA[teaching]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12320</guid>
+		<description><![CDATA[<p>I sat this morning reading a little of <a href="http://www.amazon.com/The-Book-Life-Meditations-Krishnamurti/dp/0060648791">The Book of Life</a>, by <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti">Krishnamurti</a> &#8211; something which I like to browse through and ponder from time to time. This morning&#8217;s meditation somehow felt very apt as I attempt to get almost 800 students to enjoy mathematics, and learn its techniques as well as its beauty. The meditation was the following:</p>
+<blockquote><p>How is the state of attention to be brought about? It cannot be cultivated through persuasion, comparison, reward or punishment, all of which are forms of coercion. The elimination of fear is the beginning of attention. Fear must exist as long as there is an urge to be or to become, which is the pursuit of success, with all its frustrations and tortuous contradictions. You can&#8217;t teach concentration, but attention cannot be taught just as you cannot possibly teach freedom from fear; but we can begin to discover the causes that produce fear, and in understanding these causes there is the elimination of fear.</p></blockquote>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>I sat this morning reading a little of <a href="http://www.amazon.com/The-Book-Life-Meditations-Krishnamurti/dp/0060648791">The Book of Life</a>, by <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti">Krishnamurti</a> &#8211; something which I like to browse through and ponder from time to time. This morning&#8217;s meditation somehow felt very apt as I attempt to get almost 800 students to enjoy mathematics, and learn its techniques as well as its beauty. The meditation was the following:</p>
+<blockquote><p>How is the state of attention to be brought about? It cannot be cultivated through persuasion, comparison, reward or punishment, all of which are forms of coercion. The elimination of fear is the beginning of attention. Fear must exist as long as there is an urge to be or to become, which is the pursuit of success, with all its frustrations and tortuous contradictions. You can&#8217;t teach concentration, but attention cannot be taught just as you cannot possibly teach freedom from fear; but we can begin to discover the causes that produce fear, and in understanding these causes there is the elimination of fear.</p></blockquote>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12320</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Hello World</title>
+		<link>http://www.mathemafrica.org/?p=12100</link>
+		<comments>http://www.mathemafrica.org/?p=12100#comments</comments>
+		<pubDate>Thu, 21 Jan 2016 12:45:09 +0000</pubDate>
+		<dc:creator><![CDATA[Natalie Wood]]></dc:creator>
+				<category><![CDATA[Fun]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12100</guid>
+		<description><![CDATA[<p>So this is my first post and any real “nerd” will know why I named my post “Hello World”. Many years ago, I dabbled in a little bit of computer programming and the first program you ever write, as kind of a rite of passage, is to make the screen say “Hello World”. Needless to say, it wasn’t always easy, but nothing worthwhile in life ever is. At times, I really did want to pull my hair out though, with things like syntax errors. Firstly, I had to work out what a syntax error was… Basically, in layman’s terms, it’s like making a grammar or punctuation error in an essay. Secondly, I needed to find this syntax error (or errors), most of the time it was a missing semi-colon, in my thirty or forty lines of code. Did I mention that the technology didn’t even give you a hint as to where you might begin to look for it.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So this is my first post and any real “nerd” will know why I named my post “Hello World”. Many years ago, I dabbled in a little bit of computer programming and the first program you ever write, as kind of a rite of passage, is to make the screen say “Hello World”. Needless to say, it wasn’t always easy, but nothing worthwhile in life ever is. At times, I really did want to pull my hair out though, with things like syntax errors. Firstly, I had to work out what a syntax error was… Basically, in layman’s terms, it’s like making a grammar or punctuation error in an essay. Secondly, I needed to find this syntax error (or errors), most of the time it was a missing semi-colon, in my thirty or forty lines of code. Did I mention that the technology didn’t even give you a hint as to where you might begin to look for it.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12100</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>group theory &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=group-theory" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Group Theory (lecture 2) by Robert de Mello Koch</title>
+		<link>http://www.mathemafrica.org/?p=13348</link>
+		<comments>http://www.mathemafrica.org/?p=13348#respond</comments>
+		<pubDate>Wed, 08 Feb 2017 12:12:41 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[ASTI]]></category>
+		<category><![CDATA[group theory]]></category>
+		<category><![CDATA[videos]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13348</guid>
+		<description><![CDATA[<p>As promised in the previous post, here is the second lecture by Prof Robert de Mello Koch on Group Theory.</p>
+<p>&#160;</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/Zflfm-gU4yA?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>&#160;</p>
+<p>Please comment if you have thoughts or questions from this video.</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-133490"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>As promised in the previous post, here is the second lecture by Prof Robert de Mello Koch on Group Theory.</p>
+<p>&nbsp;</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/Zflfm-gU4yA?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>&nbsp;</p>
+<p>Please comment if you have thoughts or questions from this video.</p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-133490"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13348</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Group Theory (lecture 1) by Robert de Mello Koch</title>
+		<link>http://www.mathemafrica.org/?p=13344</link>
+		<comments>http://www.mathemafrica.org/?p=13344#comments</comments>
+		<pubDate>Thu, 19 Jan 2017 11:58:03 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[group theory]]></category>
+		<category><![CDATA[Representation Theory]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13344</guid>
+		<description><![CDATA[<p>Some ten (and change) years ago, the <span class="st">African Summer Theory Institute</span> (ASTI) took place in Cape Town at UCT. This was a course designed for students to give them a taste of a number of topics related to theoretical physics. These lectures were all recorded, and I watched them at the time, never of course thinking for a moment that I would end up lecturing in the same venue a decade or so later. In particular, I remembered that the lectures by Robert de Mello Koch on Group Theory were some of the most pedagogically clear that I had ever seen. Sadly, the old ASTI website seems to be defunct, but the lectures can all be found on YouTube.</p>
+<p>I wanted to start posting some of them here and see if people seem enthusiastic about me posting more. It would be great to have some comments on this post to let me know if you would like more of these, or of course if you have any questions or comments about the material itself.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Some ten (and change) years ago, the <span class="st">African Summer Theory Institute</span> (ASTI) took place in Cape Town at UCT. This was a course designed for students to give them a taste of a number of topics related to theoretical physics. These lectures were all recorded, and I watched them at the time, never of course thinking for a moment that I would end up lecturing in the same venue a decade or so later. In particular, I remembered that the lectures by Robert de Mello Koch on Group Theory were some of the most pedagogically clear that I had ever seen. Sadly, the old ASTI website seems to be defunct, but the lectures can all be found on YouTube.</p>
+<p>I wanted to start posting some of them here and see if people seem enthusiastic about me posting more. It would be great to have some comments on this post to let me know if you would like more of these, or of course if you have any questions or comments about the material itself.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13344</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Group Theory in a Nutshell for Physicists, by Tony Zee &#8211; A review</title>
+		<link>http://www.mathemafrica.org/?p=13187</link>
+		<comments>http://www.mathemafrica.org/?p=13187#comments</comments>
+		<pubDate>Sun, 11 Sep 2016 12:39:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Book reviews]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[Book Review]]></category>
+		<category><![CDATA[group theory]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Tony Zee]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13187</guid>
+		<description><![CDATA[<p><a href="http://press.princeton.edu/titles/10773.html"><img class="alignleft" title="Taken from http://i0.wp.com/press.princeton.edu/images/k10773.gif?resize=300%2C452" src="http://i0.wp.com/press.princeton.edu/images/k10773.gif?resize=300%2C452" alt="" data-recalc-dims="1" /></a></p>
+<p>I studied group theory for the first time around 15 years ago at the beginning of my PhD. There were six of us in the class, and I found it both a magical, as well as a mysterious subject. We had a great lecturer, but the way that the course was set up, and as a course designed for theoretical physicists, where the tools were more important than the construction of the tools, a lot of ideas were left as mysterious boxes where the right answers were guaranteed so long as the algorithm was correctly followed.</p>
+<p>Tony Zee is known for his incredible ability to lead the student on a path from little knowledge, to an intuitive understanding of a topic in a seemingly painless process. His books are not necessarily the most technically rigorous (note that this doesn&#8217;t mean that they are wrong, but that the appropriate level of detail is chosen for the new learner such that the overarching ideas aren&#8217;t fogged in unnecessarily complication), but they are, in my opinion some of the best texts for taking a learner from nothing, to a working knowledge with which they can perform calculations that I&#8217;ve ever come across.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://press.princeton.edu/titles/10773.html"><img class="alignleft" title="Taken from http://i0.wp.com/press.princeton.edu/images/k10773.gif?resize=300%2C452" src="http://i0.wp.com/press.princeton.edu/images/k10773.gif?resize=300%2C452" alt="" data-recalc-dims="1" /></a></p>
+<p>I studied group theory for the first time around 15 years ago at the beginning of my PhD. There were six of us in the class, and I found it both a magical, as well as a mysterious subject. We had a great lecturer, but the way that the course was set up, and as a course designed for theoretical physicists, where the tools were more important than the construction of the tools, a lot of ideas were left as mysterious boxes where the right answers were guaranteed so long as the algorithm was correctly followed.</p>
+<p>Tony Zee is known for his incredible ability to lead the student on a path from little knowledge, to an intuitive understanding of a topic in a seemingly painless process. His books are not necessarily the most technically rigorous (note that this doesn&#8217;t mean that they are wrong, but that the appropriate level of detail is chosen for the new learner such that the overarching ideas aren&#8217;t fogged in unnecessarily complication), but they are, in my opinion some of the best texts for taking a learner from nothing, to a working knowledge with which they can perform calculations that I&#8217;ve ever come across.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13187</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lecture notes &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=lecture-notes" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>0.1 Sets</title>
+		<link>http://www.mathemafrica.org/?p=13931</link>
+		<comments>http://www.mathemafrica.org/?p=13931#comments</comments>
+		<pubDate>Wed, 07 Mar 2018 18:51:43 +0000</pubDate>
+		<dc:creator><![CDATA[Yolisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[first year]]></category>
+		<category><![CDATA[fundamentals of mathematics]]></category>
+		<category><![CDATA[FunMath]]></category>
+		<category><![CDATA[Introductory]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1019H]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[sets]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13931</guid>
+		<description><![CDATA[<p>If like me, you&#8217;ve spent most of your mathematical high school years introduced to basic sets at the beginning of the year from Grades 8 to 12, then I think you&#8217;d agree that sets was one of the quickest and easiest sections we traditionally did. We would quickly recap the same fundamental properties of sets before moving onto more interesting topics, usually algebra. The section would go a little bit like this:</p>
+<ul>
+<li>define the differences between whole and natural numbers, integers, rational numbers and real numbers</li>
+<li>define the differences between unions, intersections and complements, usually through the understanding of Venn-diagrams</li>
+<li>use set builder notation (introducing algebra through this)</li>
+</ul>
+<p>If like myself, you truly believed that this was as complicated as sets could ever get, then you, dear reader, like my former-myself, are in for a treat. In university, we build on these basic ideas and have a more in depth understanding about the importance of sets and their greater role in the scheme of mathematics.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>If like me, you&#8217;ve spent most of your mathematical high school years introduced to basic sets at the beginning of the year from Grades 8 to 12, then I think you&#8217;d agree that sets was one of the quickest and easiest sections we traditionally did. We would quickly recap the same fundamental properties of sets before moving onto more interesting topics, usually algebra. The section would go a little bit like this:</p>
+<ul>
+<li>define the differences between whole and natural numbers, integers, rational numbers and real numbers</li>
+<li>define the differences between unions, intersections and complements, usually through the understanding of Venn-diagrams</li>
+<li>use set builder notation (introducing algebra through this)</li>
+</ul>
+<p>If like myself, you truly believed that this was as complicated as sets could ever get, then you, dear reader, like my former-myself, are in for a treat. In university, we build on these basic ideas and have a more in depth understanding about the importance of sets and their greater role in the scheme of mathematics.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13931</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 50 – linear algebra part iii</title>
+		<link>http://www.mathemafrica.org/?p=11646</link>
+		<comments>http://www.mathemafrica.org/?p=11646#comments</comments>
+		<pubDate>Sun, 04 Oct 2015 10:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Gauss reduction]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[linear algebra]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[matrices]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11646</guid>
+		<description><![CDATA[<p><strong>Gauss reduction</strong></p>
+<p>So far we have seen that we have a way to translate a system of linear equations into a matrix. We can manipulate the matrix in ways which correspond to operations on the equations which keep the important information in the system of equations the same (ie. the solution of the equations before and after the operations is the same). We have seen a couple of examples of when we can read off the solution from the matrix having performed the operations. So far the order with which we perform the operations feels a bit arbitrary, although we know that we would like to get the matrix into reduced row echelon form. There is however a very systematic way of going about this, and the term for the process is called <em>Gauss Reduction</em><strong>.</strong></p>
+<p>Here is a detailed view of what Gauss Reduction will give us:</p>
+<p><strong>Gauss Reduction:<br />
+</strong><br />
+To solve a system of linear equations:</p>
+<p>&#160;</p>
+<p>1) First find the augmented coefficient matrix of the system of equations.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Gauss reduction</strong></p>
+<p>So far we have seen that we have a way to translate a system of linear equations into a matrix. We can manipulate the matrix in ways which correspond to operations on the equations which keep the important information in the system of equations the same (ie. the solution of the equations before and after the operations is the same). We have seen a couple of examples of when we can read off the solution from the matrix having performed the operations. So far the order with which we perform the operations feels a bit arbitrary, although we know that we would like to get the matrix into reduced row echelon form. There is however a very systematic way of going about this, and the term for the process is called <em>Gauss Reduction</em><strong>.</strong></p>
+<p>Here is a detailed view of what Gauss Reduction will give us:</p>
+<p><strong>Gauss Reduction:<br />
+</strong><br />
+To solve a system of linear equations:</p>
+<p>&nbsp;</p>
+<p>1) First find the augmented coefficient matrix of the system of equations.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11646</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 49 – linear algebra part ii</title>
+		<link>http://www.mathemafrica.org/?p=11633</link>
+		<comments>http://www.mathemafrica.org/?p=11633#comments</comments>
+		<pubDate>Sat, 03 Oct 2015 10:55:41 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[linear algebra]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[matrices]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11633</guid>
+		<description><![CDATA[<p><strong>Matrices<br />
+</strong></p>
+<p>Solving a system of linear equations is not technically difficult: just eliminate the variables in a systematic fashion. When there are only two or three variables, this is easy to manage. But for a bigger system, things can quickly get confusing. We need to develop a systematic method.</p>
+<p>The first thing to notice is that the names of the variables don&#8217;t matter. Consider, for example, the two systems</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cbegin%7Barray%7D%7Bcc%7D++x+%2B+y+%26%3D3%5C%5C++2x-y+%26%3D+4++%5Cend%7Barray%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;begin{array}{cc}  x + y &#38;=3&#92;&#92;  2x-y &#38;= 4  &#92;end{array} " title="&#92;begin{array}{cc}  x + y &#38;=3&#92;&#92;  2x-y &#38;= 4  &#92;end{array} " class="latex" /></p>
+<p>&#160;</p>
+<p>and</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cbegin%7Barray%7D%7Bcc%7D++u+%2B+v+%26%3D3%5C%5C++2u-v+%26%3D+4++%5Cend%7Barray%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;begin{array}{cc}  u + v &#38;=3&#92;&#92;  2u-v &#38;= 4  &#92;end{array}" title="&#92;begin{array}{cc}  u + v &#38;=3&#92;&#92;  2u-v &#38;= 4  &#92;end{array}" class="latex" /></p>
+<p>&#160;</p>
+<p>It&#8217;s clear that if we ignore the names of the variables &#8212; <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> versus <img src="//s0.wp.com/latex.php?latex=u&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="u" title="u" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=v&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="v" title="v" class="latex" /> &#8212; these two systems are the same. The reason we can tell that they&#8217;re the same is because the {\em coefficients} of the variables are the same and the numbers on the right hand side are the same. These are really the only things about a system of linear equations that matter, and so what we can do is strip the system down to its bare bones and rewrite it like this:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cleft%28++%5Cbegin%7Barray%7D%7Bcc%7Cc%7D++1%261%263%5C%5C++2%26-1%264++%5Cend%7Barray%7D++%5Cright%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;left(  &#92;begin{array}{cc&#124;c}  1&#38;1&#38;3&#92;&#92;  2&#38;-1&#38;4  &#92;end{array}  &#92;right)" title="&#92;left(  &#92;begin{array}{cc&#124;c}  1&#38;1&#38;3&#92;&#92;  2&#38;-1&#38;4  &#92;end{array}  &#92;right)" class="latex" /></p>
+<p>&#160;</p>
+<p>This is an <em>augmented coefficient matrix</em> (in general, a rectangular array of numbers, like the above, is called a <em>matrix</em>; a matrix with an additional vertical line, which plays the same role as the equals signs in the original equations, is <em>augmented</em>).&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Matrices<br />
+</strong></p>
+<p>Solving a system of linear equations is not technically difficult: just eliminate the variables in a systematic fashion. When there are only two or three variables, this is easy to manage. But for a bigger system, things can quickly get confusing. We need to develop a systematic method.</p>
+<p>The first thing to notice is that the names of the variables don&#8217;t matter. Consider, for example, the two systems</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cbegin%7Barray%7D%7Bcc%7D++x+%2B+y+%26%3D3%5C%5C++2x-y+%26%3D+4++%5Cend%7Barray%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;begin{array}{cc}  x + y &amp;=3&#92;&#92;  2x-y &amp;= 4  &#92;end{array} " title="&#92;begin{array}{cc}  x + y &amp;=3&#92;&#92;  2x-y &amp;= 4  &#92;end{array} " class="latex" /></p>
+<p>&nbsp;</p>
+<p>and</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cbegin%7Barray%7D%7Bcc%7D++u+%2B+v+%26%3D3%5C%5C++2u-v+%26%3D+4++%5Cend%7Barray%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;begin{array}{cc}  u + v &amp;=3&#92;&#92;  2u-v &amp;= 4  &#92;end{array}" title="&#92;begin{array}{cc}  u + v &amp;=3&#92;&#92;  2u-v &amp;= 4  &#92;end{array}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>It&#8217;s clear that if we ignore the names of the variables &#8212; <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> versus <img src="//s0.wp.com/latex.php?latex=u&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="u" title="u" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=v&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="v" title="v" class="latex" /> &#8212; these two systems are the same. The reason we can tell that they&#8217;re the same is because the {\em coefficients} of the variables are the same and the numbers on the right hand side are the same. These are really the only things about a system of linear equations that matter, and so what we can do is strip the system down to its bare bones and rewrite it like this:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cleft%28++%5Cbegin%7Barray%7D%7Bcc%7Cc%7D++1%261%263%5C%5C++2%26-1%264++%5Cend%7Barray%7D++%5Cright%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;left(  &#92;begin{array}{cc|c}  1&amp;1&amp;3&#92;&#92;  2&amp;-1&amp;4  &#92;end{array}  &#92;right)" title="&#92;left(  &#92;begin{array}{cc|c}  1&amp;1&amp;3&#92;&#92;  2&amp;-1&amp;4  &#92;end{array}  &#92;right)" class="latex" /></p>
+<p>&nbsp;</p>
+<p>This is an <em>augmented coefficient matrix</em> (in general, a rectangular array of numbers, like the above, is called a <em>matrix</em>; a matrix with an additional vertical line, which plays the same role as the equals signs in the original equations, is <em>augmented</em>).&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11633</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>First year maths lecture notes subject links</title>
+		<link>http://www.mathemafrica.org/?p=11627</link>
+		<comments>http://www.mathemafrica.org/?p=11627#comments</comments>
+		<pubDate>Sat, 03 Oct 2015 09:03:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11627</guid>
+		<description><![CDATA[<p><strong>Advice from former MAM1000W students</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=14559">Part I &#8211; an ActSci student whose grades kept going down, until they figured out the secret.</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14557">Part II and III &#8211; Tutorial partners and useful videos.</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14569&#38;preview=true">Part IV &#8211; Webassign and coming back from tough times</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14576">Part V &#8211; &#8220;the methodology of thinking and applying helps me to this day&#8221;</a></li>
+</ul>
+<p><strong>First semester</strong></p>
+<p>Some introductory notes about the course and random links</p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=12121">Intro to first year mathematics</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12125">Why study mathematics?</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12128">Tutorials</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12130">Revision</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12185">Ways to represent a function</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12241">The first week of lectures</a></li>
+<li><a href="http://www.mathemafrica.org/?p=10768">Preamble and introduction</a></li>
+<li><a href="http://www.mathemafrica.org/?p=10801">MAM1000 Bootcamp</a></li>
+</ul>
+<p><strong>Introductory topics</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=14953">All you’ve ever wanted to know about absolute values (and weren’t afraid to ask)</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12194">Why radians?</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12249">Sets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12286">Absolute values and inequalities</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12378">Polynomial division</a></li>
+</ul>
+<p><strong>MAM1019H notes</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=13931">Introduction to sets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14248">Subsets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14224">Power sets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14148">Cartesian products</a></li>
+</ul>
+<p><strong>Proof methods</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=12407">Mathematical induction</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12464">Mathematical induction with an inequality</a><a href="http://www.mathemafrica.org/?p=12797">Proof by induction winning explanation</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12493">Proof by contradiction &#8211; part 1</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12520">Proof by contradiction &#8211; part 2</a></li>
+</ul>
+<p><strong>Functions, Continuity and limits</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=12438">Domain of a composite function &#8211; part 1</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12447">Domain of a composite function &#8211; part 2</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14074">Plotting rational functions.</a></li></ul>&#8230;]]></description>
+				<content:encoded><![CDATA[<p><strong>Advice from former MAM1000W students</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=14559">Part I &#8211; an ActSci student whose grades kept going down, until they figured out the secret.</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14557">Part II and III &#8211; Tutorial partners and useful videos.</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14569&amp;preview=true">Part IV &#8211; Webassign and coming back from tough times</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14576">Part V &#8211; &#8220;the methodology of thinking and applying helps me to this day&#8221;</a></li>
+</ul>
+<p><strong>First semester</strong></p>
+<p>Some introductory notes about the course and random links</p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=12121">Intro to first year mathematics</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12125">Why study mathematics?</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12128">Tutorials</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12130">Revision</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12185">Ways to represent a function</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12241">The first week of lectures</a></li>
+<li><a href="http://www.mathemafrica.org/?p=10768">Preamble and introduction</a></li>
+<li><a href="http://www.mathemafrica.org/?p=10801">MAM1000 Bootcamp</a></li>
+</ul>
+<p><strong>Introductory topics</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=14953">All you’ve ever wanted to know about absolute values (and weren’t afraid to ask)</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12194">Why radians?</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12249">Sets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12286">Absolute values and inequalities</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12378">Polynomial division</a></li>
+</ul>
+<p><strong>MAM1019H notes</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=13931">Introduction to sets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14248">Subsets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14224">Power sets</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14148">Cartesian products</a></li>
+</ul>
+<p><strong>Proof methods</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=12407">Mathematical induction</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12464">Mathematical induction with an inequality</a><a href="http://www.mathemafrica.org/?p=12797">Proof by induction winning explanation</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12493">Proof by contradiction &#8211; part 1</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12520">Proof by contradiction &#8211; part 2</a></li>
+</ul>
+<p><strong>Functions, Continuity and limits</strong></p>
+<ul>
+<li><a href="http://www.mathemafrica.org/?p=12438">Domain of a composite function &#8211; part 1</a></li>
+<li><a href="http://www.mathemafrica.org/?p=12447">Domain of a composite function &#8211; part 2</a></li>
+<li><a href="http://www.mathemafrica.org/?p=14074">Plotting rational functions.</a></li></ul>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11627</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 48 &#8211; linear algebra part i</title>
+		<link>http://www.mathemafrica.org/?p=11619</link>
+		<comments>http://www.mathemafrica.org/?p=11619#comments</comments>
+		<pubDate>Fri, 02 Oct 2015 11:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[linear algebra]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11619</guid>
+		<description><![CDATA[<p>These notes are taken from the resource book and were originally written by Dr Erwin. I will be editing and adding to them throughout. Most mistakes within them can thus be presumed to be mine rather than Dr Erwin&#8217;s.</p>
+<p>In this section we are going to develop a new set of methods to solve a type of problem we are relatively familiar with. We will find a way to translate between methods we know well, but which turn out not to be very efficient, methods which are graphically very intuitive, but not very calculationally useful, and methods which are computationally extremely powerful, but appear rather abstract compared with the other two ways of looking at these problems. These three methods which we will utilise in detail in the coming sections are shown in the following diagram:</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png"><img class="aligncenter size-large wp-image-11620" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png?resize=669%2C502" alt="matrices.001" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png?resize=300%2C225 300w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png?fit=1024%2C768 1024w" sizes="(max-width: 669px) 100vw, 669px" data-recalc-dims="1" /></a></p>
+<p>As we go through I will try and show how we can go between these apparently different formalisms.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>These notes are taken from the resource book and were originally written by Dr Erwin. I will be editing and adding to them throughout. Most mistakes within them can thus be presumed to be mine rather than Dr Erwin&#8217;s.</p>
+<p>In this section we are going to develop a new set of methods to solve a type of problem we are relatively familiar with. We will find a way to translate between methods we know well, but which turn out not to be very efficient, methods which are graphically very intuitive, but not very calculationally useful, and methods which are computationally extremely powerful, but appear rather abstract compared with the other two ways of looking at these problems. These three methods which we will utilise in detail in the coming sections are shown in the following diagram:</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png"><img class="aligncenter size-large wp-image-11620" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png?resize=669%2C502" alt="matrices.001" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png?resize=300%2C225 300w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/10/matrices.001.png?fit=1024%2C768 1024w" sizes="(max-width: 669px) 100vw, 669px" data-recalc-dims="1" /></a></p>
+<p>As we go through I will try and show how we can go between these apparently different formalisms.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11619</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 45 – 3D geometry and vectors part viii</title>
+		<link>http://www.mathemafrica.org/?p=11604</link>
+		<comments>http://www.mathemafrica.org/?p=11604#comments</comments>
+		<pubDate>Sat, 26 Sep 2015 15:41:52 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+		<category><![CDATA[vectors]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11604</guid>
+		<description><![CDATA[<p>We will discuss mostly three dimensions here, but what we have will be applicable to any number of dimensions (greater than or equal to 1). We want to be able to describe a straight line &#8211; a one dimensional object, infinitely long in both directions. We will see that vectors give us a perfect language with which to do this.</p>
+<p>Remember that in three dimensions, a line can be defined by the intersection of two planes as in the intersection of the blue and the green planes defining the red line:</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png"><img class="aligncenter wp-image-11605" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png?resize=385%2C315" alt="int" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png?resize=300%2C246 300w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png?fit=750%2C614 750w" sizes="(max-width: 385px) 100vw, 385px" data-recalc-dims="1" /></a></p>
+<p>Each plane is specified by a single equation, and thus a line is specified by two equations (one for each plane). Here we will see that sometimes you just need one equation to specify a line, if you are using vectors, and sometimes it will seem that you need three equations, if you are using a parametric equation.</p>
+<p>Let&#8217;s take a line, and specify some point on it.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>We will discuss mostly three dimensions here, but what we have will be applicable to any number of dimensions (greater than or equal to 1). We want to be able to describe a straight line &#8211; a one dimensional object, infinitely long in both directions. We will see that vectors give us a perfect language with which to do this.</p>
+<p>Remember that in three dimensions, a line can be defined by the intersection of two planes as in the intersection of the blue and the green planes defining the red line:</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png"><img class="aligncenter wp-image-11605" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png?resize=385%2C315" alt="int" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png?resize=300%2C246 300w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2015/09/int.png?fit=750%2C614 750w" sizes="(max-width: 385px) 100vw, 385px" data-recalc-dims="1" /></a></p>
+<p>Each plane is specified by a single equation, and thus a line is specified by two equations (one for each plane). Here we will see that sometimes you just need one equation to specify a line, if you are using vectors, and sometimes it will seem that you need three equations, if you are using a parametric equation.</p>
+<p>Let&#8217;s take a line, and specify some point on it.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11604</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 44 – 3D geometry and vectors part vii</title>
+		<link>http://www.mathemafrica.org/?p=11592</link>
+		<comments>http://www.mathemafrica.org/?p=11592#comments</comments>
+		<pubDate>Fri, 25 Sep 2015 19:28:53 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+		<category><![CDATA[vectors]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11592</guid>
+		<description><![CDATA[<p>In the following, I&#8217;m going to miss out quite a few details which I think are very nicely laid out in Stewart. I will try and add a slightly more pedagogical tone to some of it, and some nice diagrams along the way.</p>
+<p>So we saw in the last post that we can write the cross product of two vectors, which itself gives a vector, in terms of the determinant of a 3 by 3 array. We can use this to both find a vector perpendicular to two given vectors (unless they are parallel to one another) and also to find the area of a parallelogram formed by two vectors (the area of which is zero if the vectors are parallel to one another).</p>
+<p>The second of these is easy enough to do in two dimensions, but in three dimensions that&#8217;s not an easy prospect. Using the cross  (otherwise called the vector) product makes this easy.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In the following, I&#8217;m going to miss out quite a few details which I think are very nicely laid out in Stewart. I will try and add a slightly more pedagogical tone to some of it, and some nice diagrams along the way.</p>
+<p>So we saw in the last post that we can write the cross product of two vectors, which itself gives a vector, in terms of the determinant of a 3 by 3 array. We can use this to both find a vector perpendicular to two given vectors (unless they are parallel to one another) and also to find the area of a parallelogram formed by two vectors (the area of which is zero if the vectors are parallel to one another).</p>
+<p>The second of these is easy enough to do in two dimensions, but in three dimensions that&#8217;s not an easy prospect. Using the cross  (otherwise called the vector) product makes this easy.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11592</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 43 – 3D geometry and vectors part vi</title>
+		<link>http://www.mathemafrica.org/?p=11583</link>
+		<comments>http://www.mathemafrica.org/?p=11583#comments</comments>
+		<pubDate>Sat, 19 Sep 2015 10:31:39 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[cross product]]></category>
+		<category><![CDATA[determinant]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+		<category><![CDATA[vectors]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11583</guid>
+		<description><![CDATA[<p><strong>Determinants</strong></p>
+<p>The idea of determinants have been about since around the 3rd century when it first appeared in an ancient Chinese book of Mathematics called The Nine Chapters on the Mathematical Art. It was used originally to define certain properties of systems of linear equations, as we will see later in the section on linear algebra, however for now we will simply use it as a particular way to easily calculate the cross product. Let&#8217;s take a two by two array of numbers and define the determinant for this.</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cleft%7C%5Cbegin%7Barray%7D%7Bcc%7Da+%26+b+%5C%5C+c+%26+d+%5C%5C%5Cend%7Barray%7D%5Cright%7C%3Dad-bc&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;left&#124;&#92;begin{array}{cc}a &#38; b &#92;&#92; c &#38; d &#92;&#92;&#92;end{array}&#92;right&#124;=ad-bc" title="&#92;left&#124;&#92;begin{array}{cc}a &#38; b &#92;&#92; c &#38; d &#92;&#92;&#92;end{array}&#92;right&#124;=ad-bc" class="latex" /></p>
+<p>&#160;</p>
+<p>The vertical lines on the left and right are the sign that the we are taking a determinant. For now this is just a definition and we will work with it in what follows. Don&#8217;t worry too much about where it comes from, but we will see later where it comes from and we will see now why it is useful.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Determinants</strong></p>
+<p>The idea of determinants have been about since around the 3rd century when it first appeared in an ancient Chinese book of Mathematics called The Nine Chapters on the Mathematical Art. It was used originally to define certain properties of systems of linear equations, as we will see later in the section on linear algebra, however for now we will simply use it as a particular way to easily calculate the cross product. Let&#8217;s take a two by two array of numbers and define the determinant for this.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cleft%7C%5Cbegin%7Barray%7D%7Bcc%7Da+%26+b+%5C%5C+c+%26+d+%5C%5C%5Cend%7Barray%7D%5Cright%7C%3Dad-bc&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;left|&#92;begin{array}{cc}a &amp; b &#92;&#92; c &amp; d &#92;&#92;&#92;end{array}&#92;right|=ad-bc" title="&#92;left|&#92;begin{array}{cc}a &amp; b &#92;&#92; c &amp; d &#92;&#92;&#92;end{array}&#92;right|=ad-bc" class="latex" /></p>
+<p>&nbsp;</p>
+<p>The vertical lines on the left and right are the sign that the we are taking a determinant. For now this is just a definition and we will work with it in what follows. Don&#8217;t worry too much about where it comes from, but we will see later where it comes from and we will see now why it is useful.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11583</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 42 – 3D geometry and vectors part v</title>
+		<link>http://www.mathemafrica.org/?p=11581</link>
+		<comments>http://www.mathemafrica.org/?p=11581#comments</comments>
+		<pubDate>Sat, 19 Sep 2015 10:25:46 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[cross product]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+		<category><![CDATA[vectors]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11581</guid>
+		<description><![CDATA[<p><strong>The vector, or cross product</strong></p>
+<p>When we took two vectors previously and found a way to multiply them together using the dot product, we ended up with a scalar. However, there is also a way that we can take two vectors and multiply them together to give a vector, but a vector with very specific properties with respect to the first two. What we will define here will be in three dimensions, and, unlike the dot product, does not generalise easily to other dimensions, (other than 7) though it can in fact be extended.</p>
+<p>We are going to define the cross product such that it gives a vector which is perpendicular to the two vectors being crossed. This might sound a bit arbitrary but it shows up in a huge number of different situations in physics in particular and can help us to understand the geometric relation between vectors very simply.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>The vector, or cross product</strong></p>
+<p>When we took two vectors previously and found a way to multiply them together using the dot product, we ended up with a scalar. However, there is also a way that we can take two vectors and multiply them together to give a vector, but a vector with very specific properties with respect to the first two. What we will define here will be in three dimensions, and, unlike the dot product, does not generalise easily to other dimensions, (other than 7) though it can in fact be extended.</p>
+<p>We are going to define the cross product such that it gives a vector which is perpendicular to the two vectors being crossed. This might sound a bit arbitrary but it shows up in a huge number of different situations in physics in particular and can help us to understand the geometric relation between vectors very simply.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11581</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 38 – 3D geometry and vectors part i</title>
+		<link>http://www.mathemafrica.org/?p=11506</link>
+		<comments>http://www.mathemafrica.org/?p=11506#comments</comments>
+		<pubDate>Fri, 04 Sep 2015 12:11:39 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[3d geometry]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11506</guid>
+		<description><![CDATA[<p>A lot of the following is going to be rather intuitively clear, but we need to build up a framework where we are all speaking the same language to develop the powerful tools that we are going to find over the coming sections. We will be dealing here specifically with three dimensional space but we will discuss along the way the extension of these concepts to higher dimensional spaces. The higher dimensional stuff is not examinable but I think that sometimes it helps to understand the things which are special about three dimensions, and the things which are not.</p>
+<p>In particular, I can recommend having a look at the web page of John Baez who discusses the regular polytopes in different numbers of dimensions <a href="http://math.ucr.edu/home/baez/platonic.html">here</a>.</p>
+<p>It&#8217;s clear that to define where you are in three dimensional space you need to set up a few key ingredients first. What you need is first of all an origin &#8211; a place to call home from which you will relatively describe your position.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>A lot of the following is going to be rather intuitively clear, but we need to build up a framework where we are all speaking the same language to develop the powerful tools that we are going to find over the coming sections. We will be dealing here specifically with three dimensional space but we will discuss along the way the extension of these concepts to higher dimensional spaces. The higher dimensional stuff is not examinable but I think that sometimes it helps to understand the things which are special about three dimensions, and the things which are not.</p>
+<p>In particular, I can recommend having a look at the web page of John Baez who discusses the regular polytopes in different numbers of dimensions <a href="http://math.ucr.edu/home/baez/platonic.html">here</a>.</p>
+<p>It&#8217;s clear that to define where you are in three dimensional space you need to set up a few key ingredients first. What you need is first of all an origin &#8211; a place to call home from which you will relatively describe your position.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11506</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

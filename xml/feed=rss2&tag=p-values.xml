@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>p-values &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=p-values" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>p-values (part 3): meta distribution of p-values</title>
+		<link>http://www.mathemafrica.org/?p=15794</link>
+		<comments>http://www.mathemafrica.org/?p=15794#respond</comments>
+		<pubDate>Thu, 05 Sep 2019 13:57:43 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[meta-distribution]]></category>
+		<category><![CDATA[p-values]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15794</guid>
+		<description><![CDATA[<p><b>Introduction</b></p>
+<p>So far we have discussed what p-values are and how they are calculated, as well as how bad experiments can lead to artificially small p-values. The next thing that we will look at comes from a paper by N.N. Taleb (1), in which he derives the meta-distribution of p-values i.e. what ranges of p-values we might expect if we repeatedly did an experiment where we sampled from the same underlying distribution.</p>
+<p>The derivations are pretty in depth and this content and the implications of the results are pretty new to me, so any discrepancies/misinterpretations found should be pointed out and/or discussed.</p>
+<p>Thankfully, in this video (2) there is an explanation that covers some of what the paper says as well as some Monte-Carlo simulations. My discussion will focus on some simulations of my own that are based on those that are done in the video.</p>
+<p><strong>What we are talking about</strong></p>
+<p>We have already discussed what p-values mean and how they can go wrong.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><b>Introduction</b></p>
+<p>So far we have discussed what p-values are and how they are calculated, as well as how bad experiments can lead to artificially small p-values. The next thing that we will look at comes from a paper by N.N. Taleb (1), in which he derives the meta-distribution of p-values i.e. what ranges of p-values we might expect if we repeatedly did an experiment where we sampled from the same underlying distribution.</p>
+<p>The derivations are pretty in depth and this content and the implications of the results are pretty new to me, so any discrepancies/misinterpretations found should be pointed out and/or discussed.</p>
+<p>Thankfully, in this video (2) there is an explanation that covers some of what the paper says as well as some Monte-Carlo simulations. My discussion will focus on some simulations of my own that are based on those that are done in the video.</p>
+<p><strong>What we are talking about</strong></p>
+<p>We have already discussed what p-values mean and how they can go wrong.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15794</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>p-values (part 2) : p-Hacking Why drinking red wine is not the same as exercising</title>
+		<link>http://www.mathemafrica.org/?p=15773</link>
+		<comments>http://www.mathemafrica.org/?p=15773#comments</comments>
+		<pubDate>Mon, 02 Sep 2019 15:39:28 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[p-hacking]]></category>
+		<category><![CDATA[p-values]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15773</guid>
+		<description><![CDATA[<p><strong>What is p-hacking?</strong></p>
+<p>You might have heard about a reproducibility problem with scientific studies. Or you might have heard that drinking a glass of red wine every evening is equivalent to an hour&#8217;s worth of exercise.</p>
+<p>Part of the reason that you might have heard about these things is p-hacking: &#8216;torturing the data until it confesses&#8217;. The reason for doing this is mostly pressure on researchers to find positive results (as these are more likely to be published) but it may also arise from misapplication of Statistical procedures or bad experimental design.</p>
+<p>Some of the content here is based on a more serious video from Veritasium: https://www.youtube.com/watch?v=42QuXLucH3Q. John Oliver has also spoken about this on <em>Last Week Tonight</em>, for those who are interested in some more examples of science that makes its way onto morning talk shows.</p>
+<p>p-hacking can be done in a number of ways- basically anything that is done either consciously or unconsciously to produce statistically significant results where there aren&#8217;t any.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>What is p-hacking?</strong></p>
+<p>You might have heard about a reproducibility problem with scientific studies. Or you might have heard that drinking a glass of red wine every evening is equivalent to an hour&#8217;s worth of exercise.</p>
+<p>Part of the reason that you might have heard about these things is p-hacking: &#8216;torturing the data until it confesses&#8217;. The reason for doing this is mostly pressure on researchers to find positive results (as these are more likely to be published) but it may also arise from misapplication of Statistical procedures or bad experimental design.</p>
+<p>Some of the content here is based on a more serious video from Veritasium: https://www.youtube.com/watch?v=42QuXLucH3Q. John Oliver has also spoken about this on <em>Last Week Tonight</em>, for those who are interested in some more examples of science that makes its way onto morning talk shows.</p>
+<p>p-hacking can be done in a number of ways- basically anything that is done either consciously or unconsciously to produce statistically significant results where there aren&#8217;t any.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15773</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>p-values: an introduction (Part 1)</title>
+		<link>http://www.mathemafrica.org/?p=15766</link>
+		<comments>http://www.mathemafrica.org/?p=15766#respond</comments>
+		<pubDate>Wed, 21 Aug 2019 21:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[p-values]]></category>
+		<category><![CDATA[statistics]]></category>
+		<category><![CDATA[stats1000]]></category>
+		<category><![CDATA[stats1006]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15766</guid>
+		<description><![CDATA[<p><strong>The starting point</strong></p>
+<p>This is the first of (at least) 3 posts on p-values. p-values are everywhere in statistics- especially in fields that require experimental design.</p>
+<p>They are also pretty tricky to get your head around at first. This is because of the nature of classical (frequentist) statistics. So to motivate this I am going to talk about a non-statistical situation that will hopefully give some intuition about how to think when interpreting p-values and doing hypothesis testing.</p>
+<p><strong>My New Car</strong></p>
+<p>I want to buy a car. So I go down to the second hand car dealership to get one. I walk around a bit until I find one that I like.</p>
+<p>I think to myself: <strong>&#8216;this is a good car&#8217;. </strong></p>
+<p>Now because I am at a second-hand car dealership I find it appropriate to gather some data. So I chat to the lady there (looks like a bit of a scammer, but I am here for a deal) about the car.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>The starting point</strong></p>
+<p>This is the first of (at least) 3 posts on p-values. p-values are everywhere in statistics- especially in fields that require experimental design.</p>
+<p>They are also pretty tricky to get your head around at first. This is because of the nature of classical (frequentist) statistics. So to motivate this I am going to talk about a non-statistical situation that will hopefully give some intuition about how to think when interpreting p-values and doing hypothesis testing.</p>
+<p><strong>My New Car</strong></p>
+<p>I want to buy a car. So I go down to the second hand car dealership to get one. I walk around a bit until I find one that I like.</p>
+<p>I think to myself: <strong>&#8216;this is a good car&#8217;. </strong></p>
+<p>Now because I am at a second-hand car dealership I find it appropriate to gather some data. So I chat to the lady there (looks like a bit of a scammer, but I am here for a deal) about the car.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15766</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

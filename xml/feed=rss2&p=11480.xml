@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 36 &#8211; differential equations part v &#8211; first order differential equations</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11480" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11480</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 06 Aug 2016 14:36:17 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11480#comment-417</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2015 11:05:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11480#comment-417</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 36 &#8211; Differential equations &#8211; first order linear differential&#8230; [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 36 &#8211; Differential equations &#8211; first order linear differential&#8230; [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11480#comment-341</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2015 18:49:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11480#comment-341</guid>
+		<description><![CDATA[Cheers Rohin, glad it helped!
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Cheers Rohin, glad it helped!</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Rohin Jain</title>
+		<link>http://www.mathemafrica.org/?p=11480#comment-340</link>
+		<dc:creator><![CDATA[Rohin Jain]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2015 17:48:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11480#comment-340</guid>
+		<description><![CDATA[That flow diagram was really helpful!]]></description>
+		<content:encoded><![CDATA[<p>That flow diagram was really helpful!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11480#comment-332</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2015 16:09:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11480#comment-332</guid>
+		<description><![CDATA[Cheers Moemedi, spot on.
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Cheers Moemedi, spot on.</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Moemedi Senatla</title>
+		<link>http://www.mathemafrica.org/?p=11480#comment-331</link>
+		<dc:creator><![CDATA[Moemedi Senatla]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2015 15:41:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11480#comment-331</guid>
+		<description><![CDATA[I&#039;m not sure if its just my computer but there is a line that reads:
+
+$\frac{1}{R(x)}\frac{d(y R(x))}{dx}=P(x)$]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m not sure if its just my computer but there is a line that reads:</p>
+<p>$\frac{1}{R(x)}\frac{d(y R(x))}{dx}=P(x)$</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

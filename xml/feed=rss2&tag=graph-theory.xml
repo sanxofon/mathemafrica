@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>graph theory &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=graph-theory" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>A Whimsical Introduction to Graph Theory (1)</title>
+		<link>http://www.mathemafrica.org/?p=13883</link>
+		<comments>http://www.mathemafrica.org/?p=13883#respond</comments>
+		<pubDate>Mon, 12 Feb 2018 12:21:44 +0000</pubDate>
+		<dc:creator><![CDATA[Brandon Du Preez]]></dc:creator>
+				<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[Mathematics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13883</guid>
+		<description><![CDATA[<p><strong>Part 1 &#8211; What are Graphs?<br />
+</strong></p>
+<hr />
+<p>Mathematics is full of fascinating ideas and concepts. These can, however, be very challenging to tackle and make sense of, especially when you are put under pressure to answer questions about them! In this post, and those to come, I hope to share some insight into these concepts without getting too formal. Where some definitions and more technical bits are introduced, they will be explained at end of the post: look out for the dagger <img src="//s0.wp.com/latex.php?latex=%5Cdagger&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;dagger" title="&#92;dagger" class="latex" /> symbols!</p>
+<p>To begin, let&#8217;s ask what we <strong>do</strong> in mathematics. The first step in any area of maths is almost always to abstract things. We take some concept we want to be able to work with and pull out the essential ideas. From a bunch of maps we may take out just destinations and the routes between them; from 3D objects we may only need to know what ways we can rotate them and still see the same thing; from a collection of algorithms we may only care about how long they take to run on a computer, and so on.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Part 1 &#8211; What are Graphs?<br />
+</strong></p>
+<hr />
+<p>Mathematics is full of fascinating ideas and concepts. These can, however, be very challenging to tackle and make sense of, especially when you are put under pressure to answer questions about them! In this post, and those to come, I hope to share some insight into these concepts without getting too formal. Where some definitions and more technical bits are introduced, they will be explained at end of the post: look out for the dagger <img src="//s0.wp.com/latex.php?latex=%5Cdagger&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;dagger" title="&#92;dagger" class="latex" /> symbols!</p>
+<p>To begin, let&#8217;s ask what we <strong>do</strong> in mathematics. The first step in any area of maths is almost always to abstract things. We take some concept we want to be able to work with and pull out the essential ideas. From a bunch of maps we may take out just destinations and the routes between them; from 3D objects we may only need to know what ways we can rotate them and still see the same thing; from a collection of algorithms we may only care about how long they take to run on a computer, and so on.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13883</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Graph Theory, Numberphile and Mathematica</title>
+		<link>http://www.mathemafrica.org/?p=13826</link>
+		<comments>http://www.mathemafrica.org/?p=13826#comments</comments>
+		<pubDate>Mon, 15 Jan 2018 12:03:16 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[Mathematica]]></category>
+		<category><![CDATA[Numberphile]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13826</guid>
+		<description><![CDATA[<p>Edit: I made a mistake with some of the language here. A comment from a true graph theorist:</p>
+<p><em>&#8220;Hamiltonian&#8221; usually means there&#8217;s a hamilton/hamiltonian cycle. Graphs with a hamilton path are &#8220;traceable&#8221;. Hamiltonian implies traceable, but not conversely.</em></p>
+<p>Thus, I have edited below accordingly.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>There was a nice video up on Numberphile about a problem which could easily be explained to a school student, and yet we don&#8217;t yet know the answer to it. See the videos here:</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/G1m7goLCJDY?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>and</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/7_ph5djCCnM?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>The game is the following: Given a sequence of consecutive integers, draw a graph where the nodes are the integers and there is an edge between each integer if their sum is a square number.</p>
+<p>If we take the numbers from 1 to 12, then the following would be the associated graph (note that there are three disconnected pieces of it).</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg" rel="attachment wp-att-13827"><img class="aligncenter wp-image-13827" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=463%2C381" alt="graph12" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=300%2C247 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=400%2C329 400w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=600%2C494 600w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?fit=722%2C594 722w" sizes="(max-width: 463px) 100vw, 463px" data-recalc-dims="1" /></a>Note that this is a disconnected, undirected graph. Looking at some of the edges.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Edit: I made a mistake with some of the language here. A comment from a true graph theorist:</p>
+<p><em>&#8220;Hamiltonian&#8221; usually means there&#8217;s a hamilton/hamiltonian cycle. Graphs with a hamilton path are &#8220;traceable&#8221;. Hamiltonian implies traceable, but not conversely.</em></p>
+<p>Thus, I have edited below accordingly.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>There was a nice video up on Numberphile about a problem which could easily be explained to a school student, and yet we don&#8217;t yet know the answer to it. See the videos here:</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/G1m7goLCJDY?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>and</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/7_ph5djCCnM?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<p>The game is the following: Given a sequence of consecutive integers, draw a graph where the nodes are the integers and there is an edge between each integer if their sum is a square number.</p>
+<p>If we take the numbers from 1 to 12, then the following would be the associated graph (note that there are three disconnected pieces of it).</p>
+<p><a href="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg" rel="attachment wp-att-13827"><img class="aligncenter wp-image-13827" src="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=463%2C381" alt="graph12" srcset="http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=300%2C247 300w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=400%2C329 400w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?resize=600%2C494 600w, http://i0.wp.com/www.mathemafrica.org/wp-content/uploads/2018/01/graph12.jpg?fit=722%2C594 722w" sizes="(max-width: 463px) 100vw, 463px" data-recalc-dims="1" /></a>Note that this is a disconnected, undirected graph. Looking at some of the edges.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13826</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Mathematica details of the cooking with mathematics post</title>
+		<link>http://www.mathemafrica.org/?p=10615</link>
+		<comments>http://www.mathemafrica.org/?p=10615#comments</comments>
+		<pubDate>Sat, 06 Jun 2015 12:37:50 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Mathematica]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10615</guid>
+		<description><![CDATA[<p><em>Edit: If you want to see the full code, I include everything in this post in the Mathematica file <a href="https://github.com/jonstraveladventures/foodpairing/blob/master/foodgraphs.nb">here</a>.</em></p>
+<p>I promised previously that we would go into depth into the graph theory and food calculations, so today we will do just that. This will be Mathematica heavy, so really this is only aimed at those who have played around with the <a href="http://wolfram.com/">Mathematica programming language</a>.</p>
+<p>I’ve been using this language now for over a decade, and while it is not the fastest language on the market for doing numerics-heavy calculations, it is an incredibly versatile language, and for getting code written fast, it’s hard to beat!</p>
+<p>I tend to code in what is called a <a href="http://www.wolfram.com/broadcast/video.php?c=101&#38;v=491">functional programming style</a> (ideal for Mathematica), which doesn’t use loops as you would normally find in a procedural language. Perhaps the most oft used coding syntax you will see below is of the form:</p>
+<p><strong><em>somefunction[#]&#38;/@{el1,el2,el3,el4…}</em></strong></p>
+<p>which takes the elements of a list and passes them one by one into a function.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>Edit: If you want to see the full code, I include everything in this post in the Mathematica file <a href="https://github.com/jonstraveladventures/foodpairing/blob/master/foodgraphs.nb">here</a>.</em></p>
+<p>I promised previously that we would go into depth into the graph theory and food calculations, so today we will do just that. This will be Mathematica heavy, so really this is only aimed at those who have played around with the <a href="http://wolfram.com/">Mathematica programming language</a>.</p>
+<p>I’ve been using this language now for over a decade, and while it is not the fastest language on the market for doing numerics-heavy calculations, it is an incredibly versatile language, and for getting code written fast, it’s hard to beat!</p>
+<p>I tend to code in what is called a <a href="http://www.wolfram.com/broadcast/video.php?c=101&amp;v=491">functional programming style</a> (ideal for Mathematica), which doesn’t use loops as you would normally find in a procedural language. Perhaps the most oft used coding syntax you will see below is of the form:</p>
+<p><strong><em>somefunction[#]&amp;/@{el1,el2,el3,el4…}</em></strong></p>
+<p>which takes the elements of a list and passes them one by one into a function.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10615</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cooking with Mathematics</title>
+		<link>http://www.mathemafrica.org/?p=10484</link>
+		<comments>http://www.mathemafrica.org/?p=10484#comments</comments>
+		<pubDate>Sun, 31 May 2015 14:29:32 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[cooking]]></category>
+		<category><![CDATA[graph theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10484</guid>
+		<description><![CDATA[<p>This post is not going to be very maths-heavy but will include some concepts from the area of graph theory which we will use in an unusual setting.</p>
+<p>Today we&#8217;re going to get into the virtual kitchen and get our virtual taste buds a-buzzing&#8230;.Well, actually we&#8217;re going to get our computers to do the hard work of finding out some tasty recipes and we&#8217;re going to use a few different techniques to do this. The workhorse is going to be the <a href="http://www.wolfram.com/">Mathematica</a> programming language, but a lot of what we will do will be doable in any programming language, though perhaps it will be slightly more cumbersome than this.</p>
+<p>The starting point of our culinary adventure will be a piece of text, taken from a website of flavour pairings <a href="http://nouveauraw.com/raw-recipe-templates-and-development/flavor-prfiles-that-pair-well-in-recipes/">here</a>.</p>
+<p>We see here that we have a piece of text which we can copy and paste into our Mathematica file.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>This post is not going to be very maths-heavy but will include some concepts from the area of graph theory which we will use in an unusual setting.</p>
+<p>Today we&#8217;re going to get into the virtual kitchen and get our virtual taste buds a-buzzing&#8230;.Well, actually we&#8217;re going to get our computers to do the hard work of finding out some tasty recipes and we&#8217;re going to use a few different techniques to do this. The workhorse is going to be the <a href="http://www.wolfram.com/">Mathematica</a> programming language, but a lot of what we will do will be doable in any programming language, though perhaps it will be slightly more cumbersome than this.</p>
+<p>The starting point of our culinary adventure will be a piece of text, taken from a website of flavour pairings <a href="http://nouveauraw.com/raw-recipe-templates-and-development/flavor-prfiles-that-pair-well-in-recipes/">here</a>.</p>
+<p>We see here that we have a piece of text which we can copy and paste into our Mathematica file.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10484</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

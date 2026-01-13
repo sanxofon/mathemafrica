@@ -1,0 +1,88 @@
+> FUNCIONA en CMD!!! PRIMER PASO!
+Test:
+C:\xampp\perl\bin\perl.exe -pi -e "s/http:\/\/www\.mathemafrica\.org\?/mathemafrica\/\?/gi;" _copia.html
+
+Todos:
+for %f in (*.html) do C:\xampp\perl\bin\perl.exe -i -pe "s/http:\/\/www\.mathemafrica\.org\?/mathemafrica\/\?/gi;" "%f"
+
+---
+
+> FUNCIONA en CMD!!! SEGUNDO PASO!
+Crear "fix_urls.pl" y "fix_urls.bat" y luego:
+
+Test:
+C:\xampp\perl\bin\perl.exe -pi fix_urls.pl _copia.html
+
+Todos:
+fix_urls.bat
+
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: &\.xml#038;([^"'#<]+)
+REPLCE: &#038;$1.xml
+---
+
+> FUNCIONA en CMD!!! TERCER PASO!
+Crear "fix_urls2.pl" y "fix_urls2.bat" y luego:
+
+Test:
+C:\xampp\perl\bin\perl.exe -pi fix_urls2.pl _copia.html
+
+Todos:
+fix_urls2.bat
+
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: &\.html#038;([^"'#<]+)
+REPLCE: &#038;$1.html
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: http:\\/\\/www\.mathemafrica\.org\\/\?([^"'#<]+)
+REPLCE: \\/mathemafrica\\/$1.html
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: /mathemafrica/rest_route=/
+REPLCE: /mathemafrica/rest_route
+---
+
+> FUNCIONA en CMD!!! CUARTO PASO!
+Crear "fix_urls3.pl" y "fix_urls3.bat" y luego:
+
+Test:
+C:\xampp\perl\bin\perl.exe -pi fix_urls3.pl _copia.html
+
+Todos:
+fix_urls3.bat
+
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: mathemafrica/\?(lang=[a-zA-Z]+)
+REPLCE: /mathemafrica/$1.html
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: "http://www.mathemafrica.org
+REPLCE: "/mathemafrica/
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: http:\\/\\/www\.mathemafrica\.org\\/
+REPLCE: \/mathemafrica\/
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: http://www\.mathemafrica\.org([^/])
+REPLCE: http://localhost$1
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: "//www\.mathemafrica\.org/
+REPLCE: "/mathemafrica/
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: http://i[0-9]\.wp\.com/www\.mathemafrica\.org/
+REPLCE: /mathemafrica/
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: http:\\/\\/www\.mathemafrica\.org
+REPLCE: http:\\/\\/localhost
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: www\.mathemafrica\.org
+REPLCE: localhost

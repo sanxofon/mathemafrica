@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Domain of a composite function &#8211; part 1</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=12438" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=12438</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 01 Aug 2016 17:30:49 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Domain of a composite function &#8211; part 2 &#8211; Mathemafrica</title>
+		<link>http://www.mathemafrica.org/?p=12438#comment-1170</link>
+		<dc:creator><![CDATA[Domain of a composite function &#8211; part 2 &#8211; Mathemafrica]]></dc:creator>
+		<pubDate>Sat, 12 Mar 2016 10:49:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12438#comment-1170</guid>
+		<description><![CDATA[[&#8230;] This is the second part of a post, written by Muhammad Azhar Rohiman, a first year student on MAM1000W at UCT. This post came about when he asked me a question related to domains of composite functions, and it was clear that on first learning about such topics, there are some simple misunderstandings. I suggested that he write a couple of paragraphs explaining what he had learnt, and the following is, I think, a very clear explanation of some of the ideas and pitfalls of this topic. The first part of the post is here. [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] This is the second part of a post, written by Muhammad Azhar Rohiman, a first year student on MAM1000W at UCT. This post came about when he asked me a question related to domains of composite functions, and it was clear that on first learning about such topics, there are some simple misunderstandings. I suggested that he write a couple of paragraphs explaining what he had learnt, and the following is, I think, a very clear explanation of some of the ideas and pitfalls of this topic. The first part of the post is here. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ursula</title>
+		<link>http://www.mathemafrica.org/?p=12438#comment-1162</link>
+		<dc:creator><![CDATA[Ursula]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2016 19:01:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12438#comment-1162</guid>
+		<description><![CDATA[Thanks. Really clarifying.]]></description>
+		<content:encoded><![CDATA[<p>Thanks. Really clarifying.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Aidan Horn</title>
+		<link>http://www.mathemafrica.org/?p=12438#comment-1147</link>
+		<dc:creator><![CDATA[Aidan Horn]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2016 15:38:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12438#comment-1147</guid>
+		<description><![CDATA[http://www.mathemafrica.org/?p=10279]]></description>
+		<content:encoded><![CDATA[<p><a href="http://www.mathemafrica.org/?p=10279" rel="nofollow">http://www.mathemafrica.org/?p=10279</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

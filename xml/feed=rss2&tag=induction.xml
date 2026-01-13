@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>induction &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=induction" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Prove that for every positive integer n, 9^n – 8n -1 is divisible by 64.</title>
+		<link>http://www.mathemafrica.org/?p=14764</link>
+		<comments>http://www.mathemafrica.org/?p=14764#respond</comments>
+		<pubDate>Wed, 24 Oct 2018 08:49:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=14764</guid>
+		<description><![CDATA[<p>Prove that for every positive integer <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />, <img src="//s0.wp.com/latex.php?latex=9%5En-8n-1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^n-8n-1" title="9^n-8n-1" class="latex" /> is divisible by 64.</p>
+<p>This question screams proof by induction, so we start with the base case, which in this case is <img src="//s0.wp.com/latex.php?latex=n%3D1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=1" title="n=1" class="latex" />:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5E1-8-1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^1-8-1" title="9^1-8-1" class="latex" /> which is indeed divisible by 64.</p>
+<p>Now, let&#8217;s assume that it holds true for some positive integer <img src="//s0.wp.com/latex.php?latex=n%3Dk&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k" title="n=k" class="latex" />. ie:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5Ek-8k-1%3D64p&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^k-8k-1=64p" title="9^k-8k-1=64p" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=p%5Cin%5Cmathbb%7BZ%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="p&#92;in&#92;mathbb{Z}" title="p&#92;in&#92;mathbb{Z}" class="latex" />.</p>
+<p>Now let&#8217;s see how we can use this to prove that the statement holds true for <img src="//s0.wp.com/latex.php?latex=n%3Dk%2B1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k+1" title="n=k+1" class="latex" />. For <img src="//s0.wp.com/latex.php?latex=n%3Dk%2B1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k+1" title="n=k+1" class="latex" /> we have:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5E%28k%2B1%29-8%28k%2B1%29-1%3D9%289%5Ek%29-8k-8-1%3D9%289%5Ek-8k-1%29%2B64k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(9^k-8k-1)+64k" title="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(9^k-8k-1)+64k" class="latex" /></p>
+<p>where we have manipulated the expression to contain the left hand side of the inductive hypothesis. Thereby, plugging in the inductive hypothesis, we get:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5E%28k%2B1%29-8%28k%2B1%29-1%3D9%289%5Ek%29-8k-8-1%3D9%2864p%29%2B64k%3D64%289p%2Bk%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(64p)+64k=64(9p+k)" title="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(64p)+64k=64(9p+k)" class="latex" /></p>
+<p>but clearly <img src="//s0.wp.com/latex.php?latex=9p%2Bk&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9p+k" title="9p+k" class="latex" /> is an integer, so this is divisible by 64 and thus the statement holds true for <img src="//s0.wp.com/latex.php?latex=n%3Dk%2B1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k+1" title="n=k+1" class="latex" />, thus it holds true for all positive integers <img src="//s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k" title="k" class="latex" /></p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-147650"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Prove that for every positive integer <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />, <img src="//s0.wp.com/latex.php?latex=9%5En-8n-1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^n-8n-1" title="9^n-8n-1" class="latex" /> is divisible by 64.</p>
+<p>This question screams proof by induction, so we start with the base case, which in this case is <img src="//s0.wp.com/latex.php?latex=n%3D1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=1" title="n=1" class="latex" />:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5E1-8-1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^1-8-1" title="9^1-8-1" class="latex" /> which is indeed divisible by 64.</p>
+<p>Now, let&#8217;s assume that it holds true for some positive integer <img src="//s0.wp.com/latex.php?latex=n%3Dk&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k" title="n=k" class="latex" />. ie:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5Ek-8k-1%3D64p&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^k-8k-1=64p" title="9^k-8k-1=64p" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=p%5Cin%5Cmathbb%7BZ%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="p&#92;in&#92;mathbb{Z}" title="p&#92;in&#92;mathbb{Z}" class="latex" />.</p>
+<p>Now let&#8217;s see how we can use this to prove that the statement holds true for <img src="//s0.wp.com/latex.php?latex=n%3Dk%2B1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k+1" title="n=k+1" class="latex" />. For <img src="//s0.wp.com/latex.php?latex=n%3Dk%2B1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k+1" title="n=k+1" class="latex" /> we have:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5E%28k%2B1%29-8%28k%2B1%29-1%3D9%289%5Ek%29-8k-8-1%3D9%289%5Ek-8k-1%29%2B64k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(9^k-8k-1)+64k" title="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(9^k-8k-1)+64k" class="latex" /></p>
+<p>where we have manipulated the expression to contain the left hand side of the inductive hypothesis. Thereby, plugging in the inductive hypothesis, we get:</p>
+<p><img src="//s0.wp.com/latex.php?latex=9%5E%28k%2B1%29-8%28k%2B1%29-1%3D9%289%5Ek%29-8k-8-1%3D9%2864p%29%2B64k%3D64%289p%2Bk%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(64p)+64k=64(9p+k)" title="9^(k+1)-8(k+1)-1=9(9^k)-8k-8-1=9(64p)+64k=64(9p+k)" class="latex" /></p>
+<p>but clearly <img src="//s0.wp.com/latex.php?latex=9p%2Bk&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="9p+k" title="9p+k" class="latex" /> is an integer, so this is divisible by 64 and thus the statement holds true for <img src="//s0.wp.com/latex.php?latex=n%3Dk%2B1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n=k+1" title="n=k+1" class="latex" />, thus it holds true for all positive integers <img src="//s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k" title="k" class="latex" /></p>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-147650"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=14764</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mathematical induction with an inequality</title>
+		<link>http://www.mathemafrica.org/?p=12464</link>
+		<comments>http://www.mathemafrica.org/?p=12464#comments</comments>
+		<pubDate>Wed, 09 Mar 2016 14:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[mathematical induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12464</guid>
+		<description><![CDATA[<p>In the tutorial sessions it was clear that one question in particular was causing problems. This is an induction proof with an inequality. The one which we will look at is the inequality:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5En%3En%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^n&#62;n^3" title="2^n&#62;n^3" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=n%5Cge+10&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 10" title="n&#92;ge 10" class="latex" /></p>
+<p>&#160;</p>
+<p>I am going to talk you through it in more detail than would be needed for the formal proof but I want to give some intuition along the way.</p>
+<p>&#160;</p>
+<p>So, we start off, as always with the base case. The base case is always the first integer for which the statement is claimed to be true. In this case it is for n=10. Let&#8217;s check for n=10. Is it true that?</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5E%7B10%7D%3E10%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^{10}&#62;10^3" title="2^{10}&#62;10^3" class="latex" /> ?</p>
+<p>&#160;</p>
+<p>Well this is:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=1024%3E1000&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1024&#62;1000" title="1024&#62;1000" class="latex" /></p>
+<p>&#160;</p>
+<p>and so we should be happy with that. We&#8217;ve proved the base case. Note that you do not then need to check for n=11, or n=12. I have seen many students check a base case for n=1, and then also check for n=2 and n=3.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In the tutorial sessions it was clear that one question in particular was causing problems. This is an induction proof with an inequality. The one which we will look at is the inequality:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5En%3En%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^n&gt;n^3" title="2^n&gt;n^3" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=n%5Cge+10&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 10" title="n&#92;ge 10" class="latex" /></p>
+<p>&nbsp;</p>
+<p>I am going to talk you through it in more detail than would be needed for the formal proof but I want to give some intuition along the way.</p>
+<p>&nbsp;</p>
+<p>So, we start off, as always with the base case. The base case is always the first integer for which the statement is claimed to be true. In this case it is for n=10. Let&#8217;s check for n=10. Is it true that?</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=2%5E%7B10%7D%3E10%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2^{10}&gt;10^3" title="2^{10}&gt;10^3" class="latex" /> ?</p>
+<p>&nbsp;</p>
+<p>Well this is:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=1024%3E1000&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1024&gt;1000" title="1024&gt;1000" class="latex" /></p>
+<p>&nbsp;</p>
+<p>and so we should be happy with that. We&#8217;ve proved the base case. Note that you do not then need to check for n=11, or n=12. I have seen many students check a base case for n=1, and then also check for n=2 and n=3.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12464</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Mathematical induction</title>
+		<link>http://www.mathemafrica.org/?p=12407</link>
+		<comments>http://www.mathemafrica.org/?p=12407#comments</comments>
+		<pubDate>Sun, 06 Mar 2016 15:43:12 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[induction]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[mathematical induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12407</guid>
+		<description><![CDATA[<p>One of the concepts that most students seem to struggle with the most in the first year maths course is that of mathematical induction. It feels abstract, yet when you have to prove a concrete statement, it feels like all the assumptions, and cases you look at shouldn&#8217;t have any real impact on the thing that you&#8217;re trying to prove. I will now try and prove that this is not true (though not by mathematical induction!).</p>
+<p>&#160;</p>
+<p>I&#8217;m going to start with a ladder brought from a magical ladder supplier. Steps on the ladder are labeled S(1), S(2), S(3) etc. The question is, are there infinitely many steps on the ladder? Well, with the information that I&#8217;ve given you so far, you just don&#8217;t know, but the manufacturer has given a little leaflet with the it. In the leaflet it says:</p>
+<p>&#8220;As long as your ladder has a step S(n), we hereby guarantee that it will have a step S(n+1), for any integers n&#8221;.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the concepts that most students seem to struggle with the most in the first year maths course is that of mathematical induction. It feels abstract, yet when you have to prove a concrete statement, it feels like all the assumptions, and cases you look at shouldn&#8217;t have any real impact on the thing that you&#8217;re trying to prove. I will now try and prove that this is not true (though not by mathematical induction!).</p>
+<p>&nbsp;</p>
+<p>I&#8217;m going to start with a ladder brought from a magical ladder supplier. Steps on the ladder are labeled S(1), S(2), S(3) etc. The question is, are there infinitely many steps on the ladder? Well, with the information that I&#8217;ve given you so far, you just don&#8217;t know, but the manufacturer has given a little leaflet with the it. In the leaflet it says:</p>
+<p>&#8220;As long as your ladder has a step S(n), we hereby guarantee that it will have a step S(n+1), for any integers n&#8221;.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12407</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Fibonacci and induction</title>
+		<link>http://www.mathemafrica.org/?p=11706</link>
+		<comments>http://www.mathemafrica.org/?p=11706#comments</comments>
+		<pubDate>Sun, 18 Oct 2015 07:37:45 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Fibonacci]]></category>
+		<category><![CDATA[induction]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11706</guid>
+		<description><![CDATA[<p>The Fibonacci numbers <img src="//s0.wp.com/latex.php?latex=F_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_n" title="F_n" class="latex" /> are defined by: <img src="//s0.wp.com/latex.php?latex=F_1+%3D+F_2+%3D+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_1 = F_2 = 1" title="F_1 = F_2 = 1" class="latex" />, <img src="//s0.wp.com/latex.php?latex=F_%7Bn%2B2%7D+%3D+F_%7Bn%2B1%7D+%2B+F_n+%5Ctextrm%7B+for+%7D+n%5Cge+1.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{n+2} = F_{n+1} + F_n &#92;textrm{ for } n&#92;ge 1." title="F_{n+2} = F_{n+1} + F_n &#92;textrm{ for } n&#92;ge 1." class="latex" /></p>
+<p>&#160;</p>
+<p>The numbers are 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, &#8230;</p>
+<p>&#160;</p>
+<p>The Fibonacci numbers have many interesting properties, and the proofs of these properties provide excellent examples of <em>Proof by Mathematical Induction.</em> Here are two examples. The first is quite easy, while the second is more challenging.</p>
+<p>&#160;</p>
+<p><strong>Theorem</strong></p>
+<p>&#160;</p>
+<p>Every fifth Fibonacci number is divisible by 5.</p>
+<p>&#160;</p>
+<p><strong>Proof</strong></p>
+<p>&#160;</p>
+<p>We note first that <img src="//s0.wp.com/latex.php?latex=F_5+%3D+5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_5 = 5" title="F_5 = 5" class="latex" /> is certainly divisible by 5, as are <img src="//s0.wp.com/latex.php?latex=F_%7B10%7D+%3D+55&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{10} = 55" title="F_{10} = 55" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=F_%7B15%7D+%3D+610.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{15} = 610." title="F_{15} = 610." class="latex" /> How can we be sure that the pattern continues?</p>
+<p>&#160;</p>
+<p>We shall show that: IF the statement &#8220;<img src="//s0.wp.com/latex.php?latex=F_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_n" title="F_n" class="latex" /> is divisible by 5&#8243; is true for some natural number <img src="//s0.wp.com/latex.php?latex=m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="m" title="m" class="latex" />, THEN the statement is also true for the natural number <img src="//s0.wp.com/latex.php?latex=m%2B5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="m+5" title="m+5" class="latex" />.</p>
+<p>&#160;</p>
+<p>Now</p>
+<p>&#160;</p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=F_%7Bm%2B5%7D+%3D+F_%7Bm%2B4%7D+%2B+F_%7Bm%2B3%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{m+5} = F_{m+4} + F_{m+3}" title="F_{m+5} = F_{m+4} + F_{m+3}" class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+%28F_%7Bm%2B3%7D+%2B+F_%7Bm%2B2%7D%29+%2B+F_%7Bm%2B3%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= (F_{m+3} + F_{m+2}) + F_{m+3}" title="= (F_{m+3} + F_{m+2}) + F_{m+3}" class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2F_%7Bm%2B3%7D+%2B+F_%7Bm%2B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2F_{m+3} + F_{m+2}" title="= 2F_{m+3} + F_{m+2}" class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2%28F_%7Bm%2B2%7D+%2B+F_%7Bm%2B1%7D%29+%2B+%28F_%7Bm%2B1%7D+%2B+F_m%29+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2(F_{m+2} + F_{m+1}) + (F_{m+1} + F_m) " title="= 2(F_{m+2} + F_{m+1}) + (F_{m+1} + F_m) " class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2F_%7Bm%2B2%7D+%2B+3F_%7Bm%2B1%7D+%2B+F_m+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2F_{m+2} + 3F_{m+1} + F_m " title="= 2F_{m+2} + 3F_{m+1} + F_m " class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2%28F_%7Bm%2B1%7D+%2B+F_m%29+%2B3F_%7Bm%2B1%7D+%2B+F_m+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2(F_{m+1} + F_m) +3F_{m+1} + F_m " title="= 2(F_{m+1} + F_m) +3F_{m+1} + F_m " class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+5F_%7Bm%2B1%7D+%2B+3F_m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 5F_{m+1} + 3F_m" title="= 5F_{m+1} + 3F_m" class="latex" />.</p>
+<p>&#160;</p>
+<p>Since we know that <img src="//s0.wp.com/latex.php?latex=F_m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_m" title="F_m" class="latex" /> is divisible by 5, it is now clear that <img src="//s0.wp.com/latex.php?latex=F_%7Bm%2B5%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{m+5}" title="F_{m+5}" class="latex" /> is also divisible by 5.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The Fibonacci numbers <img src="//s0.wp.com/latex.php?latex=F_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_n" title="F_n" class="latex" /> are defined by: <img src="//s0.wp.com/latex.php?latex=F_1+%3D+F_2+%3D+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_1 = F_2 = 1" title="F_1 = F_2 = 1" class="latex" />, <img src="//s0.wp.com/latex.php?latex=F_%7Bn%2B2%7D+%3D+F_%7Bn%2B1%7D+%2B+F_n+%5Ctextrm%7B+for+%7D+n%5Cge+1.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{n+2} = F_{n+1} + F_n &#92;textrm{ for } n&#92;ge 1." title="F_{n+2} = F_{n+1} + F_n &#92;textrm{ for } n&#92;ge 1." class="latex" /></p>
+<p>&nbsp;</p>
+<p>The numbers are 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, &#8230;</p>
+<p>&nbsp;</p>
+<p>The Fibonacci numbers have many interesting properties, and the proofs of these properties provide excellent examples of <em>Proof by Mathematical Induction.</em> Here are two examples. The first is quite easy, while the second is more challenging.</p>
+<p>&nbsp;</p>
+<p><strong>Theorem</strong></p>
+<p>&nbsp;</p>
+<p>Every fifth Fibonacci number is divisible by 5.</p>
+<p>&nbsp;</p>
+<p><strong>Proof</strong></p>
+<p>&nbsp;</p>
+<p>We note first that <img src="//s0.wp.com/latex.php?latex=F_5+%3D+5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_5 = 5" title="F_5 = 5" class="latex" /> is certainly divisible by 5, as are <img src="//s0.wp.com/latex.php?latex=F_%7B10%7D+%3D+55&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{10} = 55" title="F_{10} = 55" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=F_%7B15%7D+%3D+610.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{15} = 610." title="F_{15} = 610." class="latex" /> How can we be sure that the pattern continues?</p>
+<p>&nbsp;</p>
+<p>We shall show that: IF the statement &#8220;<img src="//s0.wp.com/latex.php?latex=F_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_n" title="F_n" class="latex" /> is divisible by 5&#8243; is true for some natural number <img src="//s0.wp.com/latex.php?latex=m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="m" title="m" class="latex" />, THEN the statement is also true for the natural number <img src="//s0.wp.com/latex.php?latex=m%2B5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="m+5" title="m+5" class="latex" />.</p>
+<p>&nbsp;</p>
+<p>Now</p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=F_%7Bm%2B5%7D+%3D+F_%7Bm%2B4%7D+%2B+F_%7Bm%2B3%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{m+5} = F_{m+4} + F_{m+3}" title="F_{m+5} = F_{m+4} + F_{m+3}" class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+%28F_%7Bm%2B3%7D+%2B+F_%7Bm%2B2%7D%29+%2B+F_%7Bm%2B3%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= (F_{m+3} + F_{m+2}) + F_{m+3}" title="= (F_{m+3} + F_{m+2}) + F_{m+3}" class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2F_%7Bm%2B3%7D+%2B+F_%7Bm%2B2%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2F_{m+3} + F_{m+2}" title="= 2F_{m+3} + F_{m+2}" class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2%28F_%7Bm%2B2%7D+%2B+F_%7Bm%2B1%7D%29+%2B+%28F_%7Bm%2B1%7D+%2B+F_m%29+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2(F_{m+2} + F_{m+1}) + (F_{m+1} + F_m) " title="= 2(F_{m+2} + F_{m+1}) + (F_{m+1} + F_m) " class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2F_%7Bm%2B2%7D+%2B+3F_%7Bm%2B1%7D+%2B+F_m+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2F_{m+2} + 3F_{m+1} + F_m " title="= 2F_{m+2} + 3F_{m+1} + F_m " class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+2%28F_%7Bm%2B1%7D+%2B+F_m%29+%2B3F_%7Bm%2B1%7D+%2B+F_m+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 2(F_{m+1} + F_m) +3F_{m+1} + F_m " title="= 2(F_{m+1} + F_m) +3F_{m+1} + F_m " class="latex" /></p>
+<p style="text-align: left;"><img src="//s0.wp.com/latex.php?latex=%3D+5F_%7Bm%2B1%7D+%2B+3F_m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="= 5F_{m+1} + 3F_m" title="= 5F_{m+1} + 3F_m" class="latex" />.</p>
+<p>&nbsp;</p>
+<p>Since we know that <img src="//s0.wp.com/latex.php?latex=F_m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_m" title="F_m" class="latex" /> is divisible by 5, it is now clear that <img src="//s0.wp.com/latex.php?latex=F_%7Bm%2B5%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="F_{m+5}" title="F_{m+5}" class="latex" /> is also divisible by 5.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11706</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

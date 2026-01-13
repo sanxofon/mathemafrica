@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Game Theory &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=game-theory" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>2017 2/3rds numbers game</title>
+		<link>http://www.mathemafrica.org/?p=13680</link>
+		<comments>http://www.mathemafrica.org/?p=13680#respond</comments>
+		<pubDate>Fri, 22 Sep 2017 08:51:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[2/3 numbers game]]></category>
+		<category><![CDATA[Game Theory]]></category>
+		<category><![CDATA[Keynesian Beauty contest]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13680</guid>
+		<description><![CDATA[<p>This is the fourth year that I&#8217;ve played the 2/3rds numbers game with my first year maths class. I&#8217;m always interested to see how, knowing previous results will affect this year&#8217;s results. Of course I am sure that a great deal depends on exactly how I explain the game, and so I imagine that this is the largest confounding factor in this &#8216;study&#8217;.<br />
+<a href="http://www.mathemafrica.org/?p=11143">If you don&#8217;t know about the 2/3rds numbers game, take a look at the post here</a>.</p>
+<p>Here are the histograms from the last three years:</p>
+<p><a href="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg" rel="attachment wp-att-13138"><img class="aligncenter size-large wp-image-13138" src="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236" alt="gametheory" srcset="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=200%2C46 200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=300%2C69 300w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=400%2C92 400w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=600%2C138 600w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=768%2C177 768w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=800%2C185 800w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236 1024w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1200%2C277 1200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?fit=2912%2C672 2912w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></a></p>
+<p>This year I told the class the mean results from the previous years to see if it would make a difference (<a href="http://www.mathemafrica.org/?p=13137">as it seemed to last year</a>). This year, the results are somewhat lower:</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg" rel="attachment wp-att-13681"><img class="aligncenter size-full wp-image-13681" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?resize=500%2C244" alt="numbersgame2017" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?resize=300%2C146 300w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?resize=400%2C195 400w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?fit=500%2C244 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /></a>The winner was thus the person who got closest to 2/3 of 24.4=16.3. This year one person guessed 16, and one person guessed 16.2. Because everyone was asked to write down an integer, unfortunately I can&#8217;t claim that 16.2 is the winner, but they will get a second prize.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>This is the fourth year that I&#8217;ve played the 2/3rds numbers game with my first year maths class. I&#8217;m always interested to see how, knowing previous results will affect this year&#8217;s results. Of course I am sure that a great deal depends on exactly how I explain the game, and so I imagine that this is the largest confounding factor in this &#8216;study&#8217;.<br />
+<a href="http://www.mathemafrica.org/?p=11143">If you don&#8217;t know about the 2/3rds numbers game, take a look at the post here</a>.</p>
+<p>Here are the histograms from the last three years:</p>
+<p><a href="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg" rel="attachment wp-att-13138"><img class="aligncenter size-large wp-image-13138" src="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236" alt="gametheory" srcset="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=200%2C46 200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=300%2C69 300w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=400%2C92 400w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=600%2C138 600w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=768%2C177 768w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=800%2C185 800w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236 1024w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1200%2C277 1200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?fit=2912%2C672 2912w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></a></p>
+<p>This year I told the class the mean results from the previous years to see if it would make a difference (<a href="http://www.mathemafrica.org/?p=13137">as it seemed to last year</a>). This year, the results are somewhat lower:</p>
+<p><a href="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg" rel="attachment wp-att-13681"><img class="aligncenter size-full wp-image-13681" src="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?resize=500%2C244" alt="numbersgame2017" srcset="http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?resize=300%2C146 300w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?resize=400%2C195 400w, http://i1.wp.com/www.mathemafrica.org/wp-content/uploads/2017/09/numbersgame2017.jpg?fit=500%2C244 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" /></a>The winner was thus the person who got closest to 2/3 of 24.4=16.3. This year one person guessed 16, and one person guessed 16.2. Because everyone was asked to write down an integer, unfortunately I can&#8217;t claim that 16.2 is the winner, but they will get a second prize.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13680</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Does knowledge of past years affect the Keynesian Beauty Contest result?</title>
+		<link>http://www.mathemafrica.org/?p=13137</link>
+		<comments>http://www.mathemafrica.org/?p=13137#respond</comments>
+		<pubDate>Sat, 06 Aug 2016 14:36:11 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Game Theory]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13137</guid>
+		<description><![CDATA[<p>Last year I played the 2/3 numbers game, also called the <a href="https://en.wikipedia.org/wiki/Keynesian_beauty_contest">Keynesian Beauty Contest</a> with my first year maths class. The discussion can be found here: <a href="http://www.mathemafrica.org/?p=11143">http://www.mathemafrica.org/?p=11143 </a>I wanted to know if, telling my class the results from last year (including sketching for them the histogram of results), would change how they chose their numbers this year. Of course I can&#8217;t tell if it changed them, but what is fascinating is that either:</p>
+<ol>
+<li>Their guesses (if I didn&#8217;t tell them about the results from last year) would have been very different from those last year, or:</li>
+<li>They were completely unaffected by knowing what people did last year, which really means that they believed that the rest of the class would have been unaffected.</li>
+</ol>
+<p>I plot here the results from the last three years and you can see how similar the results are, year on year.</p>
+<p><a href="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg" rel="attachment wp-att-13138"><img class="aligncenter size-large wp-image-13138" src="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236" alt="gametheory" srcset="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=200%2C46 200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=300%2C69 300w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=400%2C92 400w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=600%2C138 600w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=768%2C177 768w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=800%2C185 800w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236 1024w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1200%2C277 1200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?fit=2912%2C672 2912w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></a>You can see that the distributions are relatively similar, and the means are extremely close.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Last year I played the 2/3 numbers game, also called the <a href="https://en.wikipedia.org/wiki/Keynesian_beauty_contest">Keynesian Beauty Contest</a> with my first year maths class. The discussion can be found here: <a href="http://www.mathemafrica.org/?p=11143">http://www.mathemafrica.org/?p=11143 </a>I wanted to know if, telling my class the results from last year (including sketching for them the histogram of results), would change how they chose their numbers this year. Of course I can&#8217;t tell if it changed them, but what is fascinating is that either:</p>
+<ol>
+<li>Their guesses (if I didn&#8217;t tell them about the results from last year) would have been very different from those last year, or:</li>
+<li>They were completely unaffected by knowing what people did last year, which really means that they believed that the rest of the class would have been unaffected.</li>
+</ol>
+<p>I plot here the results from the last three years and you can see how similar the results are, year on year.</p>
+<p><a href="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg" rel="attachment wp-att-13138"><img class="aligncenter size-large wp-image-13138" src="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236" alt="gametheory" srcset="http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=200%2C46 200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=300%2C69 300w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=400%2C92 400w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=600%2C138 600w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=768%2C177 768w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=800%2C185 800w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1024%2C236 1024w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?resize=1200%2C277 1200w, http://i2.wp.com/www.mathemafrica.org/wp-content/uploads/2016/08/gametheory.jpg?fit=2912%2C672 2912w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></a>You can see that the distributions are relatively similar, and the means are extremely close.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13137</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Game Theory can make you money&#8230;</title>
+		<link>http://www.mathemafrica.org/?p=11548</link>
+		<comments>http://www.mathemafrica.org/?p=11548#respond</comments>
+		<pubDate>Tue, 08 Sep 2015 14:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Game Theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11548</guid>
+		<description><![CDATA[<p>I plan on doing some game theory posts in the near future, but for now, see how some very clever tactical thinking can do you wonders&#8230;</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/S0qjK3TWZE8?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-115490"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>I plan on doing some game theory posts in the near future, but for now, see how some very clever tactical thinking can do you wonders&#8230;</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/S0qjK3TWZE8?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-115490"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11548</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,1 @@
+s{http://www\.mathemafrica\.org/}{/mathemafrica/}gi;

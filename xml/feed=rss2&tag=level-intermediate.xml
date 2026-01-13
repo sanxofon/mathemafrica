@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Level: Intermediate &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=level-intermediate" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>A foray into a new number system &#8211; an introduction to imaginary numbers</title>
+		<link>http://www.mathemafrica.org/?p=10162</link>
+		<pubDate>Tue, 11 Nov 2014 11:41:19 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Background]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Level: Intermediate]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10162</guid>
+		<description><![CDATA[<p>This is the introduction which I give to my first year mathematics class when they see imaginary numbers for the first time. I thought I&#8217;d type it up here as it&#8217;s received good reactions the two times that I&#8217;ve introduced it in this format.<b> </b>Note that this probably isn&#8217;t the canonical way to introduce complex numbers, but then most of my lectures don&#8217;t necessarily take the normal route&#8230;</p>
+<p><b>Complex Numbers, a philosophical detour</b></p>
+<p>Before we get on to talking about imaginary numbers and complex numbers, let&#8217;s try and break down our preconceptions about numbers in general.</p>
+<p>We look at the world around us and see many things which we categorise. We see a computer, a piece of paper, we see other people, we see our hands. These are labels that we use to categorise the world, but these objects seem very physical and very real. We rarely question their existence, though if one wants to take the Cartesian view, we should also question the reality we are in.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>This is the introduction which I give to my first year mathematics class when they see imaginary numbers for the first time. I thought I&#8217;d type it up here as it&#8217;s received good reactions the two times that I&#8217;ve introduced it in this format.<b> </b>Note that this probably isn&#8217;t the canonical way to introduce complex numbers, but then most of my lectures don&#8217;t necessarily take the normal route&#8230;</p>
+<p><b>Complex Numbers, a philosophical detour</b></p>
+<p>Before we get on to talking about imaginary numbers and complex numbers, let&#8217;s try and break down our preconceptions about numbers in general.</p>
+<p>We look at the world around us and see many things which we categorise. We see a computer, a piece of paper, we see other people, we see our hands. These are labels that we use to categorise the world, but these objects seem very physical and very real. We rarely question their existence, though if one wants to take the Cartesian view, we should also question the reality we are in.&hellip;</p>]]></content:encoded>
+			</item>
+	</channel>
+</rss>

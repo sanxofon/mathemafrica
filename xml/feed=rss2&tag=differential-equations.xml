@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>differential equations &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=differential-equations" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Checking direction fields</title>
+		<link>http://www.mathemafrica.org/?p=13193</link>
+		<comments>http://www.mathemafrica.org/?p=13193#comments</comments>
+		<pubDate>Tue, 11 Oct 2016 10:20:18 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[differential equations]]></category>
+		<category><![CDATA[Direction Field]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=13193</guid>
+		<description><![CDATA[<p>I was recently asked about how to spot which direction field corresponds to which differential equation. I hope that by working through a few examples here we will get a reasonable intuition as to how to do this.</p>
+<p>Remember that a direction field is a method for getting the general behaviour of a first order differential equation. Given an equation of the form:</p>
+<p>&#160;</p>
+<p><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Df%28x%2Cy%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=f(x,y)" title="&#92;frac{dy}{dx}=f(x,y)" class="latex" /></p>
+<p>&#160;</p>
+<p>For any function of x and y, the solution to this differential equation must be some function (or indeed family of functions) where the gradient of the function satisfies the above relationship.</p>
+<p>The first such equation that we looked at was the equation:</p>
+<p>&#160;</p>
+<p><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%28x%29%7D%7Bdx%7D%3Dx%2By%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy(x)}{dx}=x+y(x)" title="&#92;frac{dy(x)}{dx}=x+y(x)" class="latex" />.</p>
+<p>&#160;</p>
+<p>We are trying to find some function, or indeed family of functions y(x) which satisfy this equation. We need to find a function whose derivative (y'(x)) at each point x is equal to the value of the function (ie. y(x)), plus that value of x.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>I was recently asked about how to spot which direction field corresponds to which differential equation. I hope that by working through a few examples here we will get a reasonable intuition as to how to do this.</p>
+<p>Remember that a direction field is a method for getting the general behaviour of a first order differential equation. Given an equation of the form:</p>
+<p>&nbsp;</p>
+<p><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Df%28x%2Cy%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=f(x,y)" title="&#92;frac{dy}{dx}=f(x,y)" class="latex" /></p>
+<p>&nbsp;</p>
+<p>For any function of x and y, the solution to this differential equation must be some function (or indeed family of functions) where the gradient of the function satisfies the above relationship.</p>
+<p>The first such equation that we looked at was the equation:</p>
+<p>&nbsp;</p>
+<p><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%28x%29%7D%7Bdx%7D%3Dx%2By%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy(x)}{dx}=x+y(x)" title="&#92;frac{dy(x)}{dx}=x+y(x)" class="latex" />.</p>
+<p>&nbsp;</p>
+<p>We are trying to find some function, or indeed family of functions y(x) which satisfy this equation. We need to find a function whose derivative (y'(x)) at each point x is equal to the value of the function (ie. y(x)), plus that value of x.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=13193</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Chaos from differential equations</title>
+		<link>http://www.mathemafrica.org/?p=11565</link>
+		<comments>http://www.mathemafrica.org/?p=11565#respond</comments>
+		<pubDate>Tue, 15 Sep 2015 12:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[chaos]]></category>
+		<category><![CDATA[differential equations]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11565</guid>
+		<description><![CDATA[<p>In all of this talk about differential equations, we haven&#8217;t spoken all that much about the uses of them, apart from a little about population dynamics, nor indeed about their amazing properties. Part of the reason for this is that in general (though of course not exclusively), the most interesting differential equations are a single step beyond what we have been looking at. They are differential equations in more than one variable. For instance, rather than just having a <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> be a function of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> or <img src="//s0.wp.com/latex.php?latex=t&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="t" title="t" class="latex" />, they have <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> a function of both <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=t&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="t" title="t" class="latex" />. It turns out that this little change makes all the difference in the world. All of a sudden we can see how things change in both space and time. We can look at real dynamics of systems which are not local to a single place.</p>
+<p>This is a topic for another time, and comes under the term partial differential equation.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In all of this talk about differential equations, we haven&#8217;t spoken all that much about the uses of them, apart from a little about population dynamics, nor indeed about their amazing properties. Part of the reason for this is that in general (though of course not exclusively), the most interesting differential equations are a single step beyond what we have been looking at. They are differential equations in more than one variable. For instance, rather than just having a <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> be a function of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> or <img src="//s0.wp.com/latex.php?latex=t&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="t" title="t" class="latex" />, they have <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> a function of both <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=t&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="t" title="t" class="latex" />. It turns out that this little change makes all the difference in the world. All of a sudden we can see how things change in both space and time. We can look at real dynamics of systems which are not local to a single place.</p>
+<p>This is a topic for another time, and comes under the term partial differential equation.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11565</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 37 &#8211; differential equations part vi &#8211; second order differential equations</title>
+		<link>http://www.mathemafrica.org/?p=11488</link>
+		<comments>http://www.mathemafrica.org/?p=11488#comments</comments>
+		<pubDate>Tue, 01 Sep 2015 12:27:22 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[differential equations]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[second order]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11488</guid>
+		<description><![CDATA[<p><strong>Second Order differential equations</strong></p>
+<p>We are only going to look at a particular subset of all possible second order differential equations (that is, equations which contain at most second derivatives) but these particular equations are absolutely ubiquitous across every field of science. The particular subset we are going to look at are linear, homogenous second order differential equations with constant coefficients. These can be written in general as:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bd%5E2y%7D%7Bdx%5E2%7D%2Bb%5Cfrac%7Bdy%7D%7Bdx%7D%2Bc+y%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{d^2y}{dx^2}+b&#92;frac{dy}{dx}+c y=0" title="&#92;frac{d^2y}{dx^2}+b&#92;frac{dy}{dx}+c y=0" class="latex" /></p>
+<p>&#160;</p>
+<p>It is linear because it contains at most (and in this case at least) a single power of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> in each term. It is homogenous because there is no term which has no powers of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> (ie. the right hand side is not a constant), and the coefficients <img src="//s0.wp.com/latex.php?latex=b&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="b" title="b" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=c&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="c" title="c" class="latex" /> are any real numbers (though you can extend this to having complex numbers very easily). We will see that depending on the relationship between these numbers (<img src="//s0.wp.com/latex.php?latex=b&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="b" title="b" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=c&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="c" title="c" class="latex" />) we can have very different behaviour of the equation.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Second Order differential equations</strong></p>
+<p>We are only going to look at a particular subset of all possible second order differential equations (that is, equations which contain at most second derivatives) but these particular equations are absolutely ubiquitous across every field of science. The particular subset we are going to look at are linear, homogenous second order differential equations with constant coefficients. These can be written in general as:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bd%5E2y%7D%7Bdx%5E2%7D%2Bb%5Cfrac%7Bdy%7D%7Bdx%7D%2Bc+y%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{d^2y}{dx^2}+b&#92;frac{dy}{dx}+c y=0" title="&#92;frac{d^2y}{dx^2}+b&#92;frac{dy}{dx}+c y=0" class="latex" /></p>
+<p>&nbsp;</p>
+<p>It is linear because it contains at most (and in this case at least) a single power of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> in each term. It is homogenous because there is no term which has no powers of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> (ie. the right hand side is not a constant), and the coefficients <img src="//s0.wp.com/latex.php?latex=b&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="b" title="b" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=c&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="c" title="c" class="latex" /> are any real numbers (though you can extend this to having complex numbers very easily). We will see that depending on the relationship between these numbers (<img src="//s0.wp.com/latex.php?latex=b&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="b" title="b" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=c&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="c" title="c" class="latex" />) we can have very different behaviour of the equation.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11488</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 36 &#8211; differential equations part v &#8211; first order differential equations</title>
+		<link>http://www.mathemafrica.org/?p=11480</link>
+		<comments>http://www.mathemafrica.org/?p=11480#comments</comments>
+		<pubDate>Tue, 01 Sep 2015 12:12:29 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[differential equations]]></category>
+		<category><![CDATA[first order]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11480</guid>
+		<description><![CDATA[<p><strong>First order linear differential equations</strong></p>
+<p>We are now going to deal with another subset of first order differential equations which in some ways are easier than the previous and in other ways more complicated. These are linear first order differential equations. The general form of a first order linear differential equation is:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%2BP%28x%29y%3DQ%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}+P(x)y=Q(x)" title="&#92;frac{dy}{dx}+P(x)y=Q(x)" class="latex" /></p>
+<p>&#160;</p>
+<p>where <img src="//s0.wp.com/latex.php?latex=P%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="P(x)" title="P(x)" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=Q%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Q(x)" title="Q(x)" class="latex" /> are any functions of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.</p>
+<p>&#160;</p>
+<p><strong>Very importantly, I&#8217;m leaving off the fact that <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> is dependent on <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> in the notation, but you should remember that this is really <img src="//s0.wp.com/latex.php?latex=y%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y(x)" title="y(x)" class="latex" /> and that is the function you are trying to solve for</strong>.</p>
+<p>&#160;</p>
+<p>Sometimes you will be given an equation which is not obviously in this form but it can be transformed to this form. For instance:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7B1%7D%7By%7D%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx%5E2%2B%5Cfrac%7B%5Csin+x%7D%7By%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{1}{y}&#92;frac{dy}{dx}=x^2+&#92;frac{&#92;sin x}{y}" title="&#92;frac{1}{y}&#92;frac{dy}{dx}=x^2+&#92;frac{&#92;sin x}{y}" class="latex" /></p>
+<p>&#160;</p>
+<p>This can easily be transformed into the canonical form for a linear first order DE. We are going to try and rewrite the left hand side of the equation in a form which will mean that we can solve the differential equation very easily.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>First order linear differential equations</strong></p>
+<p>We are now going to deal with another subset of first order differential equations which in some ways are easier than the previous and in other ways more complicated. These are linear first order differential equations. The general form of a first order linear differential equation is:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%2BP%28x%29y%3DQ%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}+P(x)y=Q(x)" title="&#92;frac{dy}{dx}+P(x)y=Q(x)" class="latex" /></p>
+<p>&nbsp;</p>
+<p>where <img src="//s0.wp.com/latex.php?latex=P%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="P(x)" title="P(x)" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=Q%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Q(x)" title="Q(x)" class="latex" /> are any functions of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.</p>
+<p>&nbsp;</p>
+<p><strong>Very importantly, I&#8217;m leaving off the fact that <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> is dependent on <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> in the notation, but you should remember that this is really <img src="//s0.wp.com/latex.php?latex=y%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y(x)" title="y(x)" class="latex" /> and that is the function you are trying to solve for</strong>.</p>
+<p>&nbsp;</p>
+<p>Sometimes you will be given an equation which is not obviously in this form but it can be transformed to this form. For instance:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7B1%7D%7By%7D%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx%5E2%2B%5Cfrac%7B%5Csin+x%7D%7By%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{1}{y}&#92;frac{dy}{dx}=x^2+&#92;frac{&#92;sin x}{y}" title="&#92;frac{1}{y}&#92;frac{dy}{dx}=x^2+&#92;frac{&#92;sin x}{y}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>This can easily be transformed into the canonical form for a linear first order DE. We are going to try and rewrite the left hand side of the equation in a form which will mean that we can solve the differential equation very easily.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11480</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 35- differential equations part iv &#8211; separable differential equations</title>
+		<link>http://www.mathemafrica.org/?p=11471</link>
+		<comments>http://www.mathemafrica.org/?p=11471#comments</comments>
+		<pubDate>Tue, 01 Sep 2015 11:52:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[differential equations]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[separable equations]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11471</guid>
+		<description><![CDATA[<p><strong>Separable differential equations</strong><br />
+In some ways these are the easiest differential equations to solve in theory, though in practice the final step (that of integrating) may be difficult or impossible. A separable differential equation is one of the form:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3D%5Cfrac%7Bf%28x%29%7D%7Bg%28y%29%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=&#92;frac{f(x)}{g(y)}" title="&#92;frac{dy}{dx}=&#92;frac{f(x)}{g(y)}" class="latex" /></p>
+<p>&#160;</p>
+<p>where <img src="//s0.wp.com/latex.php?latex=f%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)" title="f(x)" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=g%28y%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(y)" title="g(y)" class="latex" /> are any functions of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> respectively. For instance:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx+y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=x y" title="&#92;frac{dy}{dx}=x y" class="latex" /></p>
+<p>&#160;</p>
+<p>is of this form where <img src="//s0.wp.com/latex.php?latex=f%28x%29%3Dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)=x" title="f(x)=x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=f%28y%29%3D%5Cfrac%7B1%7D%7By%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(y)=&#92;frac{1}{y}" title="f(y)=&#92;frac{1}{y}" class="latex" />. The reason that these equations are simple in theory is because we can rearrange them to be:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=g%28y%29dy%3Df%28x%29dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(y)dy=f(x)dx" title="g(y)dy=f(x)dx" class="latex" /></p>
+<p>&#160;</p>
+<p>ie. we have all the <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> stuff on one side and all the <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> stuff on the other and then we can integrate both sides:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cint+g%28y%29dy%3D%5Cint+f%28x%29dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;int g(y)dy=&#92;int f(x)dx" title="&#92;int g(y)dy=&#92;int f(x)dx" class="latex" /></p>
+<p>&#160;</p>
+<p>and that&#8217;s it. As long as you can do the integrals, you can get a function <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> in terms of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />. let&#8217;s look at some examples:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx+y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=x y" title="&#92;frac{dy}{dx}=x y" class="latex" /></p>
+<p>&#160;</p>
+<p>gives the following integral:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cint%5Cfrac%7B1%7D%7By%7Ddy%3D%5Cint+x+dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;int&#92;frac{1}{y}dy=&#92;int x dx" title="&#92;int&#92;frac{1}{y}dy=&#92;int x dx" class="latex" /></p>
+<p>&#160;</p>
+<p>and so:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cln+%7Cy%7C%2Bc_1%3D%5Cfrac%7Bx%5E2%7D%7B2%7D%2Bc_2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;ln &#124;y&#124;+c_1=&#92;frac{x^2}{2}+c_2" title="&#92;ln &#124;y&#124;+c_1=&#92;frac{x^2}{2}+c_2" class="latex" /></p>
+<p>&#160;</p>
+<p>here we have one constant of integration from each side of the interval, but because they are just constants, we can put them into one constant and call it <img src="//s0.wp.com/latex.php?latex=c&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="c" title="c" class="latex" />:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cln+%7Cy%7C%3D%5Cfrac%7Bx%5E2%7D%7B2%7D%2Bc&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;ln &#124;y&#124;=&#92;frac{x^2}{2}+c" title="&#92;ln &#124;y&#124;=&#92;frac{x^2}{2}+c" class="latex" /></p>
+<p>&#160;</p>
+<p>we can then rearrange this to give:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%7Cy%7C%3De%5E%7B%5Cfrac%7Bx%5E2%7D%7B2%7D%2Bc%7D%3De%5Ece%5E%7B%5Cfrac%7Bx%5E2%7D%7B2%7D%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#124;y&#124;=e^{&#92;frac{x^2}{2}+c}=e^ce^{&#92;frac{x^2}{2}}" title="&#124;y&#124;=e^{&#92;frac{x^2}{2}+c}=e^ce^{&#92;frac{x^2}{2}}" class="latex" /></p>
+<p>&#160;</p>
+<p>We can then call <img src="//s0.wp.com/latex.php?latex=e%5Ec&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="e^c" title="e^c" class="latex" /> just a constant, and let&#8217;s call it <img src="//s0.wp.com/latex.php?latex=y_0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y_0" title="y_0" class="latex" /> because we can see that when <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> is zero, <img src="//s0.wp.com/latex.php?latex=%7Cy%7C&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#124;y&#124;" title="&#124;y&#124;" class="latex" /> is just going to be given by this constant:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%7Cy%7C%3Dy_0e%5E%7B%5Cfrac%7Bx%5E2%7D%7B2%7D%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#124;y&#124;=y_0e^{&#92;frac{x^2}{2}}" title="&#124;y&#124;=y_0e^{&#92;frac{x^2}{2}}" class="latex" /></p>
+<p>&#160;</p>
+<p>This has two solutions (one where <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> is positive, and one where it is negative), so we can choose one of them, depending on the initial condition for <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" />.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Separable differential equations</strong><br />
+In some ways these are the easiest differential equations to solve in theory, though in practice the final step (that of integrating) may be difficult or impossible. A separable differential equation is one of the form:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3D%5Cfrac%7Bf%28x%29%7D%7Bg%28y%29%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=&#92;frac{f(x)}{g(y)}" title="&#92;frac{dy}{dx}=&#92;frac{f(x)}{g(y)}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>where <img src="//s0.wp.com/latex.php?latex=f%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)" title="f(x)" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=g%28y%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(y)" title="g(y)" class="latex" /> are any functions of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> respectively. For instance:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx+y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=x y" title="&#92;frac{dy}{dx}=x y" class="latex" /></p>
+<p>&nbsp;</p>
+<p>is of this form where <img src="//s0.wp.com/latex.php?latex=f%28x%29%3Dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(x)=x" title="f(x)=x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=f%28y%29%3D%5Cfrac%7B1%7D%7By%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f(y)=&#92;frac{1}{y}" title="f(y)=&#92;frac{1}{y}" class="latex" />. The reason that these equations are simple in theory is because we can rearrange them to be:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=g%28y%29dy%3Df%28x%29dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="g(y)dy=f(x)dx" title="g(y)dy=f(x)dx" class="latex" /></p>
+<p>&nbsp;</p>
+<p>ie. we have all the <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> stuff on one side and all the <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> stuff on the other and then we can integrate both sides:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cint+g%28y%29dy%3D%5Cint+f%28x%29dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;int g(y)dy=&#92;int f(x)dx" title="&#92;int g(y)dy=&#92;int f(x)dx" class="latex" /></p>
+<p>&nbsp;</p>
+<p>and that&#8217;s it. As long as you can do the integrals, you can get a function <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> in terms of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />. let&#8217;s look at some examples:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx+y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=x y" title="&#92;frac{dy}{dx}=x y" class="latex" /></p>
+<p>&nbsp;</p>
+<p>gives the following integral:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cint%5Cfrac%7B1%7D%7By%7Ddy%3D%5Cint+x+dx&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;int&#92;frac{1}{y}dy=&#92;int x dx" title="&#92;int&#92;frac{1}{y}dy=&#92;int x dx" class="latex" /></p>
+<p>&nbsp;</p>
+<p>and so:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cln+%7Cy%7C%2Bc_1%3D%5Cfrac%7Bx%5E2%7D%7B2%7D%2Bc_2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;ln |y|+c_1=&#92;frac{x^2}{2}+c_2" title="&#92;ln |y|+c_1=&#92;frac{x^2}{2}+c_2" class="latex" /></p>
+<p>&nbsp;</p>
+<p>here we have one constant of integration from each side of the interval, but because they are just constants, we can put them into one constant and call it <img src="//s0.wp.com/latex.php?latex=c&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="c" title="c" class="latex" />:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cln+%7Cy%7C%3D%5Cfrac%7Bx%5E2%7D%7B2%7D%2Bc&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;ln |y|=&#92;frac{x^2}{2}+c" title="&#92;ln |y|=&#92;frac{x^2}{2}+c" class="latex" /></p>
+<p>&nbsp;</p>
+<p>we can then rearrange this to give:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%7Cy%7C%3De%5E%7B%5Cfrac%7Bx%5E2%7D%7B2%7D%2Bc%7D%3De%5Ece%5E%7B%5Cfrac%7Bx%5E2%7D%7B2%7D%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="|y|=e^{&#92;frac{x^2}{2}+c}=e^ce^{&#92;frac{x^2}{2}}" title="|y|=e^{&#92;frac{x^2}{2}+c}=e^ce^{&#92;frac{x^2}{2}}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>We can then call <img src="//s0.wp.com/latex.php?latex=e%5Ec&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="e^c" title="e^c" class="latex" /> just a constant, and let&#8217;s call it <img src="//s0.wp.com/latex.php?latex=y_0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y_0" title="y_0" class="latex" /> because we can see that when <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> is zero, <img src="//s0.wp.com/latex.php?latex=%7Cy%7C&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="|y|" title="|y|" class="latex" /> is just going to be given by this constant:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%7Cy%7C%3Dy_0e%5E%7B%5Cfrac%7Bx%5E2%7D%7B2%7D%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="|y|=y_0e^{&#92;frac{x^2}{2}}" title="|y|=y_0e^{&#92;frac{x^2}{2}}" class="latex" /></p>
+<p>&nbsp;</p>
+<p>This has two solutions (one where <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> is positive, and one where it is negative), so we can choose one of them, depending on the initial condition for <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" />.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11471</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 34 &#8211; differential equations part iii &#8211; Direction flows and Euler&#8217;s method</title>
+		<link>http://www.mathemafrica.org/?p=11463</link>
+		<comments>http://www.mathemafrica.org/?p=11463#comments</comments>
+		<pubDate>Tue, 01 Sep 2015 11:26:05 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[differential equations]]></category>
+		<category><![CDATA[direction fields]]></category>
+		<category><![CDATA[euler's method]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11463</guid>
+		<description><![CDATA[<p>We haven&#8217;t yet studied any general ways to solve differential equations. In the first case of exponential growth we found an easy way to solve the equation, but for the logistic equation we just gave the solution and showed that it indeed satisfied the equation. Here we are going to look at some methods for finding not the exact solution, but approximations of the solutions. The first method is the method of Direction Fields and it will give us a good idea of what the solutions are going to look like. The second method, Euler&#8217;s method will give us an approximation to a single solution and we will be able to improve it to get arbitrarily good solutions to any differential equation (so long as there aren&#8217;t particularly nasty pathologies in the differential equation).</p>
+<p><strong>Direction Fields</strong></p>
+<p>Let&#8217;s take a differential equation:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx%2By&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=x+y" title="&#92;frac{dy}{dx}=x+y" class="latex" /></p>
+<p>&#160;</p>
+<p>Note that sometimes we will say explicitly that <img src="//s0.wp.com/latex.php?latex=y%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y(x)" title="y(x)" class="latex" /> and sometimes we will leave it implicit, because the equation has a derivative of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> with respect to <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>We haven&#8217;t yet studied any general ways to solve differential equations. In the first case of exponential growth we found an easy way to solve the equation, but for the logistic equation we just gave the solution and showed that it indeed satisfied the equation. Here we are going to look at some methods for finding not the exact solution, but approximations of the solutions. The first method is the method of Direction Fields and it will give us a good idea of what the solutions are going to look like. The second method, Euler&#8217;s method will give us an approximation to a single solution and we will be able to improve it to get arbitrarily good solutions to any differential equation (so long as there aren&#8217;t particularly nasty pathologies in the differential equation).</p>
+<p><strong>Direction Fields</strong></p>
+<p>Let&#8217;s take a differential equation:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=%5Cfrac%7Bdy%7D%7Bdx%7D%3Dx%2By&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;frac{dy}{dx}=x+y" title="&#92;frac{dy}{dx}=x+y" class="latex" /></p>
+<p>&nbsp;</p>
+<p>Note that sometimes we will say explicitly that <img src="//s0.wp.com/latex.php?latex=y%28x%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y(x)" title="y(x)" class="latex" /> and sometimes we will leave it implicit, because the equation has a derivative of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> with respect to <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11463</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>UCT MAM1000 lecture notes part 32 &#8211; differential equations and rabbits moving at the speed of light</title>
+		<link>http://www.mathemafrica.org/?p=11450</link>
+		<comments>http://www.mathemafrica.org/?p=11450#comments</comments>
+		<pubDate>Tue, 01 Sep 2015 10:01:07 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[differential equations]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11450</guid>
+		<description><![CDATA[<p>Up to now if I gave you an equation, and asked you to solve it for <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> you would be, in general, looking for a value of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> which solved the equation. Given:</p>
+<p>&#160;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=x%5E2%2B3x%2B2%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x^2+3x+2=0" title="x^2+3x+2=0" class="latex" /></p>
+<p>&#160;</p>
+<p>You can solve this equation to find two values of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.</p>
+<p>I could also give you an equation which linked <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> explicitly, and you could find a relationship between the two which, given a value of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> would give you a value of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" />. You&#8217;ve been doing this now for many years. Now we&#8217;re going to add a hugely powerful tool to our mathematical arsenal. We&#8217;re going to allow our equations to include information about gradients of the function&#8230;let&#8217;s see what this means&#8230;</p>
+<p>We&#8217;re going to take everything that you learnt about integration and turn it into a way to model and understand the world around us. This is a very powerful statement and indeed differential equations are without a doubt the most powerful mathematical tool we have to understand the behaviour of everything from fundamental particles to populations, economies, weather, flow of wealth, heat, fluids, the motion of planets, the life of stars, the flight of an aircraft, the trajectory of a meteor, the way a pendulum swings, the way a ponytail swings (see paper on this <a href="http://epubs.siam.org/doi/pdf/10.1137/090760477">here</a>), the way fish move, the way algae grow, the way a neuron fires, the way a fire spreads&#8230;and so much more.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>Up to now if I gave you an equation, and asked you to solve it for <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> you would be, in general, looking for a value of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> which solved the equation. Given:</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="//s0.wp.com/latex.php?latex=x%5E2%2B3x%2B2%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x^2+3x+2=0" title="x^2+3x+2=0" class="latex" /></p>
+<p>&nbsp;</p>
+<p>You can solve this equation to find two values of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />.</p>
+<p>I could also give you an equation which linked <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" /> explicitly, and you could find a relationship between the two which, given a value of <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> would give you a value of <img src="//s0.wp.com/latex.php?latex=y&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="y" title="y" class="latex" />. You&#8217;ve been doing this now for many years. Now we&#8217;re going to add a hugely powerful tool to our mathematical arsenal. We&#8217;re going to allow our equations to include information about gradients of the function&#8230;let&#8217;s see what this means&#8230;</p>
+<p>We&#8217;re going to take everything that you learnt about integration and turn it into a way to model and understand the world around us. This is a very powerful statement and indeed differential equations are without a doubt the most powerful mathematical tool we have to understand the behaviour of everything from fundamental particles to populations, economies, weather, flow of wealth, heat, fluids, the motion of planets, the life of stars, the flight of an aircraft, the trajectory of a meteor, the way a pendulum swings, the way a ponytail swings (see paper on this <a href="http://epubs.siam.org/doi/pdf/10.1137/090760477">here</a>), the way fish move, the way algae grow, the way a neuron fires, the way a fire spreads&#8230;and so much more.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11450</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

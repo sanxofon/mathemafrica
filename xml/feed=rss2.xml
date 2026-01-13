@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sun, 31 May 2020 16:07:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Inverse Reinforcement Learning: Guided Cost Learning and Links to Generative Adversarial Networks</title>
+		<link>http://www.mathemafrica.org/?p=16662</link>
+		<comments>http://www.mathemafrica.org/?p=16662#respond</comments>
+		<pubDate>Thu, 28 May 2020 13:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[Siphelele Danisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16662</guid>
+		<description><![CDATA[<p align="center"><strong>Recap</strong></p>
+<p>In the first post we introduced inverse reinforcement learning, then we stated some result on the characterisation of admissible reward functions (i.e reward functions that solve the inverse reinforcement learning problem), then on the second post we saw a way in which we proceed with solving problems, more or less, using a maximum entropy framework, and we encountered two problems:<br />
+<em>1. It would be hard to use the method introduced if we did not know the dynamics of the system already, and<br />
+2. We have to solve the MDP in the inner loop, which may be an expensive process.  </em></p>
+<blockquote><p>Here, we shall attempt to mitigate the challenges that we have encountered, as before, and we shall give a rather beautiful closing which shall link concepts in this space of inverse reinforcement learning to &#8216;general&#8217; machine learning structures, in particular generative adversarial networks. </p></blockquote>
+<p align="center"><strong>Inverse Reinforcement Learning with Unknown Dynamics and Possibly Higher Dimensional Spaces</strong></p>
+<p>As we saw previously, the maximum entropy inverse reinforcement learning approach proceeds by defining the probability of a certain trajectory under the expert as being,</p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=p%28%5Ctau%29%3D%5Cdfrac%7B1%7D%7BZ%7De%5E%7BR_%5Cpsi+%28%5Ctau%29%7D%2C&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="p(&#92;tau)=&#92;dfrac{1}{Z}e^{R_&#92;psi (&#92;tau)}," title="p(&#92;tau)=&#92;dfrac{1}{Z}e^{R_&#92;psi (&#92;tau)}," class="latex" /></p>
+<p>where </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=Z%3D%5Cint+e%5E%7BR_%5Cpsi%28%5Ctau%29%7Dd+%5Ctau.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Z=&#92;int e^{R_&#92;psi(&#92;tau)}d &#92;tau." title="Z=&#92;int e^{R_&#92;psi(&#92;tau)}d &#92;tau." class="latex" /></p>
+<p>We mentioned that this is hard to compute in higher dimensional spaces.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p align="center"><strong>Recap</strong></p>
+<p>In the first post we introduced inverse reinforcement learning, then we stated some result on the characterisation of admissible reward functions (i.e reward functions that solve the inverse reinforcement learning problem), then on the second post we saw a way in which we proceed with solving problems, more or less, using a maximum entropy framework, and we encountered two problems:<br />
+<em>1. It would be hard to use the method introduced if we did not know the dynamics of the system already, and<br />
+2. We have to solve the MDP in the inner loop, which may be an expensive process.  </em></p>
+<blockquote><p>Here, we shall attempt to mitigate the challenges that we have encountered, as before, and we shall give a rather beautiful closing which shall link concepts in this space of inverse reinforcement learning to &#8216;general&#8217; machine learning structures, in particular generative adversarial networks. </p></blockquote>
+<p align="center"><strong>Inverse Reinforcement Learning with Unknown Dynamics and Possibly Higher Dimensional Spaces</strong></p>
+<p>As we saw previously, the maximum entropy inverse reinforcement learning approach proceeds by defining the probability of a certain trajectory under the expert as being,</p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=p%28%5Ctau%29%3D%5Cdfrac%7B1%7D%7BZ%7De%5E%7BR_%5Cpsi+%28%5Ctau%29%7D%2C&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="p(&#92;tau)=&#92;dfrac{1}{Z}e^{R_&#92;psi (&#92;tau)}," title="p(&#92;tau)=&#92;dfrac{1}{Z}e^{R_&#92;psi (&#92;tau)}," class="latex" /></p>
+<p>where </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=Z%3D%5Cint+e%5E%7BR_%5Cpsi%28%5Ctau%29%7Dd+%5Ctau.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Z=&#92;int e^{R_&#92;psi(&#92;tau)}d &#92;tau." title="Z=&#92;int e^{R_&#92;psi(&#92;tau)}d &#92;tau." class="latex" /></p>
+<p>We mentioned that this is hard to compute in higher dimensional spaces.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16662</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Maximum Entropy Inverse Reinforcement Learning: Algorithms and Computation</title>
+		<link>http://www.mathemafrica.org/?p=16581</link>
+		<comments>http://www.mathemafrica.org/?p=16581#respond</comments>
+		<pubDate>Fri, 22 May 2020 13:01:38 +0000</pubDate>
+		<dc:creator><![CDATA[Siphelele Danisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16581</guid>
+		<description><![CDATA[<blockquote><p>In the previous post we introduced inverse reinforcement learning. We defined the problem that is associated with this field, which is that of reconstructing a reward function given a set of demonstrations, and we saw what the ability to do this implies. In addition to this, we also saw came across some classification results as well as convergence guarantees from selected methods that were simply referred to in the post. There were some challenges with the classification results that we discussed, and although there were attempts to deal with these, there is still quite a lot that we did not talk about.
+</p>
+</blockquote>
+<p align="center"><strong>Maximum Entropy Inverse Reinforcement Learning<br />
+</strong></p>
+<p>We shall now introduce a probabilistic approach based on what is known as the principle of <em>maximum entropy</em>, and this provides a well defined globally normalised distribution over decision sequences, while providing the same performance assurances as previously mentioned methods. This probabilistic approach allows moderate reasoning about uncertainty in the setting inverse reinforcement learning, and the assumptions further limits the space in which we search for solutions which we saw, last time, was quite massive.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<blockquote><p>In the previous post we introduced inverse reinforcement learning. We defined the problem that is associated with this field, which is that of reconstructing a reward function given a set of demonstrations, and we saw what the ability to do this implies. In addition to this, we also saw came across some classification results as well as convergence guarantees from selected methods that were simply referred to in the post. There were some challenges with the classification results that we discussed, and although there were attempts to deal with these, there is still quite a lot that we did not talk about.
+</p>
+</blockquote>
+<p align="center"><strong>Maximum Entropy Inverse Reinforcement Learning<br />
+</strong></p>
+<p>We shall now introduce a probabilistic approach based on what is known as the principle of <em>maximum entropy</em>, and this provides a well defined globally normalised distribution over decision sequences, while providing the same performance assurances as previously mentioned methods. This probabilistic approach allows moderate reasoning about uncertainty in the setting inverse reinforcement learning, and the assumptions further limits the space in which we search for solutions which we saw, last time, was quite massive.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16581</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inverse Reinforcement Learning: The general basics</title>
+		<link>http://www.mathemafrica.org/?p=16521</link>
+		<comments>http://www.mathemafrica.org/?p=16521#respond</comments>
+		<pubDate>Sun, 17 May 2020 18:03:47 +0000</pubDate>
+		<dc:creator><![CDATA[Siphelele Danisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16521</guid>
+		<description><![CDATA[<p align="center"><strong>Standard Reinforcement Learning</strong></p>
+<p>The very basic ideas in Reinforcement Learning are usually defined in the context of Markov Decision Processes. For everything that follows, unless stated otherwise, assume that the structures are finite.</p>
+<p>A Markov Decision Process (MDP) is a tuple <img src="//s0.wp.com/latex.php?latex=%28S%2CA%2C+P%2C+%5Cgamma%2C+R%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(S,A, P, &#92;gamma, R)" title="(S,A, P, &#92;gamma, R)" class="latex" /> where the following is true:<br />
+<em>1. <img src="//s0.wp.com/latex.php?latex=S&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="S" title="S" class="latex" /> is the set of states <img src="//s0.wp.com/latex.php?latex=s_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="s_k" title="s_k" class="latex" /> with <img src="//s0.wp.com/latex.php?latex=k%5Cin+%5Cmathbb%7BN%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k&#92;in &#92;mathbb{N} " title="k&#92;in &#92;mathbb{N} " class="latex" />.<br />
+2. <img src="//s0.wp.com/latex.php?latex=A&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A" title="A" class="latex" /> is the set of actions <img src="//s0.wp.com/latex.php?latex=a_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_k" title="a_k" class="latex" /> with <img src="//s0.wp.com/latex.php?latex=k%5Cin+%5Cmathbb%7BN%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k&#92;in &#92;mathbb{N} " title="k&#92;in &#92;mathbb{N} " class="latex" />.<br />
+3. <img src="//s0.wp.com/latex.php?latex=P&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="P" title="P" class="latex" /> is the matrix of transition probabilities for taking action <img src="//s0.wp.com/latex.php?latex=a_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_k" title="a_k" class="latex" /> given state <img src="//s0.wp.com/latex.php?latex=s_j&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="s_j" title="s_j" class="latex" />.<br />
+4. <img src="//s0.wp.com/latex.php?latex=%5Cgamma&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;gamma" title="&#92;gamma" class="latex" /> is the discount factor in the unit interval.<br />
+5. <img src="//s0.wp.com/latex.php?latex=R&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="R" title="R" class="latex" /> is defined as the reward function, and is taken as a function from <img src="//s0.wp.com/latex.php?latex=A%5Ctimes+S%5Cto+%5Cmathbb%7BR%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A&#92;times S&#92;to &#92;mathbb{R}" title="A&#92;times S&#92;to &#92;mathbb{R}" class="latex" />.</em></p>
+<p>In this context, we have policies as maps
+</p><p align="center"><img src="//s0.wp.com/latex.php?latex=%5Cpi%3AS%5Cto+A+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;pi:S&#92;to A " title="&#92;pi:S&#92;to A " class="latex" />, </p>
+<p>state value functions for a policy, <img src="//s0.wp.com/latex.php?latex=%5Cpi+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;pi " title="&#92;pi " class="latex" />, evaluated at <img src="//s0.wp.com/latex.php?latex=s_1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="s_1" title="s_1" class="latex" /> as </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=V%5E%5Cpi%28s_1%29%3D%5Cmathbb%7BE%7D%5B%5Csum_%7Bi%3D0%7D%5Cgamma+%5Ei+R%28s_i%29%7C%5Cpi%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="V^&#92;pi(s_1)=&#92;mathbb{E}[&#92;sum_{i=0}&#92;gamma ^i R(s_i)&#124;&#92;pi]" title="V^&#92;pi(s_1)=&#92;mathbb{E}[&#92;sum_{i=0}&#92;gamma ^i R(s_i)&#124;&#92;pi]" class="latex" />, </p>
+<p>and state action values defined as </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=Q%5E%5Cpi+%28s%2Ca%29%3DR%28s%29%2B%5Cgamma+%5Cmathbb%7BE%7D_%7Bs%27%5Csim+P_%7Bsa%7D%7D%5BV%5E%5Cpi+%28s%27%29%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Q^&#92;pi (s,a)=R(s)+&#92;gamma &#92;mathbb{E}_{s&#039;&#92;sim P_{sa}}[V^&#92;pi (s&#039;)]" title="Q^&#92;pi (s,a)=R(s)+&#92;gamma &#92;mathbb{E}_{s&#039;&#92;sim P_{sa}}[V^&#92;pi (s&#039;)]" class="latex" />. </p>
+<p>The optimal functions are defined as </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=V%5E%2A%28s%29%3D%5Csup_%5Cpi+V%5E%7B%5Cpi%7D%28s%29%2C+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="V^*(s)=&#92;sup_&#92;pi V^{&#92;pi}(s), " title="V^*(s)=&#92;sup_&#92;pi V^{&#92;pi}(s), " class="latex" /> </p>
+<p>and </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=Q%5E%2A%28s%2Ca%29%3D%5Csup_%5Cpi+Q%5E%5Cpi+%28s%2Ca%29.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Q^*(s,a)=&#92;sup_&#92;pi Q^&#92;pi (s,a)." title="Q^*(s,a)=&#92;sup_&#92;pi Q^&#92;pi (s,a)." class="latex" /></p>
+<blockquote><p>Here we assume that we have a reward function, and this reward function is used to determine an optimal policy.</p></blockquote>&#8230;]]></description>
+				<content:encoded><![CDATA[<p align="center"><strong>Standard Reinforcement Learning</strong></p>
+<p>The very basic ideas in Reinforcement Learning are usually defined in the context of Markov Decision Processes. For everything that follows, unless stated otherwise, assume that the structures are finite.</p>
+<p>A Markov Decision Process (MDP) is a tuple <img src="//s0.wp.com/latex.php?latex=%28S%2CA%2C+P%2C+%5Cgamma%2C+R%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(S,A, P, &#92;gamma, R)" title="(S,A, P, &#92;gamma, R)" class="latex" /> where the following is true:<br />
+<em>1. <img src="//s0.wp.com/latex.php?latex=S&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="S" title="S" class="latex" /> is the set of states <img src="//s0.wp.com/latex.php?latex=s_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="s_k" title="s_k" class="latex" /> with <img src="//s0.wp.com/latex.php?latex=k%5Cin+%5Cmathbb%7BN%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k&#92;in &#92;mathbb{N} " title="k&#92;in &#92;mathbb{N} " class="latex" />.<br />
+2. <img src="//s0.wp.com/latex.php?latex=A&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A" title="A" class="latex" /> is the set of actions <img src="//s0.wp.com/latex.php?latex=a_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_k" title="a_k" class="latex" /> with <img src="//s0.wp.com/latex.php?latex=k%5Cin+%5Cmathbb%7BN%7D+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k&#92;in &#92;mathbb{N} " title="k&#92;in &#92;mathbb{N} " class="latex" />.<br />
+3. <img src="//s0.wp.com/latex.php?latex=P&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="P" title="P" class="latex" /> is the matrix of transition probabilities for taking action <img src="//s0.wp.com/latex.php?latex=a_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_k" title="a_k" class="latex" /> given state <img src="//s0.wp.com/latex.php?latex=s_j&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="s_j" title="s_j" class="latex" />.<br />
+4. <img src="//s0.wp.com/latex.php?latex=%5Cgamma&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;gamma" title="&#92;gamma" class="latex" /> is the discount factor in the unit interval.<br />
+5. <img src="//s0.wp.com/latex.php?latex=R&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="R" title="R" class="latex" /> is defined as the reward function, and is taken as a function from <img src="//s0.wp.com/latex.php?latex=A%5Ctimes+S%5Cto+%5Cmathbb%7BR%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="A&#92;times S&#92;to &#92;mathbb{R}" title="A&#92;times S&#92;to &#92;mathbb{R}" class="latex" />.</em></p>
+<p>In this context, we have policies as maps
+</p><p align="center"><img src="//s0.wp.com/latex.php?latex=%5Cpi%3AS%5Cto+A+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;pi:S&#92;to A " title="&#92;pi:S&#92;to A " class="latex" />, </p>
+<p>state value functions for a policy, <img src="//s0.wp.com/latex.php?latex=%5Cpi+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;pi " title="&#92;pi " class="latex" />, evaluated at <img src="//s0.wp.com/latex.php?latex=s_1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="s_1" title="s_1" class="latex" /> as </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=V%5E%5Cpi%28s_1%29%3D%5Cmathbb%7BE%7D%5B%5Csum_%7Bi%3D0%7D%5Cgamma+%5Ei+R%28s_i%29%7C%5Cpi%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="V^&#92;pi(s_1)=&#92;mathbb{E}[&#92;sum_{i=0}&#92;gamma ^i R(s_i)|&#92;pi]" title="V^&#92;pi(s_1)=&#92;mathbb{E}[&#92;sum_{i=0}&#92;gamma ^i R(s_i)|&#92;pi]" class="latex" />, </p>
+<p>and state action values defined as </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=Q%5E%5Cpi+%28s%2Ca%29%3DR%28s%29%2B%5Cgamma+%5Cmathbb%7BE%7D_%7Bs%27%5Csim+P_%7Bsa%7D%7D%5BV%5E%5Cpi+%28s%27%29%5D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Q^&#92;pi (s,a)=R(s)+&#92;gamma &#92;mathbb{E}_{s&#039;&#92;sim P_{sa}}[V^&#92;pi (s&#039;)]" title="Q^&#92;pi (s,a)=R(s)+&#92;gamma &#92;mathbb{E}_{s&#039;&#92;sim P_{sa}}[V^&#92;pi (s&#039;)]" class="latex" />. </p>
+<p>The optimal functions are defined as </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=V%5E%2A%28s%29%3D%5Csup_%5Cpi+V%5E%7B%5Cpi%7D%28s%29%2C+&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="V^*(s)=&#92;sup_&#92;pi V^{&#92;pi}(s), " title="V^*(s)=&#92;sup_&#92;pi V^{&#92;pi}(s), " class="latex" /> </p>
+<p>and </p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=Q%5E%2A%28s%2Ca%29%3D%5Csup_%5Cpi+Q%5E%5Cpi+%28s%2Ca%29.&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="Q^*(s,a)=&#92;sup_&#92;pi Q^&#92;pi (s,a)." title="Q^*(s,a)=&#92;sup_&#92;pi Q^&#92;pi (s,a)." class="latex" /></p>
+<blockquote><p>Here we assume that we have a reward function, and this reward function is used to determine an optimal policy.</p></blockquote>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16521</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Correlation vs Mutual Information</title>
+		<link>http://www.mathemafrica.org/?p=16127</link>
+		<comments>http://www.mathemafrica.org/?p=16127#respond</comments>
+		<pubDate>Sat, 28 Mar 2020 11:32:03 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[correlation]]></category>
+		<category><![CDATA[Information theory]]></category>
+		<category><![CDATA[mutual information]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16127</guid>
+		<description><![CDATA[<p><i>This post is based on a (very small) part of the (dense and technical) paper Fooled by Correlation by N.N. Taleb, found at (1)</i></p>
+<p><i>Notes on the main ideas in this post are available from Universidad de Cantabria, found at (2)</i></p>
+<p><em>The aims of this post are to 1) introduce mutual information as a measure of similarity and 2) to show the nonlinear relationship between correlation and information my means of a relatively simple example</em></p>
+<p><strong>Introduction</strong></p>
+<p>A significant part of Statistical analysis is understanding how random variables are related &#8211; how much knowledge about the value of one variable tells us about the value of another. This post will consider this issue in the context of Gaussian random variables. More specifically, we will compare- and discuss the relationship between- correlation and mutual information.</p>
+<p><strong>Mutual Information</strong></p>
+<p>The Mutual Information between 2 random variables is the amount of information that one gains about a random variable by observing the value of the other.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><i>This post is based on a (very small) part of the (dense and technical) paper Fooled by Correlation by N.N. Taleb, found at (1)</i></p>
+<p><i>Notes on the main ideas in this post are available from Universidad de Cantabria, found at (2)</i></p>
+<p><em>The aims of this post are to 1) introduce mutual information as a measure of similarity and 2) to show the nonlinear relationship between correlation and information my means of a relatively simple example</em></p>
+<p><strong>Introduction</strong></p>
+<p>A significant part of Statistical analysis is understanding how random variables are related &#8211; how much knowledge about the value of one variable tells us about the value of another. This post will consider this issue in the context of Gaussian random variables. More specifically, we will compare- and discuss the relationship between- correlation and mutual information.</p>
+<p><strong>Mutual Information</strong></p>
+<p>The Mutual Information between 2 random variables is the amount of information that one gains about a random variable by observing the value of the other.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16127</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Res-Net-NODE Narrative</title>
+		<link>http://www.mathemafrica.org/?p=16082</link>
+		<pubDate>Wed, 18 Mar 2020 17:15:27 +0000</pubDate>
+		<dc:creator><![CDATA[Siphelele Danisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16082</guid>
+		<description><![CDATA[<p align="center"><strong>Humble Beginnings: Ordinary Differential Equations</strong></p>
+<p>The story begins with differential equations. Consider <img src="//s0.wp.com/latex.php?latex=f&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f" title="f" class="latex" /> such that <img src="//s0.wp.com/latex.php?latex=f%3A%5B0%2CT%5D%5Ctimes+%5Cmathbb%7BR%7D%5En%5Cto+%5Cmathbb%7BR%7D%5En&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f:[0,T]&#92;times &#92;mathbb{R}^n&#92;to &#92;mathbb{R}^n" title="f:[0,T]&#92;times &#92;mathbb{R}^n&#92;to &#92;mathbb{R}^n" class="latex" /> is a continuous function. We can construct a rather simple differential equation given this in the following way. We let</p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=%5Cbegin%7Bcases%7D++%7By%27%28t%29%7D%3Df%28t%2Cy%28t%29%29%5C%5C++y%280%29%3Dy_0%5Cin+%5Cmathbb%7BR%7D%5En++%5Cend%7Bcases%7D++&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;begin{cases}  {y&#039;(t)}=f(t,y(t))&#92;&#92;  y(0)=y_0&#92;in &#92;mathbb{R}^n  &#92;end{cases}  " title="&#92;begin{cases}  {y&#039;(t)}=f(t,y(t))&#92;&#92;  y(0)=y_0&#92;in &#92;mathbb{R}^n  &#92;end{cases}  " class="latex" /></p>
+<p>A solution to this system is a continuous map that is defined in the neighbourhood of <img src="//s0.wp.com/latex.php?latex=t%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="t=0" title="t=0" class="latex" /> such that this map satisfies the differential equation. </p>
+<p>Ordinary differential equations are well-studied, and we know that, for example, a solution to the given differential equation will exist whenever the function <img src="//s0.wp.com/latex.php?latex=f&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f" title="f" class="latex" /> satisfies the following:</p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=%28%5Cforall+x%2Cy%5Cin+%5Cmathbb%7BR%7D%5En%29%28%5Cexists+C%3E0+%28%5Cin+%5Cmathbb%7BR%7D%29%29%28%7C%7Cf%28t%2Cy%29-f%28t%2Cx%29%7C%7C%5Cleq+C%7C%7Cy-x%7C%7C%29++&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(&#92;forall x,y&#92;in &#92;mathbb{R}^n)(&#92;exists C&#62;0 (&#92;in &#92;mathbb{R}))(&#124;&#124;f(t,y)-f(t,x)&#124;&#124;&#92;leq C&#124;&#124;y-x&#124;&#124;)  " title="(&#92;forall x,y&#92;in &#92;mathbb{R}^n)(&#92;exists C&#62;0 (&#92;in &#92;mathbb{R}))(&#124;&#124;f(t,y)-f(t,x)&#124;&#124;&#92;leq C&#124;&#124;y-x&#124;&#124;)  " class="latex" /></p>
+<p>This property is known as <em>Lipschitz continuity</em>. A function that satisfies this condition is said to be Lipschitz. We shall see that whenever we require this condition, on up coming situations, wonderful things happen!</p>
+<p>A remarkable field that almost always couples with differential equations is numerical analysis, where we learn to solve differential equations numerically and we study these numerical schemes. We shall explore numerical integration briefly.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p align="center"><strong>Humble Beginnings: Ordinary Differential Equations</strong></p>
+<p>The story begins with differential equations. Consider <img src="//s0.wp.com/latex.php?latex=f&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f" title="f" class="latex" /> such that <img src="//s0.wp.com/latex.php?latex=f%3A%5B0%2CT%5D%5Ctimes+%5Cmathbb%7BR%7D%5En%5Cto+%5Cmathbb%7BR%7D%5En&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f:[0,T]&#92;times &#92;mathbb{R}^n&#92;to &#92;mathbb{R}^n" title="f:[0,T]&#92;times &#92;mathbb{R}^n&#92;to &#92;mathbb{R}^n" class="latex" /> is a continuous function. We can construct a rather simple differential equation given this in the following way. We let</p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=%5Cbegin%7Bcases%7D++%7By%27%28t%29%7D%3Df%28t%2Cy%28t%29%29%5C%5C++y%280%29%3Dy_0%5Cin+%5Cmathbb%7BR%7D%5En++%5Cend%7Bcases%7D++&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;begin{cases}  {y&#039;(t)}=f(t,y(t))&#92;&#92;  y(0)=y_0&#92;in &#92;mathbb{R}^n  &#92;end{cases}  " title="&#92;begin{cases}  {y&#039;(t)}=f(t,y(t))&#92;&#92;  y(0)=y_0&#92;in &#92;mathbb{R}^n  &#92;end{cases}  " class="latex" /></p>
+<p>A solution to this system is a continuous map that is defined in the neighbourhood of <img src="//s0.wp.com/latex.php?latex=t%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="t=0" title="t=0" class="latex" /> such that this map satisfies the differential equation. </p>
+<p>Ordinary differential equations are well-studied, and we know that, for example, a solution to the given differential equation will exist whenever the function <img src="//s0.wp.com/latex.php?latex=f&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="f" title="f" class="latex" /> satisfies the following:</p>
+<p align="center"><img src="//s0.wp.com/latex.php?latex=%28%5Cforall+x%2Cy%5Cin+%5Cmathbb%7BR%7D%5En%29%28%5Cexists+C%3E0+%28%5Cin+%5Cmathbb%7BR%7D%29%29%28%7C%7Cf%28t%2Cy%29-f%28t%2Cx%29%7C%7C%5Cleq+C%7C%7Cy-x%7C%7C%29++&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(&#92;forall x,y&#92;in &#92;mathbb{R}^n)(&#92;exists C&gt;0 (&#92;in &#92;mathbb{R}))(||f(t,y)-f(t,x)||&#92;leq C||y-x||)  " title="(&#92;forall x,y&#92;in &#92;mathbb{R}^n)(&#92;exists C&gt;0 (&#92;in &#92;mathbb{R}))(||f(t,y)-f(t,x)||&#92;leq C||y-x||)  " class="latex" /></p>
+<p>This property is known as <em>Lipschitz continuity</em>. A function that satisfies this condition is said to be Lipschitz. We shall see that whenever we require this condition, on up coming situations, wonderful things happen!</p>
+<p>A remarkable field that almost always couples with differential equations is numerical analysis, where we learn to solve differential equations numerically and we study these numerical schemes. We shall explore numerical integration briefly.&hellip;</p>]]></content:encoded>
+			</item>
+		<item>
+		<title>Scaled Reinforcement Learning: A Brief Introduction to Deep Q-Learning</title>
+		<link>http://www.mathemafrica.org/?p=16040</link>
+		<comments>http://www.mathemafrica.org/?p=16040#respond</comments>
+		<pubDate>Wed, 18 Mar 2020 09:50:09 +0000</pubDate>
+		<dc:creator><![CDATA[Siphelele Danisa]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16040</guid>
+		<description><![CDATA[<blockquote><p>This blog post is a direct translation of a talk that was given by the author on the 17th of February 2020. The ideas was to very briefly introduce Deep Q-Learning to an audience that was familiar with the fundamental concepts of reinforcement learning. If the person reading this is not familiar with these basics, then a very great introduction can be found here: <a href="https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199">An Introduction to Reinforcement Learning</a>. Without the additional details from the talk, one will note that this post is rather brief, and should really be used as a tool to gain an overview for the method or a gateway to relevant resources. This will not the case for posts later in the series, because the intention is to deal more with the mathematical aspect of reinforcement learning.</p></blockquote>
+<p align="center"><strong>Basic Reinforcement Learning Notions</strong></p>
+<p>The idea behind reinforcement learning is that there is an agent that interacts with the environment in order to achieve a certain task.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<blockquote><p>This blog post is a direct translation of a talk that was given by the author on the 17th of February 2020. The ideas was to very briefly introduce Deep Q-Learning to an audience that was familiar with the fundamental concepts of reinforcement learning. If the person reading this is not familiar with these basics, then a very great introduction can be found here: <a href="https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199">An Introduction to Reinforcement Learning</a>. Without the additional details from the talk, one will note that this post is rather brief, and should really be used as a tool to gain an overview for the method or a gateway to relevant resources. This will not the case for posts later in the series, because the intention is to deal more with the mathematical aspect of reinforcement learning.</p></blockquote>
+<p align="center"><strong>Basic Reinforcement Learning Notions</strong></p>
+<p>The idea behind reinforcement learning is that there is an agent that interacts with the environment in order to achieve a certain task.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16040</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Curves for the Mathematically Curious &#8211; an anthology of the unpredictable, historical, beautiful and romantic, by Julian Havil &#8211; a review</title>
+		<link>http://www.mathemafrica.org/?p=16031</link>
+		<comments>http://www.mathemafrica.org/?p=16031#respond</comments>
+		<pubDate>Sun, 15 Mar 2020 11:17:44 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Book reviews]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Book Review]]></category>
+		<category><![CDATA[curves]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16031</guid>
+		<description><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/books/hardcover/9780691180052/curves-for-the-mathematically-curious">this book</a> as a review copy.</p>
+<div style="width: 276px" class="wp-caption alignnone"><img class="" src="http://i1.wp.com/pup-assets.imgix.net/onix/images/9780691180052.jpg?resize=266%2C404&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu/">Princeton University Press.</a></p></div>
+<p>What a beautiful idea. What a beautiful book! In studying mathematics, one comes across various different curves while studying calculus, or number theory, or geometry in various forms and they are asides of the particular subject. The idea however of flipping the script and looking at curves themselves and from them gaining insight into: statistics, combinatorics, number theory, analysis, cryptography, fractals, Fourier series, axiomatic set theory and so much more is just wonderful.</p>
+<p>This book looks at ten carefully chosen curves and from them shows how much insight one can get into vast swathes of mathematics and mathematical history. The curves chosen are:</p>
+<ol>
+<li>The Euler Spiral &#8211; an elegant spiral which leads to many other interesting parametrically defined curves</li>
+<li>The Weierstrass Curve &#8211; an everywhere continuous but nowhere differentiable function</li>
+<li>Bezier Curves &#8211; which show up in computer graphics and beyond</li>
+<li>The Rectangular Hyperbola &#8211; which leads to the investigation of logarithms and exponentials</li>
+<li>The Quadratrix of Hippies &#8211; which are tightly linked to the<a href="http://www.mathemafrica.org/?p=16001"> impossible problems of antiquity</a></li>
+<li>Peano&#8217;s Function and Hilbert&#8217;s Curve &#8211; space filling curves which lead to a completely flipped understanding of the possibilities of infinitely thin lines</li>
+<li>Curves of Constant Width &#8211; curves which can perfectly fit down a hallway as they rotate.</li></ol>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/books/hardcover/9780691180052/curves-for-the-mathematically-curious">this book</a> as a review copy.</p>
+<div style="width: 276px" class="wp-caption alignnone"><img class="" src="http://i1.wp.com/pup-assets.imgix.net/onix/images/9780691180052.jpg?resize=266%2C404&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu/">Princeton University Press.</a></p></div>
+<p>What a beautiful idea. What a beautiful book! In studying mathematics, one comes across various different curves while studying calculus, or number theory, or geometry in various forms and they are asides of the particular subject. The idea however of flipping the script and looking at curves themselves and from them gaining insight into: statistics, combinatorics, number theory, analysis, cryptography, fractals, Fourier series, axiomatic set theory and so much more is just wonderful.</p>
+<p>This book looks at ten carefully chosen curves and from them shows how much insight one can get into vast swathes of mathematics and mathematical history. The curves chosen are:</p>
+<ol>
+<li>The Euler Spiral &#8211; an elegant spiral which leads to many other interesting parametrically defined curves</li>
+<li>The Weierstrass Curve &#8211; an everywhere continuous but nowhere differentiable function</li>
+<li>Bezier Curves &#8211; which show up in computer graphics and beyond</li>
+<li>The Rectangular Hyperbola &#8211; which leads to the investigation of logarithms and exponentials</li>
+<li>The Quadratrix of Hippies &#8211; which are tightly linked to the<a href="http://www.mathemafrica.org/?p=16001"> impossible problems of antiquity</a></li>
+<li>Peano&#8217;s Function and Hilbert&#8217;s Curve &#8211; space filling curves which lead to a completely flipped understanding of the possibilities of infinitely thin lines</li>
+<li>Curves of Constant Width &#8211; curves which can perfectly fit down a hallway as they rotate.</li></ol>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16031</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Objective Function</title>
+		<link>http://www.mathemafrica.org/?p=15998</link>
+		<comments>http://www.mathemafrica.org/?p=15998#respond</comments>
+		<pubDate>Thu, 20 Feb 2020 18:25:49 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[modelling]]></category>
+		<category><![CDATA[optimisation]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15998</guid>
+		<description><![CDATA[<p>In both Supervised and Unsupervised machine learning, most algorithms are centered around minimising (or, equivalently) maximising some objective function. This function is supposed to somehow represent what the model knows/can get right. Normally, as one would expect, the objective function does not always reflect exactly what we want.</p>
+<p>The objective function presents 2 main problems: 1. how do we minimise it (the answer to this is up for debate and there is lots of interesting research about efficient optimisation of non-convex functions and 2) assuming we can minimise it perfectly, is it the correct thing to be minimising?</p>
+<p>It is point 2 which is the focus of this post.</p>
+<p>Let&#8217;s take the example of square-loss-linear-regression.<em> </em>To do so we train a linear regression model with a square loss <img src="//s0.wp.com/latex.php?latex=%5Cmathcal%7BL%7D%28%5Cmathbf%7Bw%7D%29%3D%5Csum_i+%28y_i+-+%5Cmathbf%7Bw%7D%5ETx_i%29%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" title="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" class="latex" />. (Where we are taking the inner product of learned weights with a vector of features for each observation to predict the outcome).&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>In both Supervised and Unsupervised machine learning, most algorithms are centered around minimising (or, equivalently) maximising some objective function. This function is supposed to somehow represent what the model knows/can get right. Normally, as one would expect, the objective function does not always reflect exactly what we want.</p>
+<p>The objective function presents 2 main problems: 1. how do we minimise it (the answer to this is up for debate and there is lots of interesting research about efficient optimisation of non-convex functions and 2) assuming we can minimise it perfectly, is it the correct thing to be minimising?</p>
+<p>It is point 2 which is the focus of this post.</p>
+<p>Let&#8217;s take the example of square-loss-linear-regression.<em> </em>To do so we train a linear regression model with a square loss <img src="//s0.wp.com/latex.php?latex=%5Cmathcal%7BL%7D%28%5Cmathbf%7Bw%7D%29%3D%5Csum_i+%28y_i+-+%5Cmathbf%7Bw%7D%5ETx_i%29%5E2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" title="&#92;mathcal{L}(&#92;mathbf{w})=&#92;sum_i (y_i - &#92;mathbf{w}^Tx_i)^2" class="latex" />. (Where we are taking the inner product of learned weights with a vector of features for each observation to predict the outcome).&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15998</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tales of Impossibility &#8211; The 2000 year quest to solve the mathematical problems of antiquity, by David S. Richeson &#8211; a review</title>
+		<link>http://www.mathemafrica.org/?p=16001</link>
+		<comments>http://www.mathemafrica.org/?p=16001#comments</comments>
+		<pubDate>Sun, 09 Feb 2020 12:24:48 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=16001</guid>
+		<description><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/books/hardcover/9780691192963/tales-of-impossibility">this book</a> as a review copy.</p>
+<div style="width: 276px" class="wp-caption alignnone"><img class="" src="http://i2.wp.com/pup-assets.imgix.net/onix/images/9780691192963.jpg?resize=266%2C404&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu/">Princeton University Press.</a></p></div>
+<p>Four impossible puzzles, all described in detail during the height of classical Greek Mathematics. All simple to define and yet so tempting that it has taken not only the brain power of many, many thousands of mathematicians (amateur and professional alike), but also two millennia to show that however hard you may try, these puzzles are just not possible. The puzzles are:</p>
+<ul>
+<li>Squaring the circle: With only a compass and a straight edge, draw a square with the same area as that of a given circle.</li>
+<li>Doubling the cube: With only a compass and a straight edge, draw the edge of a cube with volume twice that of a cube whose edge is given.</li>
+<li>Constructing regular polygons: Given a compass and a straight edge, construct a regular n-gon in a given circle for <img src="//s0.wp.com/latex.php?latex=n%5Cge+3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 3" title="n&#92;ge 3" class="latex" />.</li>
+<li>Trisecting an angle: Given a compass and a straight edge, and a given angle, construct an angle that is one third of the original.</li></ul>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/books/hardcover/9780691192963/tales-of-impossibility">this book</a> as a review copy.</p>
+<div style="width: 276px" class="wp-caption alignnone"><img class="" src="http://i2.wp.com/pup-assets.imgix.net/onix/images/9780691192963.jpg?resize=266%2C404&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu/">Princeton University Press.</a></p></div>
+<p>Four impossible puzzles, all described in detail during the height of classical Greek Mathematics. All simple to define and yet so tempting that it has taken not only the brain power of many, many thousands of mathematicians (amateur and professional alike), but also two millennia to show that however hard you may try, these puzzles are just not possible. The puzzles are:</p>
+<ul>
+<li>Squaring the circle: With only a compass and a straight edge, draw a square with the same area as that of a given circle.</li>
+<li>Doubling the cube: With only a compass and a straight edge, draw the edge of a cube with volume twice that of a cube whose edge is given.</li>
+<li>Constructing regular polygons: Given a compass and a straight edge, construct a regular n-gon in a given circle for <img src="//s0.wp.com/latex.php?latex=n%5Cge+3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n&#92;ge 3" title="n&#92;ge 3" class="latex" />.</li>
+<li>Trisecting an angle: Given a compass and a straight edge, and a given angle, construct an angle that is one third of the original.</li></ul>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=16001</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Simpson&#8217;s Paradox</title>
+		<link>http://www.mathemafrica.org/?p=15994</link>
+		<comments>http://www.mathemafrica.org/?p=15994#comments</comments>
+		<pubDate>Sun, 05 Jan 2020 16:57:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Bunce]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: Simple]]></category>
+		<category><![CDATA[paradoxes]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15994</guid>
+		<description><![CDATA[<p><strong>Introduction</strong></p>
+<p>A key consideration when analysing stratified data is how the behaviour of each category differs and how these differences might influence the overall observations about the data. For example, a data set might be split into one large category that dictates the overall behaviour or there may be a category with statistics that are significantly different from the other categories that skews the overall numbers. These features of the data are important to be aware of and go find to prevent drawing erroneous conclusions from your analysis. Context, the source of the data and a careful analysis of the data can prevent this. Simpson&#8217;s paradox is an interesting result of some of these effects.</p>
+<p><strong>The Paradox</strong></p>
+<p>Simpson&#8217;s paradox is observed in statistics when a trend is observed in a number of different groups but it is not observed in the overall data or the opposite trend is observed.</p>
+<p>Observing the overall data might therefore lead us to draw a conclusion, but when the data is grouped we might conclude something different.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><strong>Introduction</strong></p>
+<p>A key consideration when analysing stratified data is how the behaviour of each category differs and how these differences might influence the overall observations about the data. For example, a data set might be split into one large category that dictates the overall behaviour or there may be a category with statistics that are significantly different from the other categories that skews the overall numbers. These features of the data are important to be aware of and go find to prevent drawing erroneous conclusions from your analysis. Context, the source of the data and a careful analysis of the data can prevent this. Simpson&#8217;s paradox is an interesting result of some of these effects.</p>
+<p><strong>The Paradox</strong></p>
+<p>Simpson&#8217;s paradox is observed in statistics when a trend is observed in a number of different groups but it is not observed in the overall data or the opposite trend is observed.</p>
+<p>Observing the overall data might therefore lead us to draw a conclusion, but when the data is grouped we might conclude something different.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15994</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

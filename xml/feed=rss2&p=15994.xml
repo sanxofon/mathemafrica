@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Simpson&#8217;s Paradox</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=15994" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=15994</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Wed, 08 Apr 2020 11:39:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan</title>
+		<link>http://www.mathemafrica.org/?p=15994#comment-1945</link>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+		<pubDate>Sun, 05 Jan 2020 21:21:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15994#comment-1945</guid>
+		<description><![CDATA[Many thanks Dean. I always find this sort of diagram really helps to show quite how obvious Simpson&#039;s paradox is when you see it in this form, however weird it may be when explained: https://miro.medium.com/max/1516/1*Dj23DyuR9AAD1IkrHUWoJg.png]]></description>
+		<content:encoded><![CDATA[<p>Many thanks Dean. I always find this sort of diagram really helps to show quite how obvious Simpson&#8217;s paradox is when you see it in this form, however weird it may be when explained: <a href="https://miro.medium.com/max/1516/1*Dj23DyuR9AAD1IkrHUWoJg.png" rel="nofollow">https://miro.medium.com/max/1516/1*Dj23DyuR9AAD1IkrHUWoJg.png</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

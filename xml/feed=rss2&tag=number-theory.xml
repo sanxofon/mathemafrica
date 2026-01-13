@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>number theory &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=number-theory" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>The 2018 South African Mathematics Olympiad — Problem 5</title>
+		<link>http://www.mathemafrica.org/?p=15351</link>
+		<comments>http://www.mathemafrica.org/?p=15351#comments</comments>
+		<pubDate>Sun, 21 Jul 2019 12:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[Dylan Nelson]]></dc:creator>
+				<category><![CDATA[Competition]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[contest]]></category>
+		<category><![CDATA[number theory]]></category>
+		<category><![CDATA[SAMO]]></category>
+		<category><![CDATA[sequences]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15351</guid>
+		<description><![CDATA[<p>The final round of the <a href="http://www.mathemafrica.org/?p=15190" target="_blank">South African Mathematics Olympiad</a> will be taking place on Thursday, 28 July 2019. I have been writing about some of the problems from the senior paper from 2018. A list of all of the problems can be found <a href="http://www.mathemafrica.org/?p=15215" target="_blank">here</a>.</p>
+<p>Today we will look at the fifth problem from the 2018 South African Mathematics Olympiad:<br />
+<blockquote>
+<p>Determine all sequences <img src="//s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+%5Cldots&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_1, a_2, a_3, &#92;ldots" title="a_1, a_2, a_3, &#92;ldots" class="latex" /> of nonnegative integers such that <img src="//s0.wp.com/latex.php?latex=a_1+%3C+a_2+%3C+a_3+%3C+%5Cldots&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_1 &#60; a_2 &#60; a_3 &#60; &#92;ldots" title="a_1 &#60; a_2 &#60; a_3 &#60; &#92;ldots" class="latex" />, and <img src="//s0.wp.com/latex.php?latex=a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n" title="a_n" class="latex" /> divides <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n" title="a_{n - 1} + n" class="latex" /> for all <img src="//s0.wp.com/latex.php?latex=n+%5Cgeq+2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n &#92;geq 2" title="n &#92;geq 2" class="latex" />.</p>
+</blockquote>
+</p><p>Since the sequence <img src="//s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+%5Cldots&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_1, a_2, &#92;ldots" title="a_1, a_2, &#92;ldots" class="latex" /> is strictly increasing, we know that <img src="//s0.wp.com/latex.php?latex=a_n+%5Cgeq+n+-+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n &#92;geq n - 1" title="a_n &#92;geq n - 1" class="latex" /> for all positive integers <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />. (We could prove this rigorously by induction.) This means that <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n+%5Cleq+%28a_n+-+1%29+%2B+%28a_n+%2B+1%29+%3D+2a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n &#92;leq (a_n - 1) + (a_n + 1) = 2a_n" title="a_{n - 1} + n &#92;leq (a_n - 1) + (a_n + 1) = 2a_n" class="latex" /> for all <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />, and so we know that <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n" title="a_{n - 1} + n" class="latex" /> is equal to either <img src="//s0.wp.com/latex.php?latex=a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n" title="a_n" class="latex" />, or to <img src="//s0.wp.com/latex.php?latex=2a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2a_n" title="2a_n" class="latex" /> for all positive integers <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />. Perhaps we should try to figure out exactly when it is equal to <img src="//s0.wp.com/latex.php?latex=a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n" title="a_n" class="latex" />, and when it is equal to <img src="//s0.wp.com/latex.php?latex=2a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2a_n" title="2a_n" class="latex" />. If we knew, for example, that we always have that <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n+%3D+a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n = a_n" title="a_{n - 1} + n = a_n" class="latex" />, then we have reduced the problem to solving this recurrence relation.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The final round of the <a href="http://www.mathemafrica.org/?p=15190" target="_blank">South African Mathematics Olympiad</a> will be taking place on Thursday, 28 July 2019. I have been writing about some of the problems from the senior paper from 2018. A list of all of the problems can be found <a href="http://www.mathemafrica.org/?p=15215" target="_blank">here</a>.</p>
+<p>Today we will look at the fifth problem from the 2018 South African Mathematics Olympiad:<br />
+<blockquote>
+<p>Determine all sequences <img src="//s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+%5Cldots&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_1, a_2, a_3, &#92;ldots" title="a_1, a_2, a_3, &#92;ldots" class="latex" /> of nonnegative integers such that <img src="//s0.wp.com/latex.php?latex=a_1+%3C+a_2+%3C+a_3+%3C+%5Cldots&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_1 &lt; a_2 &lt; a_3 &lt; &#92;ldots" title="a_1 &lt; a_2 &lt; a_3 &lt; &#92;ldots" class="latex" />, and <img src="//s0.wp.com/latex.php?latex=a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n" title="a_n" class="latex" /> divides <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n" title="a_{n - 1} + n" class="latex" /> for all <img src="//s0.wp.com/latex.php?latex=n+%5Cgeq+2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n &#92;geq 2" title="n &#92;geq 2" class="latex" />.</p>
+</blockquote>
+</p><p>Since the sequence <img src="//s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+%5Cldots&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_1, a_2, &#92;ldots" title="a_1, a_2, &#92;ldots" class="latex" /> is strictly increasing, we know that <img src="//s0.wp.com/latex.php?latex=a_n+%5Cgeq+n+-+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n &#92;geq n - 1" title="a_n &#92;geq n - 1" class="latex" /> for all positive integers <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />. (We could prove this rigorously by induction.) This means that <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n+%5Cleq+%28a_n+-+1%29+%2B+%28a_n+%2B+1%29+%3D+2a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n &#92;leq (a_n - 1) + (a_n + 1) = 2a_n" title="a_{n - 1} + n &#92;leq (a_n - 1) + (a_n + 1) = 2a_n" class="latex" /> for all <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />, and so we know that <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n" title="a_{n - 1} + n" class="latex" /> is equal to either <img src="//s0.wp.com/latex.php?latex=a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n" title="a_n" class="latex" />, or to <img src="//s0.wp.com/latex.php?latex=2a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2a_n" title="2a_n" class="latex" /> for all positive integers <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" />. Perhaps we should try to figure out exactly when it is equal to <img src="//s0.wp.com/latex.php?latex=a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_n" title="a_n" class="latex" />, and when it is equal to <img src="//s0.wp.com/latex.php?latex=2a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="2a_n" title="2a_n" class="latex" />. If we knew, for example, that we always have that <img src="//s0.wp.com/latex.php?latex=a_%7Bn+-+1%7D+%2B+n+%3D+a_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a_{n - 1} + n = a_n" title="a_{n - 1} + n = a_n" class="latex" />, then we have reduced the problem to solving this recurrence relation.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15351</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>The 2018 South African Mathematics Olympiad — Problem 3</title>
+		<link>http://www.mathemafrica.org/?p=15231</link>
+		<comments>http://www.mathemafrica.org/?p=15231#comments</comments>
+		<pubDate>Wed, 17 Jul 2019 11:25:52 +0000</pubDate>
+		<dc:creator><![CDATA[Dylan Nelson]]></dc:creator>
+				<category><![CDATA[Competition]]></category>
+		<category><![CDATA[contest]]></category>
+		<category><![CDATA[inequalities]]></category>
+		<category><![CDATA[number theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15231</guid>
+		<description><![CDATA[<p>The final round of the <a href="http://www.mathemafrica.org/?p=15190" target="_blank">South African Mathematics Olympiad</a> will be taking place on Thursday, 28 July 2019. In the week leading up to the contest, I plan to take a look at some of the problems from the senior paper from 2018. A list of all the posts can be found <a href="http://www.mathemafrica.org/?p=15215" target="_blank">here</a>.</p>
+<p>Today we will look at the third problem from the 2018 South African Mathematics Olympiad:</p>
+<blockquote>
+<p>Determine the smallest positive integer <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> whose prime factors are all greater than <img src="//s0.wp.com/latex.php?latex=18&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="18" title="18" class="latex" />, and that can be expressed as <img src="//s0.wp.com/latex.php?latex=n+%3D+a%5E3+%2B+b%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n = a^3 + b^3" title="n = a^3 + b^3" class="latex" /> with positive integers <img src="//s0.wp.com/latex.php?latex=a&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a" title="a" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=b&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="b" title="b" class="latex" />.</p>
+</blockquote>
+<p>In many number theory problems, it helps to consider the prime factors of the numbers involved, and in this problem we are in fact forced to do so because the question itself is about the prime factors of a number. When dealing with factors of a number or an expression representing some number, it of course helps to consider whether we can factorise the given expression.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The final round of the <a href="http://www.mathemafrica.org/?p=15190" target="_blank">South African Mathematics Olympiad</a> will be taking place on Thursday, 28 July 2019. In the week leading up to the contest, I plan to take a look at some of the problems from the senior paper from 2018. A list of all the posts can be found <a href="http://www.mathemafrica.org/?p=15215" target="_blank">here</a>.</p>
+<p>Today we will look at the third problem from the 2018 South African Mathematics Olympiad:</p>
+<blockquote>
+<p>Determine the smallest positive integer <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> whose prime factors are all greater than <img src="//s0.wp.com/latex.php?latex=18&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="18" title="18" class="latex" />, and that can be expressed as <img src="//s0.wp.com/latex.php?latex=n+%3D+a%5E3+%2B+b%5E3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n = a^3 + b^3" title="n = a^3 + b^3" class="latex" /> with positive integers <img src="//s0.wp.com/latex.php?latex=a&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="a" title="a" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=b&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="b" title="b" class="latex" />.</p>
+</blockquote>
+<p>In many number theory problems, it helps to consider the prime factors of the numbers involved, and in this problem we are in fact forced to do so because the question itself is about the prime factors of a number. When dealing with factors of a number or an expression representing some number, it of course helps to consider whether we can factorise the given expression.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15231</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Prime Suspects &#8211; The anatomy of integers and permutations, by Andrew Granville and Jennifer Granville, illustrated by Robert Lewis &#8211; a review</title>
+		<link>http://www.mathemafrica.org/?p=15156</link>
+		<comments>http://www.mathemafrica.org/?p=15156#comments</comments>
+		<pubDate>Tue, 09 Jul 2019 19:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Book reviews]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Book Review]]></category>
+		<category><![CDATA[combinatorics]]></category>
+		<category><![CDATA[number theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15156</guid>
+		<description><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/titles/13327.html">this book</a> as a review copy.</p>
+<div style="width: 394px" class="wp-caption alignnone"><img class="" src="http://i0.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691149158_1.png?resize=384%2C480&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu">Princeton University Press</a>.</p></div>
+<p>What a spectacular book! I am rather blown away by it. This is a graphic novel written about two bodies discovered by cops in an American city some time around the present day, and the forensic investigation which goes into solving the case, and somehow the authors have managed to make the whole book about number theory and combinatorics.</p>
+<p>I have to admit that when I started reading the book I was worried that it was going to have the all-too-common flaw of starting off very simple and then suddenly getting way too complicated for the average reader, but they have managed to somehow avoid that remarkably well.</p>
+<p>It is however a book that should be read with pen and paper, or preferably computer by one&#8217;s side. As I read through and mathematical claims were made, about prime factors of the integers and about cycle groups of permutations, I coded up each one to see if I was following along, and I would recommend this to be a good way to really follow the book.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/titles/13327.html">this book</a> as a review copy.</p>
+<div style="width: 394px" class="wp-caption alignnone"><img class="" src="http://i0.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691149158_1.png?resize=384%2C480&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu">Princeton University Press</a>.</p></div>
+<p>What a spectacular book! I am rather blown away by it. This is a graphic novel written about two bodies discovered by cops in an American city some time around the present day, and the forensic investigation which goes into solving the case, and somehow the authors have managed to make the whole book about number theory and combinatorics.</p>
+<p>I have to admit that when I started reading the book I was worried that it was going to have the all-too-common flaw of starting off very simple and then suddenly getting way too complicated for the average reader, but they have managed to somehow avoid that remarkably well.</p>
+<p>It is however a book that should be read with pen and paper, or preferably computer by one&#8217;s side. As I read through and mathematical claims were made, about prime factors of the integers and about cycle groups of permutations, I coded up each one to see if I was following along, and I would recommend this to be a good way to really follow the book.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15156</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>On Convergent Sequences and Prime Numbers</title>
+		<link>http://www.mathemafrica.org/?p=12942</link>
+		<comments>http://www.mathemafrica.org/?p=12942#comments</comments>
+		<pubDate>Sun, 22 May 2016 04:03:14 +0000</pubDate>
+		<dc:creator><![CDATA[Dylan Nelson]]></dc:creator>
+				<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[convergence]]></category>
+		<category><![CDATA[number theory]]></category>
+		<category><![CDATA[primes]]></category>
+		<category><![CDATA[series]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=12942</guid>
+		<description><![CDATA[<p style="text-align: left">Ever since Euclid first proved that there are infinitely many prime numbers, mathematicians have found ever more creative ways to prove the same result, and also various stronger theorems that imply it. <a href="https://en.wikipedia.org/wiki/Dirichlet's_theorem_on_arithmetic_progressions" target="_blank">Dirichlet&#8217;s Theorem</a>, for example, states that if<img src="//s0.wp.com/latex.php?latex=m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="m" title="m" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> are relatively prime integers, then there are infinitely many prime numbers of the form <img src="//s0.wp.com/latex.php?latex=mk+%2B+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="mk + n" title="mk + n" class="latex" /> for some integer <img src="//s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k" title="k" class="latex" />. It is also known that the <a href="https://en.wikipedia.org/wiki/Divergence_of_the_sum_of_the_reciprocals_of_the_primes" target="_blank">sum of the reciprocals of the prime numbers diverges</a>, that the sum</p>
+<p style="text-align: center"><img src="//s0.wp.com/latex.php?latex=%5Cdisplaystyle+%5Csum_%7B%5Csubstack%7Bp+%5Cleq+n+%5C%5C+p+%5Ctext%7B+prime%7D%7D%7D+%5Cfrac%7B1%7D%7Bp%7D+%5Csim+%5Clog%28%5Clog%28n%29%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;displaystyle &#92;sum_{&#92;substack{p &#92;leq n &#92;&#92; p &#92;text{ prime}}} &#92;frac{1}{p} &#92;sim &#92;log(&#92;log(n))" title="&#92;displaystyle &#92;sum_{&#92;substack{p &#92;leq n &#92;&#92; p &#92;text{ prime}}} &#92;frac{1}{p} &#92;sim &#92;log(&#92;log(n))" class="latex" /></p>
+<p style="text-align: left">and that the number of prime numbers less than <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> is asymptotically equal to <img src="//s0.wp.com/latex.php?latex=%5Cdisplaystyle+%5Cfrac%7Bn%7D%7B%5Clog%28n%29%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;displaystyle &#92;frac{n}{&#92;log(n)}" title="&#92;displaystyle &#92;frac{n}{&#92;log(n)}" class="latex" />. In this blog post, we will continue this proud tradition by proving that there are infinitely many prime numbers which have your phone number somewhere in their digits, and which simultaneously have a prime number of digits.</p>
+<p style="text-align: left">To do so, we will look at the convergence of two different sums: that of the reciprocals of the primes with a prime number of digits, and that of the reciprocals of the natural numbers which do not contain your phone number amongst their digits.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: left">Ever since Euclid first proved that there are infinitely many prime numbers, mathematicians have found ever more creative ways to prove the same result, and also various stronger theorems that imply it. <a href="https://en.wikipedia.org/wiki/Dirichlet's_theorem_on_arithmetic_progressions" target="_blank">Dirichlet&#8217;s Theorem</a>, for example, states that if<img src="//s0.wp.com/latex.php?latex=m&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="m" title="m" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> are relatively prime integers, then there are infinitely many prime numbers of the form <img src="//s0.wp.com/latex.php?latex=mk+%2B+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="mk + n" title="mk + n" class="latex" /> for some integer <img src="//s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k" title="k" class="latex" />. It is also known that the <a href="https://en.wikipedia.org/wiki/Divergence_of_the_sum_of_the_reciprocals_of_the_primes" target="_blank">sum of the reciprocals of the prime numbers diverges</a>, that the sum</p>
+<p style="text-align: center"><img src="//s0.wp.com/latex.php?latex=%5Cdisplaystyle+%5Csum_%7B%5Csubstack%7Bp+%5Cleq+n+%5C%5C+p+%5Ctext%7B+prime%7D%7D%7D+%5Cfrac%7B1%7D%7Bp%7D+%5Csim+%5Clog%28%5Clog%28n%29%29&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;displaystyle &#92;sum_{&#92;substack{p &#92;leq n &#92;&#92; p &#92;text{ prime}}} &#92;frac{1}{p} &#92;sim &#92;log(&#92;log(n))" title="&#92;displaystyle &#92;sum_{&#92;substack{p &#92;leq n &#92;&#92; p &#92;text{ prime}}} &#92;frac{1}{p} &#92;sim &#92;log(&#92;log(n))" class="latex" /></p>
+<p style="text-align: left">and that the number of prime numbers less than <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> is asymptotically equal to <img src="//s0.wp.com/latex.php?latex=%5Cdisplaystyle+%5Cfrac%7Bn%7D%7B%5Clog%28n%29%7D&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="&#92;displaystyle &#92;frac{n}{&#92;log(n)}" title="&#92;displaystyle &#92;frac{n}{&#92;log(n)}" class="latex" />. In this blog post, we will continue this proud tradition by proving that there are infinitely many prime numbers which have your phone number somewhere in their digits, and which simultaneously have a prime number of digits.</p>
+<p style="text-align: left">To do so, we will look at the convergence of two different sums: that of the reciprocals of the primes with a prime number of digits, and that of the reciprocals of the natural numbers which do not contain your phone number amongst their digits.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=12942</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>A Mathematics Problem from the SBITC</title>
+		<link>http://www.mathemafrica.org/?p=10486</link>
+		<comments>http://www.mathemafrica.org/?p=10486#respond</comments>
+		<pubDate>Fri, 29 May 2015 12:05:06 +0000</pubDate>
+		<dc:creator><![CDATA[Dylan Nelson]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[number theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10486</guid>
+		<description><![CDATA[<p>The <a href="http://www.olympiad.org.za/university-it-challenge/" target="_blank">Standard Bank IT Challenge (SBITC)</a> is an annual coding competition for undergraduate and honours students in South Africa. The contest consists of two rounds: a regional event named the &#8220;heats&#8221;, and the final. In the heats, teams of up to four students each compete against other teams from the same university, and the winning team from each of the nine top-performing universities is invited to the final round in Johannesburg. Each member of the winning team wins a prize, and the winning university receives a large cash prize, but students mostly participate for the enjoyment that is to be obtained in solving the problems, and to test their skills against a set of problems that is designed to challenge the participants.</p>
+<p>This year, the final problem from the heats (which took place on Saturday, 16 May) was fairly mathematical in nature; or more-so than the other problems at least. Essentially, the problem asks the following:</p>
+<p>We consider generalised Fibonacci sequences <img src="//s0.wp.com/latex.php?latex=T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_n" title="T_n" class="latex" /> which satisfy the same recurrence relation <img src="//s0.wp.com/latex.php?latex=T_%7Bn+%2B+2%7D+%3D+T_%7Bn+%2B+1%7D+%2B+T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_{n + 2} = T_{n + 1} + T_n" title="T_{n + 2} = T_{n + 1} + T_n" class="latex" /> as the Fibonacci numbers, but with the first two terms <img src="//s0.wp.com/latex.php?latex=T_1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_1" title="T_1" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=T_2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_2" title="T_2" class="latex" /> being arbitrary positive integers.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.olympiad.org.za/university-it-challenge/" target="_blank">Standard Bank IT Challenge (SBITC)</a> is an annual coding competition for undergraduate and honours students in South Africa. The contest consists of two rounds: a regional event named the &#8220;heats&#8221;, and the final. In the heats, teams of up to four students each compete against other teams from the same university, and the winning team from each of the nine top-performing universities is invited to the final round in Johannesburg. Each member of the winning team wins a prize, and the winning university receives a large cash prize, but students mostly participate for the enjoyment that is to be obtained in solving the problems, and to test their skills against a set of problems that is designed to challenge the participants.</p>
+<p>This year, the final problem from the heats (which took place on Saturday, 16 May) was fairly mathematical in nature; or more-so than the other problems at least. Essentially, the problem asks the following:</p>
+<p>We consider generalised Fibonacci sequences <img src="//s0.wp.com/latex.php?latex=T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_n" title="T_n" class="latex" /> which satisfy the same recurrence relation <img src="//s0.wp.com/latex.php?latex=T_%7Bn+%2B+2%7D+%3D+T_%7Bn+%2B+1%7D+%2B+T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_{n + 2} = T_{n + 1} + T_n" title="T_{n + 2} = T_{n + 1} + T_n" class="latex" /> as the Fibonacci numbers, but with the first two terms <img src="//s0.wp.com/latex.php?latex=T_1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_1" title="T_1" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=T_2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_2" title="T_2" class="latex" /> being arbitrary positive integers.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10486</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

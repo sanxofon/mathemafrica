@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 37 &#8211; differential equations part vi &#8211; second order differential equations</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11488" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11488</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 06 Aug 2016 14:36:17 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11488#comment-514</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 16:10:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11488#comment-514</guid>
+		<description><![CDATA[Hi there, it looks right to me. Did you set the boundary conditions at 1, or at 0?]]></description>
+		<content:encoded><![CDATA[<p>Hi there, it looks right to me. Did you set the boundary conditions at 1, or at 0?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Azhar Rohiman</title>
+		<link>http://www.mathemafrica.org/?p=11488#comment-513</link>
+		<dc:creator><![CDATA[Azhar Rohiman]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 16:00:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11488#comment-513</guid>
+		<description><![CDATA[Dr. Shock, for your first example i) y&#039;&#039; - 2y&#039; - y = 0. I got k1 to be ((2sqrt(2) + 5)(e^(sqrt(2)-1))) / (2sqrt(2)). I&#039;m not sure if mine is correct though.
+
+RHMMUH005.]]></description>
+		<content:encoded><![CDATA[<p>Dr. Shock, for your first example i) y&#8221; &#8211; 2y&#8217; &#8211; y = 0. I got k1 to be ((2sqrt(2) + 5)(e^(sqrt(2)-1))) / (2sqrt(2)). I&#8217;m not sure if mine is correct though.</p>
+<p>RHMMUH005.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11488#comment-407</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2015 09:06:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11488#comment-407</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 37 &#8211; Differential equations &#8211; second order linear homogeneous&#8230; [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 37 &#8211; Differential equations &#8211; second order linear homogeneous&#8230; [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

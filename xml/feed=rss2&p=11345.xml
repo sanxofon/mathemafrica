@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 26 &#8211; complex numbers part iv</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11345" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11345</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Tue, 31 May 2016 09:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11345#comment-507</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 09:28:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11345#comment-507</guid>
+		<description><![CDATA[Well spotted, yes!]]></description>
+		<content:encoded><![CDATA[<p>Well spotted, yes!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Azhar Rohiman</title>
+		<link>http://www.mathemafrica.org/?p=11345#comment-506</link>
+		<dc:creator><![CDATA[Azhar Rohiman]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 08:34:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11345#comment-506</guid>
+		<description><![CDATA[Dr. Shock, I think there is a mistake after you evaluated (3+4i)^17. You used an argument of 0.925 instead of 0.927.
+
+RHMMUH005.]]></description>
+		<content:encoded><![CDATA[<p>Dr. Shock, I think there is a mistake after you evaluated (3+4i)^17. You used an argument of 0.925 instead of 0.927.</p>
+<p>RHMMUH005.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11345#comment-428</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2015 10:28:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11345#comment-428</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 26 &#8211; Complex numbers &#8211; mod/arg form and multiplication [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 26 &#8211; Complex numbers &#8211; mod/arg form and multiplication [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11345#comment-315</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2015 10:39:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11345#comment-315</guid>
+		<description><![CDATA[Hey there, you wouldn&#039;t get a question like this in a test or exam. You might get a question where you end up with something like 17 pi and would be expected to know that if this is an argument then pi is also an argument, but getting the exact value with numerical coefficients wouldn&#039;t be expected. I hope that makes sense.
+
+All the best,
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Hey there, you wouldn&#8217;t get a question like this in a test or exam. You might get a question where you end up with something like 17 pi and would be expected to know that if this is an argument then pi is also an argument, but getting the exact value with numerical coefficients wouldn&#8217;t be expected. I hope that makes sense.</p>
+<p>All the best,</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: nkosinathi</title>
+		<link>http://www.mathemafrica.org/?p=11345#comment-314</link>
+		<dc:creator><![CDATA[nkosinathi]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2015 10:26:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11345#comment-314</guid>
+		<description><![CDATA[hi dr shock
+
+this is a bit of a delayed reaction, above when we want to calculate the 17th power of the complex number and we reach the point where the angle is 15.764.... in a test situation will we be expected to know the value of 2.pi of will simply leaving in as (15.764...- (n)(2.pi)) be enough. let me know if my question is not so clear and ill try and rephrase.]]></description>
+		<content:encoded><![CDATA[<p>hi dr shock</p>
+<p>this is a bit of a delayed reaction, above when we want to calculate the 17th power of the complex number and we reach the point where the angle is 15.764&#8230;. in a test situation will we be expected to know the value of 2.pi of will simply leaving in as (15.764&#8230;- (n)(2.pi)) be enough. let me know if my question is not so clear and ill try and rephrase.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

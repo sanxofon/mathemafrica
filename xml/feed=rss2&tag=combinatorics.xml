@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>combinatorics &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=combinatorics" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>The 2018 South African Mathematics Olympiad — Problem 6</title>
+		<link>http://www.mathemafrica.org/?p=15416</link>
+		<comments>http://www.mathemafrica.org/?p=15416#comments</comments>
+		<pubDate>Tue, 23 Jul 2019 14:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[Dylan Nelson]]></dc:creator>
+				<category><![CDATA[Competition]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[combinatorics]]></category>
+		<category><![CDATA[contest]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[SAMO]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15416</guid>
+		<description><![CDATA[<p>The final round of the <a href="http://www.mathemafrica.org/?p=15190" target="_blank">South African Mathematics Olympiad</a> will be taking place on Thursday, 28 July 2019. I have been writing about some of the problems from the senior paper from 2018. A list of all of the problems can be found <a href="http://www.mathemafrica.org/?p=15215" target="_blank">here</a>.</p>
+<p>Today we will look at the sixth and final problem from the 2018 South African Mathematics Olympiad:</p>
+<blockquote>
+<p>Let <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> be a positive integer, and let <img src="//s0.wp.com/latex.php?latex=x_1%2C+x_2%2C+%5Cdots%2C+x_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1, x_2, &#92;dots, x_n" title="x_1, x_2, &#92;dots, x_n" class="latex" /> be distinct positive integers with <img src="//s0.wp.com/latex.php?latex=x_1+%3D+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1 = 1" title="x_1 = 1" class="latex" />. Construct an <img src="//s0.wp.com/latex.php?latex=n+%5Ctimes+3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n &#92;times 3" title="n &#92;times 3" class="latex" /> table where the entries of the <img src="//s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k" title="k" class="latex" />-th row are <img src="//s0.wp.com/latex.php?latex=x_k%2C+2x_k%2C+3x_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_k, 2x_k, 3x_k" title="x_k, 2x_k, 3x_k" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=k+%3D+1%2C+2%2C+%5Cdots%2C+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k = 1, 2, &#92;dots, n" title="k = 1, 2, &#92;dots, n" class="latex" />. Now follow a procedure where, in each step, two identical entries are removed from the table. This continues until there are no more identical entries in the table.</p>
+<ol>
+<li>Prove that at least three entries remain at the end of the procedure.</li>
+<li>Prove that there are infinitely many possible choices for <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=x_1%2C+x_2%2C+%5Cdots%2C+x_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1, x_2, &#92;dots, x_n" title="x_1, x_2, &#92;dots, x_n" class="latex" /> such that only three entries remain,</li>
+</ol>
+</blockquote>
+<p>There are some heuristics that are often helpful when solving a problem, such as</p>
+<ul>
+<li><b>Looking at small cases:</b>
+<p>This helps us to understand the problem and how the various pieces in the problem relate to each other.</p></li></ul>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>The final round of the <a href="http://www.mathemafrica.org/?p=15190" target="_blank">South African Mathematics Olympiad</a> will be taking place on Thursday, 28 July 2019. I have been writing about some of the problems from the senior paper from 2018. A list of all of the problems can be found <a href="http://www.mathemafrica.org/?p=15215" target="_blank">here</a>.</p>
+<p>Today we will look at the sixth and final problem from the 2018 South African Mathematics Olympiad:</p>
+<blockquote>
+<p>Let <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> be a positive integer, and let <img src="//s0.wp.com/latex.php?latex=x_1%2C+x_2%2C+%5Cdots%2C+x_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1, x_2, &#92;dots, x_n" title="x_1, x_2, &#92;dots, x_n" class="latex" /> be distinct positive integers with <img src="//s0.wp.com/latex.php?latex=x_1+%3D+1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1 = 1" title="x_1 = 1" class="latex" />. Construct an <img src="//s0.wp.com/latex.php?latex=n+%5Ctimes+3&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n &#92;times 3" title="n &#92;times 3" class="latex" /> table where the entries of the <img src="//s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k" title="k" class="latex" />-th row are <img src="//s0.wp.com/latex.php?latex=x_k%2C+2x_k%2C+3x_k&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_k, 2x_k, 3x_k" title="x_k, 2x_k, 3x_k" class="latex" /> for <img src="//s0.wp.com/latex.php?latex=k+%3D+1%2C+2%2C+%5Cdots%2C+n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="k = 1, 2, &#92;dots, n" title="k = 1, 2, &#92;dots, n" class="latex" />. Now follow a procedure where, in each step, two identical entries are removed from the table. This continues until there are no more identical entries in the table.</p>
+<ol>
+<li>Prove that at least three entries remain at the end of the procedure.</li>
+<li>Prove that there are infinitely many possible choices for <img src="//s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="n" title="n" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=x_1%2C+x_2%2C+%5Cdots%2C+x_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x_1, x_2, &#92;dots, x_n" title="x_1, x_2, &#92;dots, x_n" class="latex" /> such that only three entries remain,</li>
+</ol>
+</blockquote>
+<p>There are some heuristics that are often helpful when solving a problem, such as</p>
+<ul>
+<li><b>Looking at small cases:</b>
+<p>This helps us to understand the problem and how the various pieces in the problem relate to each other.</p></li></ul>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15416</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Prime Suspects &#8211; The anatomy of integers and permutations, by Andrew Granville and Jennifer Granville, illustrated by Robert Lewis &#8211; a review</title>
+		<link>http://www.mathemafrica.org/?p=15156</link>
+		<comments>http://www.mathemafrica.org/?p=15156#comments</comments>
+		<pubDate>Tue, 09 Jul 2019 19:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Book reviews]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Book Review]]></category>
+		<category><![CDATA[combinatorics]]></category>
+		<category><![CDATA[number theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=15156</guid>
+		<description><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/titles/13327.html">this book</a> as a review copy.</p>
+<div style="width: 394px" class="wp-caption alignnone"><img class="" src="http://i0.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691149158_1.png?resize=384%2C480&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu">Princeton University Press</a>.</p></div>
+<p>What a spectacular book! I am rather blown away by it. This is a graphic novel written about two bodies discovered by cops in an American city some time around the present day, and the forensic investigation which goes into solving the case, and somehow the authors have managed to make the whole book about number theory and combinatorics.</p>
+<p>I have to admit that when I started reading the book I was worried that it was going to have the all-too-common flaw of starting off very simple and then suddenly getting way too complicated for the average reader, but they have managed to somehow avoid that remarkably well.</p>
+<p>It is however a book that should be read with pen and paper, or preferably computer by one&#8217;s side. As I read through and mathematical claims were made, about prime factors of the integers and about cycle groups of permutations, I coded up each one to see if I was following along, and I would recommend this to be a good way to really follow the book.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>NB I was sent <a href="https://press.princeton.edu/titles/13327.html">this book</a> as a review copy.</p>
+<div style="width: 394px" class="wp-caption alignnone"><img class="" src="http://i0.wp.com/press.princeton.edu/sites/default/files/styles/large/public/covers/9780691149158_1.png?resize=384%2C480&#038;ssl=1" alt="" data-recalc-dims="1" /><p class="wp-caption-text">From <a href="https://press.princeton.edu">Princeton University Press</a>.</p></div>
+<p>What a spectacular book! I am rather blown away by it. This is a graphic novel written about two bodies discovered by cops in an American city some time around the present day, and the forensic investigation which goes into solving the case, and somehow the authors have managed to make the whole book about number theory and combinatorics.</p>
+<p>I have to admit that when I started reading the book I was worried that it was going to have the all-too-common flaw of starting off very simple and then suddenly getting way too complicated for the average reader, but they have managed to somehow avoid that remarkably well.</p>
+<p>It is however a book that should be read with pen and paper, or preferably computer by one&#8217;s side. As I read through and mathematical claims were made, about prime factors of the integers and about cycle groups of permutations, I coded up each one to see if I was following along, and I would recommend this to be a good way to really follow the book.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=15156</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Something for the weekend: Pascal&#8217;s Triangle at TED</title>
+		<link>http://www.mathemafrica.org/?p=11579</link>
+		<comments>http://www.mathemafrica.org/?p=11579#respond</comments>
+		<pubDate>Fri, 18 Sep 2015 14:33:55 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[combinatorics]]></category>
+		<category><![CDATA[Pascal's triangle]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11579</guid>
+		<description><![CDATA[<p>Pascal&#8217;s triangle is even deeper than you thought&#8230;</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/XMriWTvPXHI?wmode=transparent&#038;autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-115800"></div></div></td></tr></table>&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Pascal&#8217;s triangle is even deeper than you thought&#8230;</p>
+<div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="http://www.youtube.com/embed/XMriWTvPXHI?wmode=transparent&autoplay=0" width="600" height="350" allowfullscreen></iframe></div></div>
+<table class="rw-rating-table rw-ltr rw-left"><tr><td><nobr>How clear is this post?</nobr></td><td><div class="rw-left"><div class="rw-ui-container rw-class-blog-post rw-urid-115800"></div></div></td></tr></table>&hellip;]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11579</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

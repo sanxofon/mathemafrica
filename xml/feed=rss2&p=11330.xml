@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 25 &#8211; complex numbers part iii</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11330" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11330</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Tue, 31 May 2016 09:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11330#comment-431</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2015 10:29:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11330#comment-431</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 25 &#8211; Complex numbers &#8211; mod/arg form [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 25 &#8211; Complex numbers &#8211; mod/arg form [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11330#comment-343</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2015 15:34:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11330#comment-343</guid>
+		<description><![CDATA[Well spotted! Thanks Abigail,
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Well spotted! Thanks Abigail,</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Abigail Mallows</title>
+		<link>http://www.mathemafrica.org/?p=11330#comment-342</link>
+		<dc:creator><![CDATA[Abigail Mallows]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2015 15:33:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11330#comment-342</guid>
+		<description><![CDATA[Hello Dr Shock
+I noticed on rereading these notes that in the summary bullet point 1, the mod-arg form is missing an i.]]></description>
+		<content:encoded><![CDATA[<p>Hello Dr Shock<br />
+I noticed on rereading these notes that in the summary bullet point 1, the mod-arg form is missing an i.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

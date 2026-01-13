@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 29 &#8211; complex numbers part vii</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11387" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11387</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Tue, 31 May 2016 09:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Mathemafrica - UCT MAM1000 lecture notes subject list</title>
+		<link>http://www.mathemafrica.org/?p=11387#comment-405</link>
+		<dc:creator><![CDATA[Mathemafrica - UCT MAM1000 lecture notes subject list]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2015 09:05:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11387#comment-405</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 29 &#8211; Complex numbers &#8211; trig functions of complex numbers [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 29 &#8211; Complex numbers &#8211; trig functions of complex numbers [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11387#comment-345</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2015 20:33:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11387#comment-345</guid>
+		<description><![CDATA[Cheers Abigail, spot on!
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Cheers Abigail, spot on!</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Abigail Mallows</title>
+		<link>http://www.mathemafrica.org/?p=11387#comment-344</link>
+		<dc:creator><![CDATA[Abigail Mallows]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2015 16:32:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11387#comment-344</guid>
+		<description><![CDATA[Hello Dr Shock
+In the example of sin z = w
+
+&quot;multiply both sides of the equation by 2i e^iz.&quot; The formatted z looks like (e^i) times z rather than e^(iz).]]></description>
+		<content:encoded><![CDATA[<p>Hello Dr Shock<br />
+In the example of sin z = w</p>
+<p>&#8220;multiply both sides of the equation by 2i e^iz.&#8221; The formatted z looks like (e^i) times z rather than e^(iz).</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>coding &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=coding" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Mon, 20 Apr 2020 06:44:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Mathematica details of the cooking with mathematics post</title>
+		<link>http://www.mathemafrica.org/?p=10615</link>
+		<comments>http://www.mathemafrica.org/?p=10615#comments</comments>
+		<pubDate>Sat, 06 Jun 2015 12:37:50 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Mathematica]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[graph theory]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10615</guid>
+		<description><![CDATA[<p><em>Edit: If you want to see the full code, I include everything in this post in the Mathematica file <a href="https://github.com/jonstraveladventures/foodpairing/blob/master/foodgraphs.nb">here</a>.</em></p>
+<p>I promised previously that we would go into depth into the graph theory and food calculations, so today we will do just that. This will be Mathematica heavy, so really this is only aimed at those who have played around with the <a href="http://wolfram.com/">Mathematica programming language</a>.</p>
+<p>I’ve been using this language now for over a decade, and while it is not the fastest language on the market for doing numerics-heavy calculations, it is an incredibly versatile language, and for getting code written fast, it’s hard to beat!</p>
+<p>I tend to code in what is called a <a href="http://www.wolfram.com/broadcast/video.php?c=101&#38;v=491">functional programming style</a> (ideal for Mathematica), which doesn’t use loops as you would normally find in a procedural language. Perhaps the most oft used coding syntax you will see below is of the form:</p>
+<p><strong><em>somefunction[#]&#38;/@{el1,el2,el3,el4…}</em></strong></p>
+<p>which takes the elements of a list and passes them one by one into a function.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p><em>Edit: If you want to see the full code, I include everything in this post in the Mathematica file <a href="https://github.com/jonstraveladventures/foodpairing/blob/master/foodgraphs.nb">here</a>.</em></p>
+<p>I promised previously that we would go into depth into the graph theory and food calculations, so today we will do just that. This will be Mathematica heavy, so really this is only aimed at those who have played around with the <a href="http://wolfram.com/">Mathematica programming language</a>.</p>
+<p>I’ve been using this language now for over a decade, and while it is not the fastest language on the market for doing numerics-heavy calculations, it is an incredibly versatile language, and for getting code written fast, it’s hard to beat!</p>
+<p>I tend to code in what is called a <a href="http://www.wolfram.com/broadcast/video.php?c=101&amp;v=491">functional programming style</a> (ideal for Mathematica), which doesn’t use loops as you would normally find in a procedural language. Perhaps the most oft used coding syntax you will see below is of the form:</p>
+<p><strong><em>somefunction[#]&amp;/@{el1,el2,el3,el4…}</em></strong></p>
+<p>which takes the elements of a list and passes them one by one into a function.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10615</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>A Mathematics Problem from the SBITC</title>
+		<link>http://www.mathemafrica.org/?p=10486</link>
+		<comments>http://www.mathemafrica.org/?p=10486#respond</comments>
+		<pubDate>Fri, 29 May 2015 12:05:06 +0000</pubDate>
+		<dc:creator><![CDATA[Dylan Nelson]]></dc:creator>
+				<category><![CDATA[English]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[number theory]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=10486</guid>
+		<description><![CDATA[<p>The <a href="http://www.olympiad.org.za/university-it-challenge/" target="_blank">Standard Bank IT Challenge (SBITC)</a> is an annual coding competition for undergraduate and honours students in South Africa. The contest consists of two rounds: a regional event named the &#8220;heats&#8221;, and the final. In the heats, teams of up to four students each compete against other teams from the same university, and the winning team from each of the nine top-performing universities is invited to the final round in Johannesburg. Each member of the winning team wins a prize, and the winning university receives a large cash prize, but students mostly participate for the enjoyment that is to be obtained in solving the problems, and to test their skills against a set of problems that is designed to challenge the participants.</p>
+<p>This year, the final problem from the heats (which took place on Saturday, 16 May) was fairly mathematical in nature; or more-so than the other problems at least. Essentially, the problem asks the following:</p>
+<p>We consider generalised Fibonacci sequences <img src="//s0.wp.com/latex.php?latex=T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_n" title="T_n" class="latex" /> which satisfy the same recurrence relation <img src="//s0.wp.com/latex.php?latex=T_%7Bn+%2B+2%7D+%3D+T_%7Bn+%2B+1%7D+%2B+T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_{n + 2} = T_{n + 1} + T_n" title="T_{n + 2} = T_{n + 1} + T_n" class="latex" /> as the Fibonacci numbers, but with the first two terms <img src="//s0.wp.com/latex.php?latex=T_1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_1" title="T_1" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=T_2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_2" title="T_2" class="latex" /> being arbitrary positive integers.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.olympiad.org.za/university-it-challenge/" target="_blank">Standard Bank IT Challenge (SBITC)</a> is an annual coding competition for undergraduate and honours students in South Africa. The contest consists of two rounds: a regional event named the &#8220;heats&#8221;, and the final. In the heats, teams of up to four students each compete against other teams from the same university, and the winning team from each of the nine top-performing universities is invited to the final round in Johannesburg. Each member of the winning team wins a prize, and the winning university receives a large cash prize, but students mostly participate for the enjoyment that is to be obtained in solving the problems, and to test their skills against a set of problems that is designed to challenge the participants.</p>
+<p>This year, the final problem from the heats (which took place on Saturday, 16 May) was fairly mathematical in nature; or more-so than the other problems at least. Essentially, the problem asks the following:</p>
+<p>We consider generalised Fibonacci sequences <img src="//s0.wp.com/latex.php?latex=T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_n" title="T_n" class="latex" /> which satisfy the same recurrence relation <img src="//s0.wp.com/latex.php?latex=T_%7Bn+%2B+2%7D+%3D+T_%7Bn+%2B+1%7D+%2B+T_n&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_{n + 2} = T_{n + 1} + T_n" title="T_{n + 2} = T_{n + 1} + T_n" class="latex" /> as the Fibonacci numbers, but with the first two terms <img src="//s0.wp.com/latex.php?latex=T_1&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_1" title="T_1" class="latex" /> and <img src="//s0.wp.com/latex.php?latex=T_2&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="T_2" title="T_2" class="latex" /> being arbitrary positive integers.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=10486</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

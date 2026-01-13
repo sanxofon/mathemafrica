@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taylor polynomial &#8211; Mathemafrica</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;tag=taylor-polynomial" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:17:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>UCT MAM1000 lecture notes part 20 &#8211; part ii &#8211; Monday 17th August</title>
+		<link>http://www.mathemafrica.org/?p=11189</link>
+		<comments>http://www.mathemafrica.org/?p=11189#comments</comments>
+		<pubDate>Sun, 16 Aug 2015 08:20:08 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+				<category><![CDATA[Courses]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[First year]]></category>
+		<category><![CDATA[Level: intermediate]]></category>
+		<category><![CDATA[MAM1000]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[Lecture notes]]></category>
+		<category><![CDATA[Maclaurin polynomial]]></category>
+		<category><![CDATA[MAM1000W]]></category>
+		<category><![CDATA[taylor polynomial]]></category>
+		<category><![CDATA[UCT]]></category>
+
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11189</guid>
+		<description><![CDATA[<p>So, we saw in the last section that we could work out the polynomial expression for <img src="//s0.wp.com/latex.php?latex=%281%2Bx%29%5E5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(1+x)^5" title="(1+x)^5" class="latex" /> both using combinatorics as well as using calculus. We had also found previously that for small <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> we could just take the first couple of terms of the polynomial and it was a good approximation of the function itself, depending on how accurate we needed the answer. For instance, for small <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />, <img src="//s0.wp.com/latex.php?latex=1%2B5x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1+5x" title="1+5x" class="latex" /> is a reasonable approximation. One thing to note is that the value of these two functions is exactly the same at <img src="//s0.wp.com/latex.php?latex=x%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=0" title="x=0" class="latex" /> and the derivative of both functions is the same at <img src="//s0.wp.com/latex.php?latex=x%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=0" title="x=0" class="latex" />. The second derivatives are not the same, but had we taken the next term in the polynomial, the second derivatives would have matched as well.</p>
+<p>OK, let&#8217;s take this one step further and repeat everything exactly as before, but now with the power, not as 5 but as 5.2 and see what happens.&#8230;</p>]]></description>
+				<content:encoded><![CDATA[<p>So, we saw in the last section that we could work out the polynomial expression for <img src="//s0.wp.com/latex.php?latex=%281%2Bx%29%5E5&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="(1+x)^5" title="(1+x)^5" class="latex" /> both using combinatorics as well as using calculus. We had also found previously that for small <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" /> we could just take the first couple of terms of the polynomial and it was a good approximation of the function itself, depending on how accurate we needed the answer. For instance, for small <img src="//s0.wp.com/latex.php?latex=x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x" title="x" class="latex" />, <img src="//s0.wp.com/latex.php?latex=1%2B5x&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="1+5x" title="1+5x" class="latex" /> is a reasonable approximation. One thing to note is that the value of these two functions is exactly the same at <img src="//s0.wp.com/latex.php?latex=x%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=0" title="x=0" class="latex" /> and the derivative of both functions is the same at <img src="//s0.wp.com/latex.php?latex=x%3D0&#038;bg=ffffff&#038;fg=000&#038;s=0" alt="x=0" title="x=0" class="latex" />. The second derivatives are not the same, but had we taken the next term in the polynomial, the second derivatives would have matched as well.</p>
+<p>OK, let&#8217;s take this one step further and repeat everything exactly as before, but now with the power, not as 5 but as 5.2 and see what happens.&hellip;</p>]]></content:encoded>
+			<wfw:commentRss>http://www.mathemafrica.org/?feed=rss2&#038;p=11189</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

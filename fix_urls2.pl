@@ -1,0 +1,1 @@
+s{http://www\.mathemafrica\.org/\?([^"'#<]+)}{/mathemafrica/$1.html}gi;

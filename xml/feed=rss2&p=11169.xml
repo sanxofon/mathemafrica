@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Pascal&#8217;s triangle, fractals and the Sierpinski triangle</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11169" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11169</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Thu, 10 Jan 2019 13:57:22 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Margaret Spicer</title>
+		<link>http://www.mathemafrica.org/?p=11169#comment-1513</link>
+		<dc:creator><![CDATA[Margaret Spicer]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2016 06:58:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11169#comment-1513</guid>
+		<description><![CDATA[Nice!]]></description>
+		<content:encoded><![CDATA[<p>Nice!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Sara Muller</title>
+		<link>http://www.mathemafrica.org/?p=11169#comment-286</link>
+		<dc:creator><![CDATA[Sara Muller]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2015 17:08:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11169#comment-286</guid>
+		<description><![CDATA[Tres cool! I do like your animation. Also Cantor sets. Good old Cantor went mad didn&#039;t he?]]></description>
+		<content:encoded><![CDATA[<p>Tres cool! I do like your animation. Also Cantor sets. Good old Cantor went mad didn&#8217;t he?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

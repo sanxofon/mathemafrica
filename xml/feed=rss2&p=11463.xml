@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: UCT MAM1000 lecture notes part 34 &#8211; differential equations part iii &#8211; Direction flows and Euler&#8217;s method</title>
+	<atom:link href="http://www.mathemafrica.org/?feed=rss2&#038;p=11463" rel="self" type="application/rss+xml" />
+	<link>http://www.mathemafrica.org/?p=11463</link>
+	<description>All about maths in Africa</description>
+	<lastBuildDate>Sat, 06 Aug 2016 14:36:17 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: UCT MAM1000 lecture notes subject links &#8211; Mathemafrica</title>
+		<link>http://www.mathemafrica.org/?p=11463#comment-1247</link>
+		<dc:creator><![CDATA[UCT MAM1000 lecture notes subject links &#8211; Mathemafrica]]></dc:creator>
+		<pubDate>Sat, 02 Apr 2016 13:03:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11463#comment-1247</guid>
+		<description><![CDATA[[&#8230;] MAM1000 lecture notes part 34 &#8211; Differential equations &#8211; direction flows and Euler&#038;#8217&#8230; [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] MAM1000 lecture notes part 34 &#8211; Differential equations &#8211; direction flows and Euler&amp;#8217&#8230; [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Shock</title>
+		<link>http://www.mathemafrica.org/?p=11463#comment-383</link>
+		<dc:creator><![CDATA[Jonathan Shock]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2015 05:51:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11463#comment-383</guid>
+		<description><![CDATA[Hi there, yes, indeed that should have been (3,0). Thank you for that.
+
+J]]></description>
+		<content:encoded><![CDATA[<p>Hi there, yes, indeed that should have been (3,0). Thank you for that.</p>
+<p>J</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Nikheil</title>
+		<link>http://www.mathemafrica.org/?p=11463#comment-381</link>
+		<dc:creator><![CDATA[Nikheil]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2015 17:08:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mathemafrica.org/?p=11463#comment-381</guid>
+		<description><![CDATA[Why is it that (2,-1) which gives us a gradient of 1 take us to (2,0)? Why is it not (3,0)? a slope of one does not take us vertically up.]]></description>
+		<content:encoded><![CDATA[<p>Why is it that (2,-1) which gives us a gradient of 1 take us to (2,0)? Why is it not (3,0)? a slope of one does not take us vertically up.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
