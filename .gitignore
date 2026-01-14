@@ -1,0 +1,7 @@
+.github/
+.markdownlint.json
+__*
+*.log
+venv/
+parse_authors.py
+scripts/

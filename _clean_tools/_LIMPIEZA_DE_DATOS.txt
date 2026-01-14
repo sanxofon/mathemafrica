@@ -86,3 +86,8 @@ REPLCE: http:\\/\\/localhost
 SEARCH & REPLACE EN VSCODE FOLDER:
 SEARCH: www\.mathemafrica\.org
 REPLCE: localhost
+---
+SEARCH & REPLACE EN VSCODE FOLDER:
+SEARCH: \n*[\t ]*<!--\[if(?: lte)? IE(?: [89])?\]>\n.*\n[\t ]*<!\[endif\]-->\n*
+REPLACE: \n
+---
